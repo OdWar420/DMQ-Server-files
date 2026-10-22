@@ -1,4 +1,4 @@
-# What is in this archive
+# 📖 What is in this archive
 
 A hand-written guide to the collection: what each item is, who made it and
 why it matters. Descriptions come from the readme files that shipped with the
@@ -13,7 +13,7 @@ QuakeWorld server tools, and the old dmq.geeky.cc website.
 
 ---
 
-## DMQ — Deathmatch Quake for Half-Life
+## 🎮 DMQ — Deathmatch Quake for Half-Life
 
 DMQ brought Quake-style deathmatch to the Half-Life engine. DMQ 2 was written
 mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
@@ -31,7 +31,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `dmq/server-plugins/plugin_mfrx_details.zip` | mfrx details plugin (AMX) |
 | `dmq/website/dmq.geeky.cc/` | Saved pages of the DMQ community site: servers, players, textures, requests |
 
-## DMC — Deathmatch Classic (Half-Life)
+## 🔫 DMC — Deathmatch Classic (Half-Life)
 
 | Path | What it is |
 |---|---|
@@ -45,7 +45,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `dmc/amxmodx-plugins/qs_manstanding.zip` | "Man standing" AMX Mod X plugin with sounds |
 | `dmc/hlsdk/` | Half-Life SDK 2.3 (patches p1–p3) as mirrored from metamod.sourceforge.net |
 
-## Quake maps
+## 🗺️ Quake maps
 
 | Path | What it is |
 |---|---|
@@ -68,7 +68,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `quake/maps/packs/ztricks*, zjumps` | Trick and jump practice maps |
 | Other zips in `packs/` | Single DM maps with readmes: Tainted Meat, Endless Fury, Dead Bodies Everywhere, DMZ, jvx1, Summer, UltraViolence, Zed, studioa … |
 
-## Quake mods and game modes
+## 🚀 Quake mods and game modes
 
 | Path | What it is |
 |---|---|
@@ -92,7 +92,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `quake/mods/QECTF*`, `qectf_v1.*.zip` | Capture the Flag for the 2021 Quake remaster, by JPiolho |
 | `quake/mods/QuakeMegaMod-main.zip` | Quake MegaMod: multiplayer mod collection for the 2021 remaster |
 
-## QuakeC and engine source code
+## 💾 QuakeC and engine source code
 
 | Path | What it is |
 |---|---|
@@ -104,7 +104,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `quake/qc-source/progs_dump_devkit_v200.zip` | progs_dump 2.0 mapping devkit by dumptruck_ds and iw |
 | `quake/qc-source/quake_authmdl-master.zip` | authmdl: authentic model improvements for Quake |
 
-## Engines and clients
+## 🖥️ Engines and clients
 
 | Path | What it is |
 |---|---|
@@ -117,7 +117,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `quake/engines/Quake compat Kurok PC.rar` | Kurok-compatible DarkPlaces setup |
 | `quake/engines/QuakePatches_Win_x64.7z` | QuakePatches for the 2021 remaster (16 players, lobby fixes …) |
 
-## Servers and administration
+## 🌐 Servers and administration
 
 | Path | What it is |
 |---|---|
@@ -130,7 +130,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `quake/server/missionpacks.qwprogs.zip` | QuakeWorld progs for both mission packs (Scourge of Armageddon, Dissolution of Eternity) |
 | `quake/server/tcpserver-1.0.tar.gz` | Small TCP server in C; QWAdmin's setup notes refer to compiling it |
 
-## Tools
+## 🛠️ Tools
 
 | Path | What it is |
 |---|---|
@@ -146,7 +146,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `quake/tools/launchers/` | Quake Injector (map installer), QEModList, Quake MapDB Editor |
 | `quake/tools/bots/Quake-Nav-Depot-master.zip` | Bot navigation files for the 2021 remaster |
 
-## Sounds and textures
+## 🔊 Sounds and textures
 
 | Path | What it is |
 |---|---|
@@ -157,7 +157,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `quake/sounds/tts.rar` | Text-to-speech player name sounds |
 | `quake/textures/` | `START.WAD` and a set of HUD number textures |
 
-## Other games
+## 👾 Other games
 
 | Path | What it is |
 |---|---|
@@ -166,13 +166,13 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `other-games/quake3/` | Quake 3 maps (Q1 DM remakes: The Bad Place, The Cistern, The Dark Zone, Acrophobia; Aardappel's and Kit Carson's maps), Rocket Arena 3 soundtrack, Q2→Q3 converter |
 | `other-games/doom/` | Doom 1.8 WAD and GZDoom 4.7.1 |
 
-## Misc
+## 📎 Misc
 
 `misc/` holds installers that were part of the collection but are not Quake
 content (VSCode, .NET SDK, Java, JDownloader, HTTrack, GameRanger, LiveSplit,
 Notepad++ plugins) plus `newdir.txt`, an old directory listing.
 
-## Where everything came from
+## 🧭 Where everything came from
 
 Every file's original location is in `tools/MOVES.tsv` (first sort) and
 `tools/MOVES-2.tsv` (corrections: Quake 2/3 and Half-Life maps moved out of
