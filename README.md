@@ -19,16 +19,14 @@ to what he built.
 
 To the people who played DMQ he was more than a name in a readme. He was a
 friend from another country: someone you knew through the game, never met in
-person, and faced in more matches than anyone could count. PIX struggled with
-inner demons, and in the end they got to him.
+person, and faced in more matches than anyone could count.
 
 This archive is kept in his honour. His source code is preserved unchanged in
 [`dmq/source/dmq2-source-2/`](dmq/source/dmq2-source-2/), with these words
 added at the top of its readme:
 
 > Memorial for PIX, the legend that was a god in coding, that did most of the
-> coding for DMQ2 alone, but sadly PIX had inner demons, and the demons won :(
-> Everytime Quake is on my mind I think about you old friend!
+> coding for DMQ2 alone. Everytime Quake is on my mind I think about you old friend!
 > Rest in peace PIX!
 > &nbsp;-Billy
 
