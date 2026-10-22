@@ -1,0 +1,1654 @@
+# Microsoft Developer Studio Generated Dependency File, included by dmc.mak
+
+.\quake_gun.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\quake_gun.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\quake_weapons_all.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\quake_gun.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\animating.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\animation.cpp : \
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\common\studio_event.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\engine\studio.h"\
+	"..\..\utils\common\mathlib.h"\
+	".\activity.h"\
+	".\activitymap.h"\
+	".\animation.h"\
+	".\enginecallback.h"\
+	".\monsterevent.h"\
+	".\scriptevent.h"\
+	
+
+.\bmodels.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\buttons.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\cbase.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\client.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\entity_state.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\common\netadr.h"\
+	"..\..\common\usercmd.h"\
+	"..\..\common\weaponinfo.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\customentity.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	"..\pm_shared\pm_info.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\dme_utility.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\spectator.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\combat.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\func_break.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\dme_arena.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\hltv.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\dme_arena.h"\
+	".\dme_utility.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\dme_clanarena.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\dme_clanarena.h"\
+	".\dme_utility.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\quake_gun.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\dme_ctf.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\dme_ctf.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\dme_match.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\hltv.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\dme_match.h"\
+	".\dme_utility.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\dme_midair.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\hltv.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\dme_midair.h"\
+	".\dme_utility.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\dme_rumble.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\hltv.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\dme_rumble.h"\
+	".\dme_utility.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\dme_utility.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\dme_utility.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\quake_items.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\doors.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\effects.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\customentity.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\engine\shake.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\func_break.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\explode.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\explode.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\func_break.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\explode.h"\
+	".\extdll.h"\
+	".\func_break.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\game.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\gamerules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\dme_arena.h"\
+	".\dme_clanarena.h"\
+	".\dme_ctf.h"\
+	".\dme_match.h"\
+	".\dme_midair.h"\
+	".\dme_rumble.h"\
+	".\dme_utility.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\globals.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\h_ai.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\h_export.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\hook.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\hook.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\items.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\lights.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\maprules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\maprules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\monsters.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\monsterstate.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\multiplay_gamerules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\hltv.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\dme_ctf.h"\
+	".\dme_match.h"\
+	".\dme_utility.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\quake_items.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\nodes.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\observer.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\pm_shared\pm_shared.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\pathcorner.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\trains.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\plane.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\cdll_dll.h"\
+	".\extdll.h"\
+	".\plane.h"\
+	".\vector.h"\
+	
+
+.\plats.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\trains.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\player.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\hltv.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\engine\shake.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	"..\pm_shared\pm_shared.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\hook.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\quake_gun.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\trains.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+..\pm_shared\pm_debug.c : \
+	"..\..\common\const.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\common\mathlib.h"\
+	"..\..\common\pmtrace.h"\
+	"..\..\common\usercmd.h"\
+	"..\pm_shared\pm_debug.h"\
+	"..\pm_shared\pm_defs.h"\
+	"..\pm_shared\pm_info.h"\
+	"..\pm_shared\pm_movevars.h"\
+	"..\pm_shared\pm_shared.h"\
+	
+
+..\pm_shared\pm_math.c : \
+	"..\..\common\const.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\common\mathlib.h"\
+	
+
+..\pm_shared\pm_shared.c : \
+	"..\..\common\const.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\common\mathlib.h"\
+	"..\..\common\pmtrace.h"\
+	"..\..\common\usercmd.h"\
+	"..\pm_shared\pm_debug.h"\
+	"..\pm_shared\pm_defs.h"\
+	"..\pm_shared\pm_info.h"\
+	"..\pm_shared\pm_movevars.h"\
+	"..\pm_shared\pm_shared.h"\
+	
+
+.\quake_items.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\hltv.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\common\studio_event.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\engine\shake.h"\
+	"..\..\engine\studio.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\quake_gun.h"\
+	".\quake_items.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\quake_nail.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\quake_player.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\hltv.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\quake_rocket.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\schedule.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\defaultai.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\scripted.h"\
+	".\scriptevent.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\singleplay_gamerules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\skill.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\sound.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\spectator.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\spectator.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\subs.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\nodes.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\teamplay_gamerules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\triggers.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\trains.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\util.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\engine\shake.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+..\..\game_shared\voice_gamemgr.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\weapons.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\quake_gun.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\world.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\common\const.h"\
+	"..\..\common\crc.h"\
+	"..\..\common\cvardef.h"\
+	"..\..\common\event_flags.h"\
+	"..\..\common\in_buttons.h"\
+	"..\..\engine\custom.h"\
+	"..\..\engine\edict.h"\
+	"..\..\engine\eiface.h"\
+	"..\..\engine\progdefs.h"\
+	"..\..\game_shared\bitvec.h"\
+	"..\..\game_shared\voice_common.h"\
+	"..\..\game_shared\voice_gamemgr.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\decals.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	

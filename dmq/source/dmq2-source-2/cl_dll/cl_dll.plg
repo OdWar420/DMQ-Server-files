@@ -1,0 +1,168 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: cl_dll - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Richard\LOCALS~1\Temp\RSPB8.tmp" with contents
+[
+/nologo /MT /W3 /GX /Zi /O2 /I "..\utils\common" /I "..\engine" /I "..\common" /I "..\utils\vgui\include" /I "..\dlls" /I "..\..\engine" /I "..\..\common" /I "..\pm_shared" /I "..\..\utils\vgui\include" /I "." /I "..\..\game_shared" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "CLIENT_DLL" /D "DMC_BUILD" /FR".\Release/" /Fp".\Release/cl_dll.pch" /YX /Fo".\Release/" /Fd".\Release/" /FD /c 
+"C:\SDK\Multiplayer Source\dmc\cl_dll\hud_spectator.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Richard\LOCALS~1\Temp\RSPB8.tmp" 
+Creating temporary file "C:\DOCUME~1\Richard\LOCALS~1\Temp\RSPB9.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib winmm.lib ..\..\utils\vgui\lib\win32_vc6\vgui.lib wsock32.lib /nologo /subsystem:windows /dll /incremental:no /pdb:".\Release/client.pdb" /map:".\Release/client.map" /machine:I386 /out:".\Release\client.dll" /implib:".\Release/client.lib" 
+".\Release\ev_hldm.obj"
+".\Release\hud_spectator.obj"
+".\Release\interface.obj"
+".\Release\quake_baseentity.obj"
+".\Release\quake_events.obj"
+".\Release\quake_gun.obj"
+".\Release\quake_objects.obj"
+".\Release\quake_weapons.obj"
+".\Release\quake_weapons_all.obj"
+".\Release\studio_util.obj"
+".\Release\ammo.obj"
+".\Release\ammo_secondary.obj"
+".\Release\ammohistory.obj"
+".\Release\battery.obj"
+".\Release\cdll_int.obj"
+".\Release\com_weapons.obj"
+".\Release\death.obj"
+".\Release\demo.obj"
+".\Release\DMC_Teleporters.obj"
+".\Release\entity.obj"
+".\Release\ev_common.obj"
+".\Release\events.obj"
+".\Release\GameStudioModelRenderer.obj"
+".\Release\geiger.obj"
+".\Release\health.obj"
+".\Release\hud.obj"
+".\Release\hud_msg.obj"
+".\Release\hud_redraw.obj"
+".\Release\hud_servers.obj"
+".\Release\hud_update.obj"
+".\Release\in_camera.obj"
+".\Release\input.obj"
+".\Release\inputw32.obj"
+".\Release\menu.obj"
+".\Release\message.obj"
+".\Release\parsemsg.obj"
+".\Release\pm_debug.obj"
+".\Release\pm_math.obj"
+".\Release\pm_shared.obj"
+".\Release\saytext.obj"
+".\Release\status_icons.obj"
+".\Release\statusbar.obj"
+".\Release\StudioModelRenderer.obj"
+".\Release\text_message.obj"
+".\Release\train.obj"
+".\Release\tri.obj"
+".\Release\util.obj"
+".\Release\vgui_checkbutton2.obj"
+".\Release\vgui_CustomObjects.obj"
+".\Release\vgui_grid.obj"
+".\Release\vgui_helpers.obj"
+".\Release\vgui_int.obj"
+".\Release\vgui_listbox.obj"
+".\Release\vgui_loadtga.obj"
+".\Release\vgui_MOTDWindow.obj"
+".\Release\vgui_SchemeManager.obj"
+".\Release\vgui_ScorePanel.obj"
+".\Release\vgui_scrollbar2.obj"
+".\Release\vgui_ServerBrowser.obj"
+".\Release\vgui_slider2.obj"
+".\Release\vgui_SpectatorPanel.obj"
+".\Release\vgui_viewport.obj"
+".\Release\view.obj"
+".\Release\voice_banmgr.obj"
+".\Release\voice_status.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\Richard\LOCALS~1\Temp\RSPB9.tmp"
+<h3>Output Window</h3>
+Compiling...
+hud_spectator.cpp
+Linking...
+   Creating library .\Release/client.lib and object .\Release/client.exp
+Creating temporary file "C:\DOCUME~1\Richard\LOCALS~1\Temp\RSPBD.tmp" with contents
+[
+/nologo /o".\Release/cl_dll.bsc" 
+".\Release\ev_hldm.sbr"
+".\Release\hud_spectator.sbr"
+".\Release\interface.sbr"
+".\Release\quake_baseentity.sbr"
+".\Release\quake_events.sbr"
+".\Release\quake_gun.sbr"
+".\Release\quake_objects.sbr"
+".\Release\quake_weapons.sbr"
+".\Release\quake_weapons_all.sbr"
+".\Release\studio_util.sbr"
+".\Release\ammo.sbr"
+".\Release\ammo_secondary.sbr"
+".\Release\ammohistory.sbr"
+".\Release\battery.sbr"
+".\Release\cdll_int.sbr"
+".\Release\com_weapons.sbr"
+".\Release\death.sbr"
+".\Release\demo.sbr"
+".\Release\DMC_Teleporters.sbr"
+".\Release\entity.sbr"
+".\Release\ev_common.sbr"
+".\Release\events.sbr"
+".\Release\GameStudioModelRenderer.sbr"
+".\Release\geiger.sbr"
+".\Release\health.sbr"
+".\Release\hud.sbr"
+".\Release\hud_msg.sbr"
+".\Release\hud_redraw.sbr"
+".\Release\hud_servers.sbr"
+".\Release\hud_update.sbr"
+".\Release\in_camera.sbr"
+".\Release\input.sbr"
+".\Release\inputw32.sbr"
+".\Release\menu.sbr"
+".\Release\message.sbr"
+".\Release\parsemsg.sbr"
+".\Release\pm_debug.sbr"
+".\Release\pm_math.sbr"
+".\Release\pm_shared.sbr"
+".\Release\saytext.sbr"
+".\Release\status_icons.sbr"
+".\Release\statusbar.sbr"
+".\Release\StudioModelRenderer.sbr"
+".\Release\text_message.sbr"
+".\Release\train.sbr"
+".\Release\tri.sbr"
+".\Release\util.sbr"
+".\Release\vgui_checkbutton2.sbr"
+".\Release\vgui_CustomObjects.sbr"
+".\Release\vgui_grid.sbr"
+".\Release\vgui_helpers.sbr"
+".\Release\vgui_int.sbr"
+".\Release\vgui_listbox.sbr"
+".\Release\vgui_loadtga.sbr"
+".\Release\vgui_MOTDWindow.sbr"
+".\Release\vgui_SchemeManager.sbr"
+".\Release\vgui_ScorePanel.sbr"
+".\Release\vgui_scrollbar2.sbr"
+".\Release\vgui_ServerBrowser.sbr"
+".\Release\vgui_slider2.sbr"
+".\Release\vgui_SpectatorPanel.sbr"
+".\Release\vgui_viewport.sbr"
+".\Release\view.sbr"
+".\Release\voice_banmgr.sbr"
+".\Release\voice_status.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\Richard\LOCALS~1\Temp\RSPBD.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+client.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dmc", "..\dlls\dmc.vcproj", "{646E05DC-5938-4928-BEAD-C7B6D8AF7CF4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cl_dll", "..\cl_dll\cl_dll.vcproj", "{B76E8298-4C91-48FD-BCB5-93F1E9A0EAD7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{646E05DC-5938-4928-BEAD-C7B6D8AF7CF4}.Debug.ActiveCfg = Debug|Win32
+		{646E05DC-5938-4928-BEAD-C7B6D8AF7CF4}.Debug.Build.0 = Debug|Win32
+		{646E05DC-5938-4928-BEAD-C7B6D8AF7CF4}.Release.ActiveCfg = Release|Win32
+		{646E05DC-5938-4928-BEAD-C7B6D8AF7CF4}.Release.Build.0 = Release|Win32
+		{B76E8298-4C91-48FD-BCB5-93F1E9A0EAD7}.Debug.ActiveCfg = Debug|Win32
+		{B76E8298-4C91-48FD-BCB5-93F1E9A0EAD7}.Debug.Build.0 = Debug|Win32
+		{B76E8298-4C91-48FD-BCB5-93F1E9A0EAD7}.Release.ActiveCfg = Release|Win32
+		{B76E8298-4C91-48FD-BCB5-93F1E9A0EAD7}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
