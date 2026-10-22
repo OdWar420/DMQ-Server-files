@@ -8,7 +8,8 @@ longer available anywhere else online. This archive preserves that collection
 in one place.
 
 - **Full archive (9.3 GiB, ~13 300 files, 10 963 maps):** https://huggingface.co/datasets/Nomatter/dmq-server-files
-- **What is in it:** [CATALOG.md](CATALOG.md) — overview per folder
+- **What is in it:** [INDEX.md](INDEX.md) — a guide to every item: what it is and who made it
+- **Folder overview:** [CATALOG.md](CATALOG.md) — file counts and sizes per folder
 - **Find a map:** [catalog/maps.csv](catalog/maps.csv) — every map, including
   maps inside archives, with the in-game title read from the BSP file
 - **Find anything inside a zip/rar/7z:** [catalog/archive-contents.csv](catalog/archive-contents.csv)
@@ -46,17 +47,17 @@ Hugging Face dataset linked above, under the same paths the catalog uses.
 | Folder | What is there |
 |---|---|
 | `dmq/source/` | DMQ 2 source code by PIX (based on DMC Pro by TrenD*KilleR) |
-| `dmq/releases/` | DMQ2 beta 3 and the required server packs (mapcycles, vote config) |
+| `dmq/releases/` | DMQ2 beta 3, three mfrx server builds and the required server packs (mapcycles, vote config) |
 | `dmq/map-textures/` | High- and low-res texture WADs for the DMQ maps |
 | `dmq/server-plugins/` | mfrx plugins (vote, details) for DMQ servers |
 | `dmq/website/` | Saved pages from the old dmq.geeky.cc site |
 | `dmc/source/` | DMC Pro 2.0 source code |
 | `dmc/releases/` | DMC Pro 1.0 and a DMC client.dll |
-| `dmc/maps/` | Standard DMC maps and the dmc.wad textures |
+| `dmc/maps/` | Standard DMC maps, the dmc.wad textures and 11 loose Half-Life-engine maps |
 | `dmc/hlsdk/` | Half-Life SDK |
 | `dmc/amxmodx-plugins/` | AMX Mod X plugins |
-| `quake/maps/bsp/` | ~6 600 loose Quake maps (.bsp) |
-| `quake/maps/single-map-zips/` | ~3 300 single-map zips with their readme .txt files |
+| `quake/maps/bsp/` | 6 526 loose Quake 1 maps (.bsp) |
+| `quake/maps/single-map-zips/` | 3 331 single-map zips with their readme .txt files |
 | `quake/maps/packs/` | Map packs (incl. the 1 GB deathmatch-maps.zip, Rocket Arena maps) |
 | `quake/mods/` | Rocket Arena 1.2 (client + server), Clan Arena X, 3Wave CTF, Team Fortress, hook mods, QE mods … |
 | `quake/qc-source/` | QuakeC source: Rocket Arena 1.2, CRMod, clean QC, progs 1.06, id's q1source … |
@@ -65,14 +66,14 @@ Hugging Face dataset linked above, under the same paths the catalog uses.
 | `quake/tools/` | Editors (TrenchBroom, BSP, QuArK, Qoole), compilers (ericw-tools, tyrutils, fteqcc), pak tools, launchers |
 | `quake/sounds/` | Announcer packs (Quake 3, Unreal Tournament) and game sounds |
 | `quake/textures/` | Texture WADs |
-| `other-games/` | Quake 2, Quake 3 and Doom files that ended up in the collection |
+| `other-games/` | Quake 2 maps (65), Quake 3 maps and Doom files that ended up in the collection |
 | `misc/` | Unrelated installers kept as they were found (VSCode, .NET, JRE …) |
 | `tools/` | Scripts that built this layout and the catalog |
 
 ## How this archive was put together
 
 The files were imported in their original layout first (the first commits),
-then sorted in one rename commit. `tools/MOVES.tsv` lists every move from the
+then sorted in one rename commit. `tools/MOVES.tsv` and `tools/MOVES-2.tsv` list every move from the
 old path to the new one, so anything can be traced back to where it was found.
 13 byte-identical duplicates were dropped during sorting.
 
