@@ -1,0 +1,303 @@
+# Inside the archives in `quake/tools/editors/`
+
+2 archives. Click one to see its files.
+
+<details>
+<summary><code>Map_edit_pro.zip</code> (11 files)</summary>
+
+- `MAPEDPRO.TXT` 6 KB
+- `ID1/SCRIPT.RC` 5 KB
+- `MAP_EDIT/PROGS.DAT` 428 KB
+- `MAP_EDIT/PROGS/ADMIN.QC` 20 KB
+- `MAP_EDIT/PROGS/ITEMS.QC` 30 KB
+- `MAP_EDIT/PROGS/CLIENT.QC` 33 KB
+- `MAP_EDIT/PROGS/WORLD.QC` 11 KB
+- `MAP_EDIT/PROGS/DEFS.QC` 17 KB
+- `MAP_EDIT/PROGS/WEAPONS.QC` 31 KB
+- `MAP_EDIT/PROGS/COMBAT.QC` 6 KB
+- `MAP_EDIT/PROGS/PROGS.SRC` 0 KB
+
+</details>
+
+<details>
+<summary><code>TrenchBroom-Win64-v2021.1-Release.7z</code> (276 files)</summary>
+
+- `defaults/assets/textures/__TB_empty.png` 1 KB
+- `fonts/SIL Open Font License.txt` 4 KB
+- `fonts/SourceSansPro-Regular.otf` 124 KB
+- `FreeImage.dll` 6780 KB
+- `freetype.dll` 822 KB
+- `games/Daikatana/colormap.bmp` 81 KB
+- `games/Daikatana/Common.fgd` 52 KB
+- `games/Daikatana/Episode 1.fgd` 8 KB
+- `games/Daikatana/Episode 2.fgd` 6 KB
+- `games/Daikatana/Episode 3.fgd` 9 KB
+- `games/Daikatana/Episode 4.fgd` 7 KB
+- `games/Daikatana/GameConfig.cfg` 11 KB
+- `games/Daikatana/Icon.png` 1 KB
+- `games/DDayNormandy/colormap.pcx` 95 KB
+- `games/DDayNormandy/dday.fgd` 20 KB
+- `games/DDayNormandy/GameConfig.cfg` 7 KB
+- `games/DDayNormandy/Icon.png` 6 KB
+- `games/DigitalPaintball2/GameConfig.cfg` 8 KB
+- `games/DigitalPaintball2/Icon.png` 2 KB
+- `games/DigitalPaintball2/pball2.fgd` 41 KB
+- `games/Generic/GameConfig.cfg` 1 KB
+- `games/Generic/Generic.fgd` 0 KB
+- `games/Generic/Icon.png` 3 KB
+- `games/Halflife/GameConfig.cfg` 2 KB
+- `games/Halflife/HalfLife.fgd` 69 KB
+- `games/Halflife/Icon.png` 3 KB
+- `games/Heretic2/GameConfig.cfg` 9 KB
+- `games/Heretic2/heretic2.fgd` 65 KB
+- `games/Heretic2/Icon.png` 4 KB
+- `games/Hexen2/GameConfig.cfg` 1 KB
+- `games/Hexen2/Hexen2.fgd` 56 KB
+- `games/Hexen2/Icon.png` 5 KB
+- `games/Hexen2/palette.lmp` 1 KB
+- `games/Kingpin/colormap.pcx` 95 KB
+- `games/Kingpin/GameConfig.cfg` 9 KB
+- `games/Kingpin/Icon.png` 7 KB
+- `games/Kingpin/kingpin.fgd` 125 KB
+- `games/Neverball/assets/__tb_generic_ring_05.obj` 9 KB
+- `games/Neverball/assets/__tb_info_player_deathmatch.obj` 9 KB
+- `games/Neverball/assets/__tb_info_player_start.obj` 66 KB
+- `games/Neverball/assets/__tb_info_player_start.png` 47 KB
+- `games/Neverball/assets/__tb_item_health_large.obj` 63 KB
+- `games/Neverball/assets/__tb_item_health_small.obj` 64 KB
+- `games/Neverball/assets/__tb_light_1.obj` 7 KB
+- `games/Neverball/assets/__tb_light_10.obj` 7 KB
+- `games/Neverball/assets/__tb_light_5.obj` 7 KB
+- `games/Neverball/GameConfig.cfg` 2 KB
+- `games/Neverball/Icon.png` 10 KB
+- `games/Neverball/initial_neverball_map.map` 4 KB
+- `games/Neverball/neverball.fgd` 12 KB
+- `games/Quake/GameConfig.cfg` 2 KB
+- `games/Quake/Icon.png` 5 KB
+- `games/Quake/Quake.fgd` 19 KB
+- `games/Quake/Quoth2.fgd` 50 KB
+- `games/Quake/Rubicon2.def` 36 KB
+- `games/Quake/Teamfortress.fgd` 43 KB
+- `games/Quake2/colormap.pcx` 95 KB
+- `games/Quake2/GameConfig.cfg` 7 KB
+- `games/Quake2/Icon.png` 5 KB
+- `games/Quake2/Quake2.fgd` 36 KB
+- `games/Quake3/entities.ent` 224 KB
+- `games/Quake3/GameConfig.cfg` 4 KB
+- `games/Quake3/Icon.png` 5 KB
+- `games/Wrath/GameConfig.cfg` 4 KB
+- `games/Wrath/Icon.png` 2 KB
+- `games/Wrath/wrath.fgd` 17 KB
+- `images/Add.svg` 2 KB
+- `images/AppIcon.png` 77 KB
+- `images/BrushTool.svg` 5 KB
+- `images/ClipTool.svg` 6 KB
+- `images/ColorPreferences.svg` 1 KB
+- `images/credits.md` 0 KB
+- `images/DefaultGameIcon.svg` 3 KB
+- `images/DocIcon.png` 3 KB
+- `images/Down.svg` 2 KB
+- `images/DuplicateObjects.svg` 4 KB
+- `images/EdgeTool.svg` 4 KB
+- `images/FaceTool.svg` 3 KB
+- `images/FlipHorizontally.svg` 4 KB
+- `images/FlipTextureH.svg` 2 KB
+- `images/FlipTextureV.svg` 2 KB
+- `images/FlipVertically.svg` 4 KB
+- `images/GeneralPreferences.svg` 6 KB
+- `images/Hidden_off.svg` 3 KB
+- `images/Hidden_on.svg` 3 KB
+- `images/IssueBrowser.svg` 2 KB
+- `images/KeyboardPreferences.svg` 12 KB
+- `images/Locked_small.svg` 3 KB
+- `images/Lock_off.svg` 3 KB
+- `images/Lock_on.svg` 3 KB
+- `images/MousePreferences.svg` 4 KB
+- `images/NoTool.svg` 4 KB
+- `images/OmitFromExport_off.svg` 0 KB
+- `images/OmitFromExport_on.svg` 1 KB
+- `images/Refresh.svg` 3 KB
+- `images/Remove.svg` 2 KB
+- `images/ResetTexture.svg` 2 KB
+- `images/ResetTextureToWorld.svg` 3 KB
+- `images/RotateTextureCCW.svg` 3 KB
+- `images/RotateTextureCW.svg` 3 KB
+- `images/RotateTool.svg` 5 KB
+- `images/ScaleTool.svg` 4 KB
+- `images/Search.svg` 3 KB
+- `images/ShearTool.svg` 4 KB
+- `images/TextureLock_off.svg` 6 KB
+- `images/TextureLock_on.svg` 7 KB
+- `images/Up.svg` 2 KB
+- `images/UVLock_off.svg` 5 KB
+- `images/UVLock_on.svg` 7 KB
+- `images/VertexTool.svg` 4 KB
+- `images/ViewPreferences.svg` 4 KB
+- `manual/default.css` 3 KB
+- `manual/images/AxisRestriction.png` 3 KB
+- `manual/images/BrushFaceSelection.png` 29 KB
+- `manual/images/ClipModes.png` 16 KB
+- `manual/images/Compass3D.png` 3 KB
+- `manual/images/CompilationDialog.png` 20 KB
+- `manual/images/CompilationDialogToolVars.png` 9 KB
+- `manual/images/CreateBrushByDuplicatingPolygon.gif` 689 KB
+- `manual/images/CreateEntityContextMenu.png` 21 KB
+- `manual/images/CreateSimpleBrush.gif` 520 KB
+- `manual/images/CSGConvexMerge.gif` 20 KB
+- `manual/images/CSGHollow.gif` 38 KB
+- `manual/images/CSGIntersect.gif` 24 KB
+- `manual/images/CSGSubtractArch.gif` 71 KB
+- `manual/images/CSGTexturing.gif` 30 KB
+- `manual/images/CTF1Bounds.png` 95 KB
+- `manual/images/DrillSelection.gif` 76 KB
+- `manual/images/DuplicateAndMove.gif` 365 KB
+- `manual/images/DuplicateInPlace.gif` 746 KB
+- `manual/images/EdgeTool.png` 15 KB
+- `manual/images/EntityBrowser.png` 14 KB
+- `manual/images/EntityDefinitionEditor.png` 10 KB
+- `manual/images/EntityLinkVisualization.png` 4 KB
+- `manual/images/EntityPropertyEditor.png` 14 KB
+- `manual/images/EntityPropertyEditorMultiSelection.png` 8 KB
+- `manual/images/FaceAttribsEditor.png` 27 KB
+- `manual/images/FaceTool.png` 16 KB
+- `manual/images/GameEngineDialog.png` 17 KB
+- `manual/images/GamePreferences.png` 30 KB
+- `manual/images/GameSelectionDialog.png` 33 KB
+- `manual/images/icon.png` 12 KB
+- `manual/images/Inspector.png` 126 KB
+- `manual/images/IssueBrowserContextMenu.png` 20 KB
+- `manual/images/IssueBrowserFilter.png` 32 KB
+- `manual/images/KeyboardPreferences.png` 38 KB
+- `manual/images/LaunchGameEngineDialog.png` 26 KB
+- `manual/images/LayerEditor.png` 5 KB
+- `manual/images/Linked2DViewports.gif` 318 KB
+- `manual/images/Locking.png` 87 KB
+- `manual/images/MainWindow.png` 126 KB
+- `manual/images/MatchingClipPlane.gif` 133 KB
+- `manual/images/ModEditor.png` 10 KB
+- `manual/images/MousePreferences.png` 25 KB
+- `manual/images/MoveBrushesToEntity.png` 13 KB
+- `manual/images/MoveObjectsToolPage.png` 4 KB
+- `manual/images/MoveTrace.png` 22 KB
+- `manual/images/ObjectSelection.gif` 69 KB
+- `manual/images/PastePositioning3D.gif` 812 KB
+- `manual/images/ReplaceTexture.png` 86 KB
+- `manual/images/ResizeTool2DFaceMoving.gif` 64 KB
+- `manual/images/ResizeTool3D.gif` 466 KB
+- `manual/images/ResizeTool3DMultipleBrushes.gif` 49 KB
+- `manual/images/ResizeTool3DSplitInwardMode.gif` 118 KB
+- `manual/images/ResizeTool3DSplitMode.gif` 275 KB
+- `manual/images/RotateHandle2D.png` 1 KB
+- `manual/images/RotateHandle3D.png` 2 KB
+- `manual/images/RotateTool.gif` 313 KB
+- `manual/images/RotateToolControls.png` 9 KB
+- `manual/images/Scale3DCorner.gif` 1721 KB
+- `manual/images/Scale3DEdge.gif` 1090 KB
+- `manual/images/Scale3DSide.gif` 866 KB
+- `manual/images/Scale3DSideCenter.gif` 529 KB
+- `manual/images/ScaleToolToolbar.png` 7 KB
+- `manual/images/SelectTouching.gif` 129 KB
+- `manual/images/Shear3DVertical.gif` 1493 KB
+- `manual/images/SmartChoiceEditor.png` 7 KB
+- `manual/images/SmartColorEditor.png` 7 KB
+- `manual/images/SmartSpawnflagsEditor.png` 17 KB
+- `manual/images/SoftBounds.png` 10 KB
+- `manual/images/TextureBrowser.png` 61 KB
+- `manual/images/TextureCollectionArchiveEditor.png` 5 KB
+- `manual/images/TextureCollectionDirectoryEditor.png` 15 KB
+- `manual/images/ToolbarTools.png` 4 KB
+- `manual/images/UVEditor.png` 56 KB
+- `manual/images/UVEditorToolbar.png` 2 KB
+- `manual/images/UVLock.png` 3 KB
+- `manual/images/VertexToolFaceChopping.gif` 59 KB
+- `manual/images/VertexToolGuide.png` 9 KB
+- `manual/images/VertexToolHandles.png` 19 KB
+- `manual/images/VertexToolSplitting.gif` 33 KB
+- `manual/images/VertexToolVertexClumping.gif` 1155 KB
+- `manual/images/ViewDropdown.png` 38 KB
+- `manual/images/ViewPreferences.png` 22 KB
+- `manual/images/WelcomeWindow.png` 41 KB
+- `manual/index.html` 286 KB
+- `manual/shortcuts.js` 22 KB
+- `manual/shortcuts_helper.js` 2 KB
+- `manual/_reset.css` 1 KB
+- `manual/_responsive.css` 2 KB
+- `manual/_specific.css` 4 KB
+- `manual/_variables.css` 2 KB
+- `platforms/qwindows.dll` 1442 KB
+- `Qt5Core.dll` 5882 KB
+- `Qt5Gui.dll` 6844 KB
+- `Qt5Svg.dll` 323 KB
+- `Qt5Widgets.dll` 5369 KB
+- `shader/ClipHandle.vertsh` 1 KB
+- `shader/ColoredHandle.vertsh` 1 KB
+- `shader/ColoredText.vertsh` 1 KB
+- `shader/Compass.fragsh` 1 KB
+- `shader/Compass.vertsh` 2 KB
+- `shader/CompassOutline.vertsh` 1 KB
+- `shader/Edge.fragsh` 1 KB
+- `shader/Edge.vertsh` 1 KB
+- `shader/EntityLink.fragsh` 1 KB
+- `shader/EntityLink.vertsh` 1 KB
+- `shader/EntityLinkArrow.fragsh` 1 KB
+- `shader/EntityLinkArrow.vertsh` 5 KB
+- `shader/EntityModel.fragsh` 2 KB
+- `shader/EntityModel.vertsh` 1 KB
+- `shader/Face.fragsh` 4 KB
+- `shader/Face.vertsh` 1 KB
+- `shader/Grid.fragsh` 5 KB
+- `shader/Grid2D.fragsh` 1 KB
+- `shader/Grid2D.vertsh` 1 KB
+- `shader/Handle.fragsh` 1 KB
+- `shader/Handle.vertsh` 1 KB
+- `shader/MapBounds.fragsh` 1 KB
+- `shader/MiniMapEdge.fragsh` 1 KB
+- `shader/MiniMapEdge.vertsh` 1 KB
+- `shader/Text.fragsh` 1 KB
+- `shader/Text.vertsh` 1 KB
+- `shader/TextBackground.fragsh` 1 KB
+- `shader/TextBackground.vertsh` 1 KB
+- `shader/TextureBrowser.fragsh` 1 KB
+- `shader/TextureBrowser.vertsh` 1 KB
+- `shader/TextureBrowserBorder.fragsh` 1 KB
+- `shader/TextureBrowserBorder.vertsh` 1 KB
+- `shader/Triangle.fragsh` 1 KB
+- `shader/Triangle.vertsh` 1 KB
+- `shader/UVView.fragsh` 4 KB
+- `shader/UVView.vertsh` 1 KB
+- `shader/VaryingPC.fragsh` 1 KB
+- `shader/VaryingPC.vertsh` 1 KB
+- `shader/VaryingPUniformC.vertsh` 1 KB
+- `styles/qwindowsvistastyle.dll` 141 KB
+- `stylesheets/base.qss` 0 KB
+- `TrenchBroom-stripped.pdb` 14300 KB
+- `TrenchBroom.exe` 7310 KB
+- `defaults/assets/textures` 
+- `games/DigitalPaintball2` 
+- `games/Neverball/assets` 
+- `games/DDayNormandy` 
+- `games/Neverball` 
+- `games/Daikatana` 
+- `defaults/assets` 
+- `games/Heretic2` 
+- `games/Halflife` 
+- `manual/images` 
+- `games/Kingpin` 
+- `games/Generic` 
+- `games/Quake3` 
+- `games/Quake2` 
+- `games/Hexen2` 
+- `stylesheets` 
+- `games/Wrath` 
+- `games/Quake` 
+- `platforms` 
+- `defaults` 
+- `styles` 
+- `shader` 
+- `manual` 
+- `images` 
+- `games` 
+- `fonts` 
+
+</details>
+

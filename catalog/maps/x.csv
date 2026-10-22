@@ -1,0 +1,114 @@
+map_file,location,path_inside_archive,format,title,author,size_kb
+x-fire.bsp,quake/maps/bsp/x-fire.bsp,,Quake 1,,,500
+x-fire.bsp,quake/maps/single-map-zips/x-fire.zip,maps/x-fire.bsp,Quake 1,X-FIRE,,500
+x-pulse0.bsp,quake/maps/bsp/x-pulse0.bsp,,Quake 1,x-pulse 0 -The experiment- by Richard Jaspars (c) 1997,,723
+x-pulse0.bsp,quake/maps/single-map-zips/x-pulse0.zip,maps/x-pulse0.bsp,Quake 1,x-pulse 0 -The experiment- by Richard Jaspars (c) 1997,,723
+x-pulse1.bsp,quake/maps/bsp/x-pulse1.bsp,,Quake 1,X-Pulse 1 by Richard -Styx- Jaspars,,362
+x-pulse1.bsp,quake/maps/single-map-zips/x-pulse1.zip,maps/x-pulse1.bsp,Quake 1,X-Pulse 1 by Richard -Styx- Jaspars,Richard 'Styx' Jaspars,362
+x-pulse2.bsp,quake/maps/bsp/x-pulse2.bsp,,Quake 1,X-Pulse 2 by Richard -Styx- Jaspars,,541
+x-pulse2.bsp,quake/maps/single-map-zips/x-pulse2.zip,maps/x-pulse2.bsp,Quake 1,X-Pulse 2 by Richard -Styx- Jaspars,Richard 'Styx' Jaspars,541
+x-pulse3.bsp,quake/maps/bsp/x-pulse3.bsp,,Quake 1,The smell of fear,,378
+x-pulse3.bsp,quake/maps/single-map-zips/x-pulse3.zip,maps/x-pulse3.bsp,Quake 1,The smell of fear,Richard Jaspars 'Styx',378
+xarena3.bsp,quake/maps/bsp/xarena3.bsp,,Quake 1,X Arena,,332
+xcaliber.bsp,quake/maps/bsp/xcaliber.bsp,,Quake 1,Xcaliber - by ZangKiN quake.myriad.net:27501 Home of the Kindred!,,1801
+xcalibr2.bsp,quake/maps/bsp/xcalibr2.bsp,,Quake 1,Xcaliber 2 - by ZangKiN quake.myriad.net:27501 Home of the Kindred!,,2002
+xcalibr3.bsp,quake/maps/bsp/xcalibr3.bsp,,Quake 1,Xcaliber 3 - by ZangKiN quake.myriad.net:27501 Home of the Kindred!,,2017
+xdm4.bsp,quake/maps/bsp/xdm4.bsp,,Quake 1,The Mad Place,,494
+xdm4.bsp,quake/maps/single-map-zips/xdm4.zip,maps/xdm4.bsp,Quake 1,The Mad Place,,494
+xdm5.bsp,quake/maps/bsp/xdm5.bsp,,Quake 1,Defender,,3089
+xdm5.bsp,quake/maps/single-map-zips/xdm5.zip,maps/xdm5.bsp,Quake 1,Defender,,3089
+xdme1m7.bsp,quake/maps/bsp/xdme1m7.bsp,,Quake 1,Aedes Conflictum,,695
+xdme1m7.bsp,quake/maps/single-map-zips/xdme1m7.zip,maps/xdme1m7.bsp,Quake 1,Aedes Conflictum,,695
+xdmend.bsp,quake/maps/bsp/xdmend.bsp,,Quake 1,Rath's Pit,,340
+xdmend.bsp,quake/maps/single-map-zips/xdmend.zip,maps/xdmend.bsp,Quake 1,Rath's Pit,,340
+xdmx_wip06.bsp,quake/maps/bsp/xdmx_wip06.bsp,,Quake 1,Training Area,,2026
+xdmx_wip06.bsp,quake/maps/single-map-zips/xdmx_wip06.zip,maps/xdmx_wip06.bsp,Quake 1,Training Area,,2026
+xdmx_wip07.bsp,quake/maps/bsp/xdmx_wip07.bsp,,Quake 1,Training Area,,2081
+xdmx_wip07.bsp,quake/maps/single-map-zips/xdmx_wip07.zip,maps/xdmx_wip07.bsp,Quake 1,Training Area,,2081
+xdmx_wip08.bsp,quake/maps/bsp/xdmx_wip08.bsp,,Quake 1,Training Area,,2081
+xdmx_wip08.bsp,quake/maps/single-map-zips/xdmx_wip08.zip,maps/xdmx_wip08.bsp,Quake 1,Training Area,,2081
+xdmx_wip09.bsp,quake/maps/bsp/xdmx_wip09.bsp,,Quake 1,Training Area,,2576
+xdmx_wip09.bsp,quake/maps/single-map-zips/xdmx_wip09.zip,maps/xdmx_wip09.bsp,Quake 1,Training Area,,2576
+xdmx_wip10.bsp,quake/maps/bsp/xdmx_wip10.bsp,,Quake 1,Training Area,,2576
+xdmx_wip10.bsp,quake/maps/single-map-zips/xdmx_wip10.zip,maps/xdmx_wip10.bsp,Quake 1,Training Area,,2576
+xdmx_wip11.bsp,quake/maps/bsp/xdmx_wip11.bsp,,Quake 1,Training Area,,2231
+xdmx_wip11.bsp,quake/maps/single-map-zips/xdmx_wip11.zip,maps/xdmx_wip11.bsp,Quake 1,Training Area,,2231
+xe1m7_wip01.bsp,quake/maps/bsp/xe1m7_wip01.bsp,,Quake 1,...beta map,,568
+xe1m7_wip01.bsp,quake/maps/single-map-zips/xe1m7_wip01.zip,maps/xe1m7_wip01.bsp,Quake 1,...beta map,,568
+xe1m7_wip02.bsp,quake/maps/bsp/xe1m7_wip02.bsp,,Quake 1,Aedes Conflictum,,688
+xe1m7_wip02.bsp,quake/maps/single-map-zips/xe1m7_wip02.zip,maps/xe1m7_wip02.bsp,Quake 1,Aedes Conflictum,,688
+xeno.bsp,quake/maps/bsp/xeno.bsp,,Quake 1,[xeno] frag battle by Nick xeno,,339
+xeno1.bsp,quake/maps/bsp/xeno1.bsp,,Quake 1,MidEvil-CTF by Christian Antkow / Dale 'midiguy' Bertheola,,1574
+xeno2.bsp,quake/maps/bsp/xeno2.bsp,,Quake 1,Sadness of Death,,833
+xeno3.bsp,quake/maps/bsp/xeno3.bsp,,Quake 1,"Dunsinane - by George 'DieharD' Myshlyayev, t_jumpa@hotmail.com",,2646
+xeno4.bsp,quake/maps/bsp/xeno4.bsp,,Quake 1,Armageddon 3 CTF,,1634
+xeno5.bsp,quake/maps/bsp/xeno5.bsp,,Quake 1,Cheat2!Barkfalls,,1355
+xeno6.bsp,quake/maps/bsp/xeno6.bsp,,Quake 1,Mayan Existence,,1157
+xeno7.bsp,quake/maps/bsp/xeno7.bsp,,Quake 1,Remix,,925
+xeno8.bsp,quake/maps/bsp/xeno8.bsp,,Quake 1,Xeno Flag Academy,,2067
+xinfort.bsp,quake/maps/bsp/xinfort.bsp,,Quake 1,xinfort by Scorpionz http://xiner.virtualave.net,,1452
+xisphere.bsp,quake/maps/bsp/xisphere.bsp,,Quake 1,The Sphere --- Xi,,202
+xl1.bsp,quake/maps/bsp/xl1.bsp,,Quake 1,XL Paying Respects,,326
+xl1.bsp,quake/maps/single-map-zips/xl1.zip,maps/xl1.bsp,Quake 1,XL Paying Respects,,326
+xl1dm1.bsp,quake/maps/bsp/xl1dm1.bsp,,Quake 1,XL Paying Respects,,326
+xl1dm1.bsp,quake/maps/single-map-zips/xl1dm1.zip,maps/xl1dm1.bsp,Quake 1,XL Paying Respects,"Graeme ""ProdigyXL"" Timmins",326
+xl1dm2.bsp,quake/maps/bsp/xl1dm2.bsp,,Quake 1,XL Dust,,489
+xl1dm2.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/xl1dm2.bsp,Quake 1,XL Dust,,488
+xl1dm2.bsp,quake/maps/single-map-zips/xl1dm2.zip,maps/xl1dm2.bsp,Quake 1,XL Dust,"Graeme ""ProdigyXL"" Timmins",489
+xl1dm3.bsp,quake/maps/bsp/xl1dm3.bsp,,Quake 1,XL Braving the Elements,,497
+xl1dm3.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/xl1dm3.bsp,Quake 1,XL Braving the Elements,,497
+xl1dm3.bsp,quake/maps/single-map-zips/xl1dm3.zip,maps/xl1dm3.bsp,Quake 1,XL Braving the Elements,,497
+xl1dm4.bsp,quake/maps/bsp/xl1dm4.bsp,,Quake 1,XL Game Over,,513
+xl1dm4.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/xl1dm4.bsp,Quake 1,XL Game Over,,512
+xl1dm4.bsp,quake/maps/packs/quakeone_maps.zip,xl1dm4.bsp,Quake 1,XL Game Over,,525
+xl1dm4.bsp,quake/maps/single-map-zips/xl1dm4.zip,maps/xl1dm4.bsp,Quake 1,XL Game Over,"Graeme ""ProdigyXL"" Timmins",513
+xl1dm5.bsp,quake/maps/bsp/xl1dm5.bsp,,Quake 1,XL Forever Nightmare,,795
+xl1dm5.bsp,quake/maps/single-map-zips/xl1dm5.zip,maps/xl1dm5.bsp,Quake 1,XL Forever Nightmare,"Graeme ""ProdigyXL"" Timmins",795
+xl1dm6.bsp,quake/maps/bsp/xl1dm6.bsp,,Quake 1,XL Say It Ain't So,,943
+xl1dm6.bsp,quake/maps/single-map-zips/xl1dm6.zip,maps/xl1dm6.bsp,Quake 1,XL Say It Ain't So,"Graeme ""ProdigyXL"" Timmins",943
+xl1dm7.bsp,quake/maps/bsp/xl1dm7.bsp,,Quake 1,XL Sole Survivor,,1671
+xl1dm7.bsp,quake/maps/single-map-zips/xl1dm7.zip,maps/xl1dm7.bsp,Quake 1,XL Sole Survivor,,1671
+xldm1.bsp,other-games/quake2/maps/xldm1.bsp,,Quake 2,XL Vertical Hangover,,393
+xldm2.bsp,other-games/quake2/maps/xldm2.bsp,,Quake 2,XL Rusted Over,,477
+xldm3.bsp,other-games/quake2/maps/xldm3.bsp,,Quake 2,XL Rush,,367
+xldm4.bsp,other-games/quake2/maps/xldm4.bsp,,Quake 2,XL Salvaged,,557
+xldm5.bsp,other-games/quake2/maps/xldm5.bsp,,Quake 2,XL Aphelion,,381
+xldm6.bsp,other-games/quake2/maps/xldm6.bsp,,Quake 2,XL Speed Junky,,555
+xm00s19.bsp,quake/maps/bsp/xm00s19.bsp,,Quake 1,Merry xm00s - 2019 (v. 1.1) (by lurq),,5025
+xm00s19.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/xm00s19.bsp,Quake 1,Merry xm00s - 2019 (v. 1.1) (by lurq),,5025
+xmas.bsp,quake/maps/bsp/xmas.bsp,,Quake 1,Untitled,,231
+xmasfun.bsp,quake/maps/bsp/xmasfun.bsp,,Quake 1,XmasBIGGAME!- by Rorshach,,1171
+xmasfun.bsp,quake/maps/single-map-zips/xmasfun.zip,maps/xmasfun.bsp,Quake 1,XmasBIGGAME!- by Rorshach,,1171
+xmastree.bsp,quake/maps/bsp/xmastree.bsp,,Quake 1,QuakeWorld Christmas by MisYu,,762
+xmastree.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/xmastree.bsp,Quake 1,QuakeWorld Christmas by MisYu,,762
+xmastree.bsp,quake/maps/single-map-zips/xmastree.zip,maps/xmastree.bsp,Quake 1,QuakeWorld Christmas by MisYu,,762
+xnkspeed02.bsp,quake/maps/bsp/xnkspeed02.bsp,,Quake 1,,,393
+xnkspeed02.bsp,quake/maps/single-map-zips/xnkspeed02.zip,maps/xnkspeed02.bsp,Quake 1,,,393
+xnq1001.bsp,quake/maps/packs/100brush.zip,maps/xnq1001.bsp,Quake 1,100 Hours till Dawn,,561
+xnq1002.bsp,quake/maps/bsp/xnq1002.bsp,,Quake 1,xnq1002 - Centurion,,1726
+xntrick.bsp,quake/maps/bsp/xntrick.bsp,,Quake 1,Trick or Treat! http://www.planetquake.com/xenon,,1105
+xntrick.bsp,quake/maps/packs/quakeone_maps.zip,xntrick.bsp,Quake 1,Trick or Treat! http://www.planetquake.com/xenon,,1105
+xntrick.bsp,quake/maps/single-map-zips/xntrick.zip,maps/xntrick.bsp,Quake 1,Trick or Treat! http://www.planetquake.com/xenon,,1105
+xomis.bsp,quake/maps/bsp/xomis.bsp,,Quake 1,xomis,,963
+xomis.bsp,quake/maps/single-map-zips/xomis.zip,maps/xomis.bsp,Quake 1,xomis,Peter Bisseker,963
+xphogtooth.bsp,quake/maps/bsp/xphogtooth.bsp,,Quake 1,,,273
+xphogtooth.bsp,quake/maps/single-map-zips/xphogtooth.zip,maps/xphogtooth.bsp,Quake 1,XP Hogtooth,Randall (blindtypist),273
+xploadzone.bsp,quake/maps/bsp/xploadzone.bsp,,Quake 1,,,494
+xploadzone.bsp,quake/maps/single-map-zips/xploadzone.zip,maps/xploadzone.bsp,Quake 1,XP Loadzone,Randall (blindtypist),494
+xpress.bsp,quake/maps/bsp/xpress.bsp,,Quake 1,Xpress your imagination Created by aTr BladeZ,,323
+xpress2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/xpress2.bsp,Quake 1,Xpress your imagination 2 Created by aTr BladeZ,,396
+xpress2.bsp,quake/maps/bsp/xpress2.bsp,,Quake 1,Xpress your imagination 2 Created by aTr BladeZ,,395
+xpress3.bsp,dmc/maps/bsp/xpress3.bsp,,Half-Life/DMC,,,299
+xpress3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/xpress3.bsp,Quake 1,Xpress your imagination 3 Created by BladeZ sk.bong.com.au/twofort/,,328
+xpress3b.bsp,quake/maps/bsp/xpress3b.bsp,,Quake 1,Xpress your imagination 3 Created by BladeZ,,805
+xpress4.bsp,quake/maps/bsp/xpress4.bsp,,Quake 1,Xpress your imagination 3 Created by BladeZ,,812
+xpress5.bsp,quake/maps/bsp/xpress5.bsp,,Quake 1,"you xpress'd your imagination bladez now im xpressing mine. and destro inspired it, too.",,925
+xpulse0.bsp,quake/maps/bsp/xpulse0.bsp,,Quake 1,x-pulse 0 -The experiment- by Richard Jaspars (c) 1997,,723
+xpulse0.bsp,quake/maps/single-map-zips/xpulse0.zip,maps/xpulse0.bsp,Quake 1,x-pulse 0 -The experiment- by Richard Jaspars (c) 1997,Richard 'Styx' Jaspars,723
+xtc.bsp,quake/maps/bsp/xtc.bsp,,Quake 1,X.T.C. by Deft for Project1 QC patch.,,360
+xtc.bsp,quake/maps/single-map-zips/xtc.zip,maps/xtc.bsp,Quake 1,X.T.C. by Deft for Project1 QC patch.,,360
+xtreme.bsp,quake/maps/bsp/xtreme.bsp,,Quake 1,Xtreme aTr BlAdeZ,,646
+xtrmrj2b.bsp,quake/maps/bsp/xtrmrj2b.bsp,,Quake 1,-UNIT Productions- Presents xtrme Rockt Jumpng Version  BETA By Spark-[UNIT] gamesnet east #unit,,996
+xtrmrjb1.bsp,quake/maps/bsp/xtrmrjb1.bsp,,Quake 1,"Rocket Jump -X-Treme Beta 1 By [BCW]WaRBr00D Send Bugs, Q & C to: mtoth@wcoil.com",,1063
+xtrmrjfb.bsp,quake/maps/bsp/xtrmrjfb.bsp,,Quake 1,"Rocket Jump -X-Treme Final Beta By [merr]M1k3Y Send Bugs, Q & C to: mtoth@wcoil.com",,1050
+xyland2.bsp,quake/maps/bsp/xyland2.bsp,,Quake 1,Inquisition,,1527

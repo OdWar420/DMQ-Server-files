@@ -1,0 +1,340 @@
+map_file,location,path_inside_archive,format,title,author,size_kb
+g10.bsp,quake/maps/bsp/g10.bsp,,Quake 1,RUSSIAN QUAKE TEAM,,353
+g10.bsp,quake/maps/single-map-zips/g10.zip,maps/g10.bsp,Quake 1,RUSSIAN QUAKE TEAM,Georg Cssiliev,353
+g10a.bsp,quake/maps/bsp/g10a.bsp,,Quake 1,RUSSIAN QUAKE TEAM,,353
+g10a.bsp,quake/maps/single-map-zips/g10a.zip,maps/g10a.bsp,Quake 1,RUSSIAN QUAKE TEAM,Georg Vassiliev,353
+g12.bsp,quake/maps/bsp/g12.bsp,,Quake 1,[RUSSIAN QUAKE TEAM],,439
+g12.bsp,quake/maps/single-map-zips/g12.zip,maps/g12.bsp,Quake 1,[RUSSIAN QUAKE TEAM],Georg Cssiliev,439
+g14a.bsp,quake/maps/bsp/g14a.bsp,,Quake 1,,,288
+g14a.bsp,quake/maps/single-map-zips/g14a.zip,maps/g14a.bsp,Quake 1,g14a,Georg Vassiliev,288
+g16.bsp,quake/maps/bsp/g16.bsp,,Quake 1,,,475
+g16.bsp,quake/maps/single-map-zips/g16.zip,maps/g16.bsp,Quake 1,g16,Georg Vassiliev,475
+g18.bsp,quake/maps/bsp/g18.bsp,,Quake 1,,,456
+g18.bsp,quake/maps/single-map-zips/g18.zip,maps/g18.bsp,Quake 1,g16,Georg Vassiliev,456
+g1m1.bsp,quake/maps/bsp/g1m1.bsp,,Quake 1,What Would Cthulhu do? By (STG)Gnarler Using a sadistic endtime patch,,2107
+g1m1fix.bsp,quake/maps/bsp/g1m1fix.bsp,,Quake 1,What Would Cthulhu do? By (STG)Gnarler Exit and light fix,,2120
+g1m2.bsp,quake/maps/bsp/g1m2.bsp,,Quake 1,The Temple of Gloom Entrance,,4044
+g1m2beta.bsp,quake/maps/bsp/g1m2beta.bsp,,Quake 1,"Harder, Better, Faster, Stronger Home of Gnarler's Midnight room",,1748
+g1m3.bsp,quake/maps/bsp/g1m3.bsp,,Quake 1,The Temple of Gloom! The gutmonster...,,2284
+g1m5.bsp,quake/maps/bsp/g1m5.bsp,,Quake 1,The Temple of Gloom The Escape!,,834
+g23.bsp,quake/maps/bsp/g23.bsp,,Quake 1,,,271
+g23.bsp,quake/maps/single-map-zips/g23.zip,maps/g23.bsp,Quake 1,g23,Georg Vassiliev,271
+g24.bsp,quake/maps/bsp/g24.bsp,,Quake 1,RUSSIA QUAKE TEAM,,722
+g24.bsp,quake/maps/single-map-zips/g24.zip,maps/g24.bsp,Quake 1,RUSSIA QUAKE TEAM,Georg Vassiliev,722
+g26.bsp,quake/maps/bsp/g26.bsp,,Quake 1,,,849
+g26.bsp,quake/maps/single-map-zips/g26.zip,maps/g26.bsp,Quake 1,a-la map01,Georg Vassiliev,849
+g29.bsp,quake/maps/bsp/g29.bsp,,Quake 1,,,569
+g29.bsp,quake/maps/single-map-zips/g29.zip,maps/g29.bsp,Quake 1,a-la map07,Georg Vassiliev,569
+g2phortz.bsp,quake/maps/bsp/g2phortz.bsp,,Quake 1,G2 Phortz 1 By <G2>Bodies,,1903
+g2pix.bsp,quake/maps/bsp/g2pix.bsp,,Quake 1,G2Pix Voting Map By <g2>Darknesss,,1440
+g2snip.bsp,quake/maps/bsp/g2snip.bsp,,Quake 1,G2 Sniping Grounds By <g2>Darkness Gib or Be Gibbed!!,,869
+g30.bsp,quake/maps/bsp/g30.bsp,,Quake 1,,,944
+g30.bsp,quake/maps/single-map-zips/g30.zip,maps/g30.bsp,Quake 1,g30,Georg Vassiliev,944
+g32.bsp,quake/maps/bsp/g32.bsp,,Quake 1,,,640
+g32.bsp,quake/maps/single-map-zips/g32.zip,maps/g32.bsp,Quake 1,g32,Georg Vassiliev,640
+g9.bsp,quake/maps/bsp/g9.bsp,,Quake 1,,,327
+g9.bsp,quake/maps/single-map-zips/g9.zip,maps/g9.bsp,Quake 1,g9,Georg Cssiliev,327
+gaga.bsp,quake/maps/bsp/gaga.bsp,,Quake 1,GagA,,405
+gaga.bsp,quake/maps/single-map-zips/gaga.zip,maps/gaga.bsp,Quake 1,GagA,Gabriel Gagnon,405
+gallery.bsp,quake/maps/bsp/gallery.bsp,,Quake 1,The Gallery of the Mind,,1417
+galore.bsp,quake/maps/bsp/galore.bsp,,Quake 1,Gibs Galore .9 Beta By ZeNTRoN,,417
+galore.bsp,quake/maps/single-map-zips/galore.zip,maps/galore.bsp,Quake 1,Gibs Galore .9 Beta By ZeNTRoN,,417
+gamespiq.bsp,quake/maps/bsp/gamespiq.bsp,,Quake 1,Vote PiQ  SecAo  2forts e classicas Admin IS BeaWolf,,874
+gamespiq1.bsp,quake/maps/bsp/gamespiq1.bsp,,Quake 1,Vote PiQ 1  SecAo Snipers e Geral Admin IS BeaWolf,,874
+gamespiq2.bsp,quake/maps/bsp/gamespiq2.bsp,,Quake 1,Vote PiQ 2  SecAo Pequenas Admin IS BeaWolf,,874
+gamespiq3.bsp,quake/maps/bsp/gamespiq3.bsp,,Quake 1,Vote PiQ 3  SecAo Geral Admin IS BeaWolf,,874
+gamespiq4.bsp,quake/maps/bsp/gamespiq4.bsp,,Quake 1,Vote PiQ 4  SecAo Variadas Admin IS BeaWolf,,874
+gang.bsp,quake/maps/bsp/gang.bsp,,Quake 1,Gangland By Soul Made to goof off on! :D,,632
+ganymede.bsp,quake/maps/bsp/ganymede.bsp,,Quake 1,Ganymede,,612
+ganymede.bsp,quake/maps/single-map-zips/ganymede.zip,maps/ganymede.bsp,Quake 1,Ganymede,Steve Wilson .....   Thundermug,612
+gap.bsp,quake/maps/bsp/gap.bsp,,Quake 1,Gap,,301
+gap.bsp,quake/maps/single-map-zips/gap.zip,maps/gap.bsp,Quake 1,Gap,Hiratsuka Gouichi  (GO-ICHI),301
+garden.bsp,quake/maps/bsp/garden.bsp,,Quake 1,The Thorn Garden,,464
+garden.bsp,quake/maps/single-map-zips/garden.zip,maps/garden.bsp,Quake 1,The Thorn Garden,Matt Bollier,464
+garrison.bsp,quake/maps/bsp/garrison.bsp,,Quake 1,the garrison,,881
+gate.bsp,quake/maps/bsp/gate.bsp,,Quake 1,The Provincial Gate,,1124
+gates3.bsp,quake/maps/bsp/gates3.bsp,,Quake 1,Bill Gates,,786
+gatetohell.bsp,quake/maps/bsp/gatetohell.bsp,,Quake 1,'The Gateway To Hell' by JPL,,5996
+gator09.bsp,quake/maps/bsp/gator09.bsp,,Quake 1,Florida Gators! - [KF],,543
+gator09.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/gator09.bsp,Quake 1,Florida Gators! - [KF],,543
+gator09.bsp,quake/maps/single-map-zips/gator09.zip,maps/gator09.bsp,Quake 1,Florida Gators! - [KF],,543
+gatordiv.bsp,quake/maps/bsp/gatordiv.bsp,,Quake 1,GatorMan's Diversion,,2181
+gaunt.bsp,quake/maps/bsp/gaunt.bsp,,Quake 1,The Gauntlet By: Mercutio,,276
+gauntlet.bsp,quake/maps/bsp/gauntlet.bsp,,Quake 1,,,57
+gauntlet.bsp,quake/maps/single-map-zips/gauntlet.zip,maps/gauntlet.bsp,Quake 1,The Gauntlet,"Phil Chopp ""ReTinaL""",1411
+gauntq2dm.bsp,other-games/quake2/maps/gauntq2dm.bsp,,Quake 2,,,1405
+gblade.bsp,quake/maps/bsp/gblade.bsp,,Quake 1,GUILLOTINE'S BLADE,,1110
+gblade.bsp,quake/maps/single-map-zips/gblade.zip,maps/gblade.bsp,Quake 1,GUILLOTINE'S BLADE,O. Marlowe,1110
+gbs.bsp,quake/maps/bsp/gbs.bsp,,Quake 1,,,410
+gbs.bsp,quake/maps/single-map-zips/gbs.zip,maps/gbs.bsp,Quake 1,Gratuitous Bovine Slaughter (GBS if you will),"Luke Burton ([TRB]_Hagus, Hagus)",410
+gbvote.bsp,quake/maps/bsp/gbvote.bsp,,Quake 1,TiltTotal.globo.com Vote ThunderVote   Mapas disponiveis em: http://ftp.papa-figo.com.br/quake/qw/tf/maps,,870
+gcrazy1.bsp,quake/maps/bsp/gcrazy1.bsp,,Quake 1,Crazy 1 Speedmap by Gnarler,,989
+gdm1.bsp,quake/maps/bsp/gdm1.bsp,,Quake 1,High Voltage,,770
+gdm1.bsp,quake/maps/single-map-zips/gdm1.zip,maps/gdm1.bsp,Quake 1,High Voltage,,770
+gdm1a.bsp,quake/maps/bsp/gdm1a.bsp,,Quake 1,GDM1A - BY GOBLIN,,416
+gdm1a.bsp,quake/maps/single-map-zips/gdm1a.zip,maps/gdm1a.bsp,Quake 1,GDM1A - BY GOBLIN,Goblin,416
+gdm2.bsp,quake/maps/bsp/gdm2.bsp,,Quake 1,Krass Man's Pit,,393
+gdm2.bsp,quake/maps/single-map-zips/gdm2.zip,maps/gdm2.bsp,Quake 1,Krass Man's Pit,"Cornelius Rittner ""Golney""",393
+gear0.bsp,quake/maps/bsp/gear0.bsp,,Quake 1,"Introduction, StartGib",,421
+gear5.bsp,quake/maps/bsp/gear5.bsp,,Quake 1,Pump up the volume,,271
+gear8.bsp,quake/maps/bsp/gear8.bsp,,Quake 1,CENSORED,,494
+gear9.bsp,quake/maps/bsp/gear9.bsp,,Quake 1,Galapagos-miagos,,236
+gearpr0n.bsp,quake/maps/bsp/gearpr0n.bsp,,Quake 1,Pornogeddon,,494
+gemdm1.bsp,quake/maps/bsp/gemdm1.bsp,,Quake 1,Precision by Gemein,,740
+gemdm1.bsp,quake/maps/single-map-zips/gemdm1.zip,maps/gemdm1.bsp,Quake 1,Precision by Gemein,Gemein (Scott Perry),740
+gencldm5.bsp,quake/maps/bsp/gencldm5.bsp,,Quake 1,GeNCldm5: Tarantula,,1385
+gencldm5.bsp,quake/maps/single-map-zips/gencldm5.zip,maps/gencldm5.bsp,Quake 1,GeNCldm5: Tarantula,"Christoph ""Gonzo"" Werner",1385
+gencldm6.bsp,quake/maps/bsp/gencldm6.bsp,,Quake 1,GeNCldm6: Radical rage,,593
+gencldm6.bsp,quake/maps/single-map-zips/gencldm6.zip,maps/gencldm6.bsp,Quake 1,GeNCldm6: Radical rage,"Christoph ""Gonzo"" Werner",593
+gencldm8.bsp,quake/maps/bsp/gencldm8.bsp,,Quake 1,GeNCldm8: Rip da Gib! by GNZ (Gonzo_6@hotmail.com,,785
+gencldm8.bsp,quake/maps/single-map-zips/gencldm8.zip,maps/gencldm8.bsp,Quake 1,GeNCldm8: Rip da Gib! by GNZ (Gonzo_6@hotmail.com,,785
+gencldm9.bsp,quake/maps/bsp/gencldm9.bsp,,Quake 1,GeNCLDM9: Scythe,,795
+gencldm9.bsp,quake/maps/single-map-zips/gencldm9.zip,maps/gencldm9.bsp,Quake 1,GeNCLDM9: Scythe,,795
+genders2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/genders2.bsp,Quake 1,Genders II  By -I- J.Killer,,1843
+genders2.bsp,quake/maps/bsp/genders2.bsp,,Quake 1,Genders II  By -I- J.Killer,,1843
+gendm1.bsp,quake/maps/bsp/gendm1.bsp,,Quake 1,GeNDM1: Trash by GeN,,655
+gendm1.bsp,quake/maps/packs/quakeone_maps.zip,gendm1.bsp,Quake 1,GeNDM1: Trash by GeN,,655
+gendm1.bsp,quake/maps/single-map-zips/gendm1.zip,maps/gendm1.bsp,Quake 1,GeNDM1: Trash by GeN,,655
+gendm2.bsp,quake/maps/bsp/gendm2.bsp,,Quake 1,HYPERALGESIE BY GeN,,914
+gendm2.bsp,quake/maps/single-map-zips/gendm2.zip,maps/gendm2.bsp,Quake 1,HYPERALGESIE BY GeN,"Sebastian ""GeN"" Bentler",914
+genepool.bsp,quake/maps/bsp/genepool.bsp,,Quake 1,GeNe Pl By Dandy,,1506
+genepool.bsp,quake/maps/single-map-zips/genepool.zip,maps/genepool.bsp,Quake 1,GeNe Pl By Dandy,,1506
+genetix.bsp,quake/maps/bsp/genetix.bsp,,Quake 1,Genetix Facility,,1747
+genji.bsp,quake/maps/bsp/genji.bsp,,Quake 1,MindFuck's lev!,,599
+genji.bsp,quake/maps/single-map-zips/genji.zip,maps/genji.bsp,Quake 1,MindFuck's lev!,MindFuck (AKA MindFink),599
+genji2.bsp,quake/maps/bsp/genji2.bsp,,Quake 1,MindFuck's Level!,,957
+genji2.bsp,quake/maps/single-map-zips/genji2.zip,maps/genji2.bsp,Quake 1,MindFuck's Level!,MindFuck (AKA MindFink),957
+genji3.bsp,quake/maps/bsp/genji3.bsp,,Quake 1,MindFuck's Level!,,1324
+genji3.bsp,quake/maps/single-map-zips/genji3.zip,maps/genji3.bsp,Quake 1,MindFuck's Level!,MindFuck (AKA MindFink),1324
+genocide.bsp,quake/maps/bsp/genocide.bsp,,Quake 1,XL Genocide Crush,,799
+genocide.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/genocide.bsp,Quake 1,XL Genocide Crush,,799
+genocide.bsp,quake/maps/single-map-zips/genocide.zip,maps/genocide.bsp,Quake 1,XL Genocide Crush,"Graeme ""ProdigyXL"" Timmins",799
+geo.bsp,quake/maps/bsp/geo.bsp,,Quake 1,,,499
+geo.bsp,quake/maps/single-map-zips/geo.zip,maps/geo.bsp,Quake 1,Geo,Judge,499
+geodm1.bsp,quake/maps/bsp/geodm1.bsp,,Quake 1,Geotrupes by Snaga,,1901
+geodm1.bsp,quake/maps/single-map-zips/geodm1.zip,maps/geodm1.bsp,Quake 1,Geotrupes by Snaga,,1901
+geom.bsp,quake/maps/bsp/geom.bsp,,Quake 1,The Dark Geometry,,718
+gerador.bsp,quake/maps/bsp/gerador.bsp,,Quake 1,Geradores capyvara@geocities.com,,2024
+gerador2a.bsp,quake/maps/bsp/gerador2a.bsp,,Quake 1,Geradores 2a - por Capyvara Clan Ciclo Cebolas[CCC],,1158
+getaway.bsp,quake/maps/bsp/getaway.bsp,,Quake 1,The Getaway Created by dEATh & Ludwig clan [Ed] ====================,,1382
+ghost.bsp,quake/maps/bsp/ghost.bsp,,Quake 1,Ghost Town Part 3,,370
+ghost.bsp,quake/maps/single-map-zips/ghost.zip,maps/ghost.bsp,Quake 1,Ghost Town Part 3,Stuart Maine.,370
+ghqvoteq.bsp,quake/maps/bsp/ghqvoteq.bsp,,Quake 1,Game HQ OZTF Voting Map By MQM ClAyMoRe PT,,199
+ghqvoteq.bsp,quake/maps/single-map-zips/ghqvoteq.zip,maps/ghqvoteq.bsp,Quake 1,Game HQ OZTF Voting Map By MQM ClAyMoRe PT,,199
+giant.bsp,quake/maps/bsp/giant.bsp,,Quake 1,Tall PolyEd Level,,669
+giant2.bsp,quake/maps/bsp/giant2.bsp,,Quake 1,,,859
+gib1.bsp,quake/maps/bsp/gib1.bsp,,Quake 1,,,322
+gibbet.bsp,quake/maps/bsp/gibbet.bsp,,Quake 1,*The Gibbet* by Frogger,,866
+gibbet.bsp,quake/maps/single-map-zips/gibbet.zip,maps/gibbet.bsp,Quake 1,*The Gibbet* by Frogger,Tony Boyer,866
+gibbin.bsp,quake/maps/bsp/gibbin.bsp,,Quake 1,,,356
+gibcent.bsp,quake/maps/bsp/gibcent.bsp,,Quake 1,Giblet Central,,1040
+gibcityq1dm1.bsp,quake/maps/bsp/gibcityq1dm1.bsp,,Quake 1,,,630
+gibcityq1dm1.bsp,quake/maps/single-map-zips/gibcityq1dm1.zip,maps/gibcityq1dm1.bsp,Quake 1,,,630
+gibdel.bsp,quake/maps/bsp/gibdel.bsp,,Quake 1,Gibber's Delight,,324
+gibdel.bsp,quake/maps/single-map-zips/gibdel.zip,maps/gibdel.bsp,Quake 1,Gibber's Delight,Jon Seigel,324
+gibdog.bsp,quake/maps/bsp/gibdog.bsp,,Quake 1,the Devil is hungry.,,758
+gibdog.bsp,quake/maps/single-map-zips/gibdog.zip,maps/gibdog.bsp,Quake 1,the Devil is hungry.,D. Rhodd,758
+gibexpo1.bsp,quake/maps/bsp/gibexpo1.bsp,,Quake 1,i dont understand,,686
+gibnasty.bsp,quake/maps/bsp/gibnasty.bsp,,Quake 1,Gibnasty,,393
+gibnasty.bsp,quake/maps/single-map-zips/gibnasty.zip,maps/gibnasty.bsp,Quake 1,Gibnasty,Kurt Gulden,393
+gibop.bsp,quake/maps/bsp/gibop.bsp,,Quake 1,Lock and Load !!!!!!!!!!!!,,701
+gibop.bsp,quake/maps/single-map-zips/gibop.zip,maps/gibop.bsp,Quake 1,Lock and Load !!!!!!!!!!!!,,701
+gibrassi.bsp,quake/maps/bsp/gibrassi.bsp,,Quake 1,Gibrassic Park,,1221
+gibrassi.bsp,quake/maps/single-map-zips/gibrassi.zip,maps/gibrassi.bsp,Quake 1,Gibrassic Park,,1221
+gibrassic.bsp,quake/maps/bsp/gibrassic.bsp,,Quake 1,Gibrassic Park,,1221
+gibrassic.bsp,quake/maps/single-map-zips/gibrassic.zip,maps/gibrassic.bsp,Quake 1,Gibrassic Park,Martin Smith,1221
+gibson.bsp,quake/maps/bsp/gibson.bsp,,Quake 1,CannoNs GibsonOne,,287
+gibson.bsp,quake/maps/single-map-zips/gibson.zip,maps/gibson.bsp,Quake 1,CannoNs GibsonOne,CannoN,287
+gibworld.bsp,quake/maps/bsp/gibworld.bsp,,Quake 1,Now entering GibWorld !,,675
+gibworld.bsp,quake/maps/single-map-zips/gibworld.zip,maps/gibworld.bsp,Quake 1,Now entering GibWorld !,"Fred Hite,Jr , a.k.a.""DEVIANT""",675
+giggler2.bsp,quake/maps/bsp/giggler2.bsp,,Quake 1,Giggler2.bsp,,643
+giggler3.bsp,quake/maps/bsp/giggler3.bsp,,Quake 1,*- Giggler3.bsp -*,,663
+giggler4.bsp,quake/maps/bsp/giggler4.bsp,,Quake 1,*- Giggler4.bsp -*,,1309
+giza.bsp,quake/maps/bsp/giza.bsp,,Quake 1,Giza,,815
+giza.bsp,quake/maps/single-map-zips/giza.zip,maps/giza.bsp,Quake 1,Giza,Dave Scheidler (aka. Mandaca),815
+giza2.bsp,quake/maps/bsp/giza2.bsp,,Quake 1,The Sacred Necropolis of Giza,,1497
+gizdm1.bsp,quake/maps/bsp/gizdm1.bsp,,Quake 1,GIZDM1 - Where souls burn,,327
+gizdm1.bsp,quake/maps/single-map-zips/gizdm1.zip,maps/gizdm1.bsp,Quake 1,GIZDM1 - Where souls burn,,327
+gldma1.bsp,quake/maps/bsp/gldma1.bsp,,Quake 1,GLDMA1 - sisi@iname.com,,693
+gldma1.bsp,quake/maps/single-map-zips/gldma1.zip,maps/gldma1.bsp,Quake 1,GLDMA1 - sisi@iname.com,Carlos Sisí,693
+gldrush3.bsp,quake/maps/bsp/gldrush3.bsp,,Quake 1,Gold Rush ]I[ By DyerMaker Clan Kavorkian,,1170
+glfortrs.bsp,quake/maps/bsp/glfortrs.bsp,,Quake 1,,,283
+glfortrs.bsp,quake/maps/single-map-zips/glfortrs.zip,maps/glfortrs.bsp,Quake 1,Dark Fortress,Matt Lauckhart,283
+glide1.bsp,quake/maps/bsp/glide1.bsp,,Quake 1,G l i d e,,406
+glmcath.bsp,quake/maps/bsp/glmcath.bsp,,Quake 1,Gloom Cathedral by: JAR,,1011
+glmcath.bsp,quake/maps/single-map-zips/glmcath.zip,maps/glmcath.bsp,Quake 1,Gloom Cathedral by: JAR,Dan Nelson aka JAR (Worldcraft University) 2thguy@ibm.net,1011
+globovot.bsp,quake/maps/bsp/globovot.bsp,,Quake 1,GLOBO Vote --Running ThunderVote 2 by Neurobasher--,,488
+gloin.bsp,quake/maps/bsp/gloin.bsp,,Quake 1,Abandon All Hope !,,775
+gloom.bsp,quake/maps/bsp/gloom.bsp,,Quake 1,Loupus' Gloom,,1883
+gloomfal.bsp,quake/maps/bsp/gloomfal.bsp,,Quake 1,Gloom Falls -=~JerkOff~=-,,243
+gloomfal.bsp,quake/maps/single-map-zips/gloomfal.zip,maps/gloomfal.bsp,Quake 1,Gloom Falls -=~JerkOff~=-,JerkOff (Mike Daugherty),243
+gloomylab.bsp,quake/maps/bsp/gloomylab.bsp,,Quake 1,The Gloomy Lab,,106
+gloomylab.bsp,quake/maps/single-map-zips/gloomylab.zip,maps/gloomylab.bsp,Quake 1,The Gloomy Lab,,106
+glthisis.bsp,quake/maps/bsp/glthisis.bsp,,Quake 1,,,647
+glzactor.bsp,quake/maps/bsp/glzactor.bsp,,Quake 1,,,899
+gmdm1.bsp,quake/maps/bsp/gmdm1.bsp,,Quake 1,Exercise One,,1489
+gmdm1.bsp,quake/maps/packs/quakeone_maps.zip,gmdm1.bsp,Quake 1,Exercise One,,1489
+gmdm1.bsp,quake/maps/single-map-zips/gmdm1.zip,maps/gmdm1.bsp,Quake 1,Exercise One,,1489
+gmdm10.bsp,quake/maps/bsp/gmdm10.bsp,,Quake 1,Delirium Continuum - Myst,,626
+gmdm10.bsp,quake/maps/single-map-zips/gmdm10.zip,maps/gmdm10.bsp,Quake 1,Delirium Continuum - Myst,"Ryan ""Myst"" Boucher",626
+gmdm2.bsp,quake/maps/bsp/gmdm2.bsp,,Quake 1,Dark Dreams - myst,,337
+gmdm2.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/gmdm2.bsp,Quake 1,Dark Dreams - myst,,337
+gmdm2.bsp,quake/maps/single-map-zips/gmdm2.zip,maps/gmdm2.bsp,Quake 1,Dark Dreams - myst,"Ryan ""Myst"" Boucher",342
+gmdm3.bsp,quake/maps/bsp/gmdm3.bsp,,Quake 1,midnight - goofey,,547
+gmdm3.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/gmdm3.bsp,Quake 1,midnight - goofey,,547
+gmdm3.bsp,quake/maps/single-map-zips/gmdm3.zip,maps/gmdm3.bsp,Quake 1,midnight - goofey,Nathan 'Goofey' Cattle,547
+gmdm4.bsp,quake/maps/bsp/gmdm4.bsp,,unrecognized (damaged or not a map),,,253
+gmdm4.bsp,quake/maps/single-map-zips/gmdm4.zip,maps/gmdm4.bsp,Quake 1,Blue Belief - Myst,"Ryan ""Myst"" Boucher",308
+gmdm5.bsp,quake/maps/bsp/gmdm5.bsp,,Quake 1,Killus Maximus - Goofey,,438
+gmdm5.bsp,quake/maps/single-map-zips/gmdm5.zip,maps/gmdm5.bsp,Quake 1,Killus Maximus - Goofey,Nathan 'Goofey' Cattle,438
+gmdm6.bsp,quake/maps/bsp/gmdm6.bsp,,Quake 1,Haunted Halls - Myst,,460
+gmdm6.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/gmdm6.bsp,Quake 1,Haunted Halls - Myst,,460
+gmdm6.bsp,quake/maps/single-map-zips/gmdm6.zip,maps/gmdm6.bsp,Quake 1,Haunted Halls - Myst,"Ryan ""Myst"" Boucher",453
+gmdm7.bsp,quake/maps/bsp/gmdm7.bsp,,Quake 1,Keepers Warehouse - Goofey,,551
+gmdm7.bsp,quake/maps/single-map-zips/gmdm7.zip,maps/gmdm7.bsp,Quake 1,Keepers Warehouse - Goofey,Nathan 'Goofey' Cattle,551
+gmdm8.bsp,quake/maps/bsp/gmdm8.bsp,,Quake 1,Forgotten City,,458
+gmdm8.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/gmdm8.bsp,Quake 1,Forgotten City,,458
+gmdm8.bsp,quake/maps/single-map-zips/gmdm8.zip,maps/gmdm8.bsp,Quake 1,Forgotten City,"Ryan ""Myst"" Boucher",467
+gmdm9.bsp,quake/maps/bsp/gmdm9.bsp,,Quake 1,Knight Life - Goofey,,457
+gmdm9.bsp,quake/maps/single-map-zips/gmdm9.zip,maps/gmdm9.bsp,Quake 1,Knight Life - Goofey,,457
+gmskeet.bsp,quake/maps/bsp/gmskeet.bsp,,Quake 1,Gun Man's Skeet Range,,221
+gnarfun2.bsp,quake/maps/bsp/gnarfun2.bsp,,Quake 1,Gnarly fun Mk 2 Now with working triggers!,,2351
+gnartest.bsp,quake/maps/bsp/gnartest.bsp,,Quake 1,Co Op Jump Map? By Gnarler,,785
+gnats.bsp,quake/maps/bsp/gnats.bsp,,Quake 1,GNATS!! By [SS] Jahandar THEME: AirScout Combat,,334
+gnoctf1.bsp,quake/maps/bsp/gnoctf1.bsp,,Quake 1,FragTown 5 - Dallas,,1135
+gnodm1.bsp,quake/maps/bsp/gnodm1.bsp,,Quake 1,FragTown 5 - Dallas,,1152
+gnodm1.bsp,quake/maps/single-map-zips/gnodm1.zip,maps/gnodm1.bsp,Quake 1,FragTown 5 - Dallas,,1152
+gnrtr.bsp,quake/maps/bsp/gnrtr.bsp,,Quake 1,Generator by KraQs,,189
+gnrtr.bsp,quake/maps/single-map-zips/gnrtr.zip,maps/gnrtr.bsp,Quake 1,Generator by KraQs,,189
+gnurena.bsp,quake/maps/bsp/gnurena.bsp,,Quake 1,SeekandHide,,297
+go2hell.bsp,quake/maps/bsp/go2hell.bsp,,Quake 1,Go2Hell,,3086
+go2hell.bsp,quake/maps/single-map-zips/go2hell.zip,maps/go2hell.bsp,Quake 1,Go2Hell,,3086
+go_die1.bsp,quake/maps/bsp/go_die1.bsp,,Quake 1,,,136
+go_die1.bsp,quake/maps/single-map-zips/go_die1.zip,maps/go_die1.bsp,Quake 1,Go Die 1 (go_die1.bsp),Craig Kaminski,136
+go_die2.bsp,quake/maps/bsp/go_die2.bsp,,Quake 1,,,580
+go_die2.bsp,quake/maps/single-map-zips/go_die2.zip,maps/go_die2.bsp,Quake 1,Go Die 2 (go_die2.bsp),,580
+go_die3.bsp,quake/maps/bsp/go_die3.bsp,,Quake 1,,,377
+go_die3.bsp,quake/maps/single-map-zips/go_die3.zip,maps/go_die3.bsp,Quake 1,Go Die 3 (go_die3.bsp),,377
+goddamn.bsp,quake/maps/bsp/goddamn.bsp,,Quake 1,,,659
+goddamn.bsp,quake/maps/single-map-zips/goddamn.zip,maps/goddamn.bsp,Quake 1,God Damn It,Phil Norton [The Exorcist],659
+godsjt.bsp,quake/maps/bsp/godsjt.bsp,,Quake 1,Gods house,,2035
+goldtowr.bsp,quake/maps/bsp/goldtowr.bsp,,Quake 1,E-mail me!! - kester_84@hotmail.com,,316
+goldtowr.bsp,quake/maps/single-map-zips/goldtowr.zip,maps/goldtowr.bsp,Quake 1,E-mail me!! - kester_84@hotmail.com,,316
+gomdm2.bsp,quake/maps/bsp/gomdm2.bsp,,Quake 1,Hammer Down,,284
+gomdm2.bsp,quake/maps/single-map-zips/gomdm2.zip,maps/gomdm2.bsp,Quake 1,Hammer Down,"Daniel ""Gom Jabbar"" Leinich",284
+gomdm2v2.bsp,quake/maps/bsp/gomdm2v2.bsp,,Quake 1,GomDM2v2 - Pointless Violence,,716
+gomdm2v2.bsp,quake/maps/single-map-zips/gomdm2v2.zip,maps/gomdm2v2.bsp,Quake 1,GomDM2v2 - Pointless Violence,"Daniel ""Gom Jabbar"" Leinich",716
+gomdm3.bsp,quake/maps/bsp/gomdm3.bsp,,Quake 1,GomDM3 - Imaginations from the other side,,358
+gomdm3.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/gomdm3.bsp,Quake 1,GomDM3 - Imaginations from the other side,,358
+gomdm3.bsp,quake/maps/single-map-zips/gomdm3.zip,maps/gomdm3.bsp,Quake 1,GomDM3 - Imaginations from the other side,"Daniel ""Gom Jabbar"" Leinich",358
+gomdm4.bsp,quake/maps/bsp/gomdm4.bsp,,Quake 1,GomDM4 - Pretty Hate Machine,,806
+gomdm4.bsp,quake/maps/single-map-zips/gomdm4.zip,maps/gomdm4.bsp,Quake 1,GomDM4 - Pretty Hate Machine,"Daniel ""Gom Jabbar"" Leinich",806
+gomdm5.bsp,quake/maps/bsp/gomdm5.bsp,,Quake 1,GomDM5 - Herzblut,,949
+gomdm5.bsp,quake/maps/single-map-zips/gomdm5.zip,maps/gomdm5.bsp,Quake 1,GomDM5 - Herzblut,"Daniel ""Gom Jabbar"" Leinich",949
+gomdm6.bsp,quake/maps/bsp/gomdm6.bsp,,Quake 1,GomDM6 - Kadath,,890
+gomdm6.bsp,quake/maps/single-map-zips/gomdm6.zip,maps/gomdm6.bsp,Quake 1,GomDM6 - Kadath,"Daniel ""Gom Jabbar"" Leinich",890
+gonzodm1.bsp,quake/maps/bsp/gonzodm1.bsp,,Quake 1,Gonzodm1:wages of war,,2684
+gonzodm1.bsp,quake/maps/single-map-zips/gonzodm1.zip,maps/gonzodm1.bsp,Quake 1,Gonzodm1:wages of war,,2684
+good.bsp,quake/maps/bsp/good.bsp,,Quake 1,Good,,302
+good.bsp,quake/maps/single-map-zips/good.zip,maps/good.bsp,Quake 1,Good,,302
+goods.bsp,quake/maps/bsp/goods.bsp,,Quake 1,Lost Goods  by Je Hunter,,1022
+goods.bsp,quake/maps/single-map-zips/goods.zip,maps/goods.bsp,Quake 1,Lost Goods  by Je Hunter,,1022
+goodtime.bsp,quake/maps/bsp/goodtime.bsp,,Quake 1,7 minutes of heaven and hell Hardkores orders - if your under 18 leave (Monster fix by Hardkore),,1166
+gor1f.bsp,quake/maps/bsp/gor1f.bsp,,Quake 1,gods of rapture,,1872
+gordian.bsp,quake/maps/bsp/gordian.bsp,,Quake 1,GORDIAN'S BRICK,,1773
+gore1_wip.bsp,quake/maps/bsp/gore1_wip.bsp,,Quake 1,Gore: let me hear you speaking just for me,,1298
+gore2_wip1.bsp,quake/maps/bsp/gore2_wip1.bsp,,Quake 1,gore2: Black Celebration,,1215
+gore2_wip1.bsp,quake/maps/single-map-zips/gore2_wip1.zip,maps/gore2_wip1.bsp,Quake 1,gore2: Black Celebration,,1215
+gore2_wip2.bsp,quake/maps/bsp/gore2_wip2.bsp,,Quake 1,gore2: Black Celebration,,1254
+gore2_wip2.bsp,quake/maps/single-map-zips/gore2_wip2.zip,maps/gore2_wip2.bsp,Quake 1,gore2: Black Celebration,,1254
+gore_wip7.bsp,quake/maps/bsp/gore_wip7.bsp,,Quake 1,Gore: let me hear you speaking just for me,,1298
+gormen.bsp,quake/maps/bsp/gormen.bsp,,Quake 1,Gormenghast,,871
+gormen.bsp,quake/maps/single-map-zips/gormen.zip,maps/gormen.bsp,Quake 1,Gormenghast,,871
+gorre.bsp,quake/maps/bsp/gorre.bsp,,Quake 1,The Hall of Gorre,,674
+gorre.bsp,quake/maps/single-map-zips/gorre.zip,maps/gorre.bsp,Quake 1,The Hall of Gorre,,674
+gotcha.bsp,quake/maps/bsp/gotcha.bsp,,Quake 1,Frag'Onard's world / Gotcha! made by Frag'Onizer aka francois-xavier.delmotte@devinci.fr,,541
+gotcha.bsp,quake/maps/single-map-zips/gotcha.zip,maps/gotcha.bsp,Quake 1,Frag'Onard's world / Gotcha! made by Frag'Onizer aka francois-xavier.delmotte@devinci.fr,,541
+gothic.bsp,other-games/quake2/maps/gothic.zip,gothic.bsp,Quake 2,gothic dream by Kit Carson,,1588
+grabutch.bsp,quake/maps/bsp/grabutch.bsp,,Quake 1,Grabucho: Apotropaic Isolation,,882
+grabutch.bsp,quake/maps/single-map-zips/grabutch.zip,maps/grabutch.bsp,Quake 1,Grabucho: Apotropaic Isolation,,882
+grahf100.bsp,quake/maps/packs/100brush.zip,maps/grahf100.bsp,Quake 1,Medieval Minimalism by Grahf,,448
+grail2.bsp,quake/maps/bsp/grail2.bsp,,Quake 1,Quest for the Holy Grail Version 2 gunman@1218.org,,947
+grandm1.bsp,quake/maps/bsp/grandm1.bsp,,Quake 1,Big Square - By GrrandMaMa,,658
+grandm1.bsp,quake/maps/single-map-zips/grandm1.zip,maps/grandm1.bsp,Quake 1,Big Square - By GrrandMaMa,M. K. Cluney (GrrandMaMa),658
+grandm2.bsp,quake/maps/bsp/grandm2.bsp,,Quake 1,L'eclairage,,1374
+grandm2.bsp,quake/maps/single-map-zips/grandm2.zip,maps/grandm2.bsp,Quake 1,L'eclairage,M. K. Cluney (GrrandMaMa),1374
+grandm3.bsp,quake/maps/bsp/grandm3.bsp,,Quake 1,Fables of Faubus,,395
+grandm3.bsp,quake/maps/single-map-zips/grandm3.zip,maps/grandm3.bsp,Quake 1,Fables of Faubus,M. K. Cluney (GrrandMaMa),395
+granite.bsp,quake/maps/bsp/granite.bsp,,Quake 1,Your Mom's Custom-TF Server An Attack Scenario among Granite Outcrops By Jahandar,,2422
+grate.bsp,quake/maps/bsp/grate.bsp,,Quake 1,,,466
+graveset.bsp,quake/maps/bsp/graveset.bsp,,Quake 1,Choose your path to the Undergraves!,,743
+grayscal.bsp,quake/maps/bsp/grayscal.bsp,,Quake 1,grayscale -clone,,626
+grayscal.bsp,quake/maps/single-map-zips/grayscal.zip,maps/grayscal.bsp,Quake 1,grayscale -clone,,626
+grdm1b11.bsp,quake/maps/bsp/grdm1b11.bsp,,Quake 1,The Sacrifice by Gromm beta 11,,1601
+grdm1b11.bsp,quake/maps/single-map-zips/grdm1b11.zip,maps/grdm1b11.bsp,Quake 1,The Sacrifice by Gromm beta 11,,1601
+greece1on1.bsp,quake/maps/bsp/greece1on1.bsp,,Quake 1,Greece Arena - by Trall,,434
+greece1on1.bsp,quake/maps/single-map-zips/greece1on1.zip,maps/greece1on1.bsp,Quake 1,Greece Arena - by Trall,,434
+green.bsp,quake/maps/bsp/green.bsp,,Quake 1,,,30
+greenra.bsp,quake/maps/bsp/greenra.bsp,,Quake 1,GreenSleeves[RA] - eweide@midusa.net,,329
+greenra.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/greenra.bsp,Quake 1,GreenSleeves[RA] - eweide@midusa.net,,329
+grehouse.bsp,quake/maps/bsp/grehouse.bsp,,Quake 1,,,784
+grehouse.bsp,quake/maps/single-map-zips/grehouse.zip,maps/grehouse.bsp,Quake 1,GREENHOUSE,Karel Trubac (gt4w),784
+gren1.bsp,quake/maps/bsp/gren1.bsp,,Quake 1,,,4
+grenyard.bsp,quake/maps/bsp/grenyard.bsp,,Quake 1,GreenYard by Borys'97,,258
+grenyard.bsp,quake/maps/single-map-zips/grenyard.zip,maps/grenyard.bsp,Quake 1,GreenYard by Borys'97,Borys Siewczynski,258
+greybox_wip01.bsp,quake/maps/bsp/greybox_wip01.bsp,,Quake 1,greybox v0.4 by gb,,1115
+greybox_wip01.bsp,quake/maps/single-map-zips/greybox_wip01.zip,maps/greybox_wip01.bsp,Quake 1,greybox v0.4 by gb,,1115
+greybox_wip05.bsp,quake/maps/bsp/greybox_wip05.bsp,,Quake 1,greybox v0.5 by gb,,1178
+greybox_wip05.bsp,quake/maps/single-map-zips/greybox_wip05.zip,maps/greybox_wip05.bsp,Quake 1,greybox v0.5 by gb,,1178
+greywrld.bsp,quake/maps/bsp/greywrld.bsp,,Quake 1,http://titan.glo.be/ozric,,861
+greywrld.bsp,quake/maps/single-map-zips/greywrld.zip,maps/greywrld.bsp,Quake 1,http://titan.glo.be/ozric,AKiRA ( Member of Clan Bambi ),861
+gridlock.bsp,quake/maps/bsp/gridlock.bsp,,Quake 1,,,361
+grim.bsp,quake/maps/bsp/grim.bsp,,Quake 1,grimbyqurnel,,1412
+grim.bsp,quake/maps/single-map-zips/grim.zip,maps/grim.bsp,Quake 1,grimbyqurnel,,1412
+grind07.bsp,quake/maps/bsp/grind07.bsp,,Quake 1,The Grind - rocketman,,348
+grind07.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/grind07.bsp,Quake 1,The Grind - rocketman,,348
+grind07.bsp,quake/maps/single-map-zips/grind07.zip,maps/grind07.bsp,Quake 1,The Grind - rocketman,,348
+grippdm1.bsp,quake/maps/bsp/grippdm1.bsp,,Quake 1,Collision Course -- Mike Ruete / Gripp,,626
+grippdm1.bsp,quake/maps/single-map-zips/grippdm1.zip,maps/grippdm1.bsp,Quake 1,Collision Course -- Mike Ruete / Gripp,"Mike Ruete / ""Gripp""",626
+grostarindm2.bsp,quake/maps/bsp/grostarindm2.bsp,,Quake 1,Grostarin DM2,,486
+grostarindm2.bsp,quake/maps/single-map-zips/grostarindm2.zip,maps/grostarindm2.bsp,Quake 1,Grostarin DM2,Grostarin,486
+ground1.bsp,quake/maps/bsp/ground1.bsp,,Quake 1,GroPos Combat #1,,405
+grounds1.bsp,quake/maps/bsp/grounds1.bsp,,Quake 1,Castle vs Castle Practice Zone 1 By SoUL!_eSZ,,644
+growth.bsp,quake/maps/bsp/growth.bsp,,Quake 1,Untamed OverGrowth - by yataze,,437
+grunttest.bsp,quake/maps/bsp/grunttest.bsp,,Quake 1,testmap,,177
+grymsnip.bsp,quake/maps/bsp/grymsnip.bsp,,Quake 1,<SILHOUETTE> -BY- GRYMQ,,255
+gs.bsp,quake/maps/bsp/gs.bsp,,Quake 1,gs - Get Some! - rocketman 615k,,628
+gs.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/gs.bsp,Quake 1,gs - Get Some! - rocketman 615k,,628
+gs.bsp,quake/maps/single-map-zips/gs.zip,maps/gs.bsp,Quake 1,gs - Get Some! - rocketman 615k,,628
+gs1dm1.bsp,quake/maps/bsp/gs1dm1.bsp,,Quake 1,Naked Beatroot - By GrindSpire,,1009
+gs1dm1.bsp,quake/maps/single-map-zips/gs1dm1.zip,maps/gs1dm1.bsp,Quake 1,Naked Beatroot - By GrindSpire,,1009
+gs1dm2.bsp,quake/maps/bsp/gs1dm2.bsp,,Quake 1,Solar Plexus - By GrindSpire,,850
+gs1dm2.bsp,quake/maps/single-map-zips/gs1dm2.zip,maps/gs1dm2.bsp,Quake 1,Solar Plexus - By GrindSpire,,850
+gscale.bsp,quake/maps/bsp/gscale.bsp,,Quake 1,grayscale -clone,,626
+gscale.bsp,quake/maps/single-map-zips/gscale.zip,maps/gscale.bsp,Quake 1,grayscale -clone,,626
+gscout.bsp,quake/maps/bsp/gscout.bsp,,Quake 1,Gay Scouts beware of DrSmooth...,,234
+gta.bsp,quake/maps/bsp/gta.bsp,,Quake 1,,,53
+gta.bsp,quake/maps/single-map-zips/gta.zip,maps/gta.bsp,Quake 1,,,53
+gtf4.bsp,quake/maps/bsp/gtf4.bsp,,Quake 1,Silicon Valley v1.4 Greymon's First TF Map <mlmanuel@mindspring.com>,,1203
+guardian.bsp,quake/maps/bsp/guardian.bsp,,Quake 1,The Guardian Layer By Soul,,712
+gun.bsp,quake/maps/bsp/gun.bsp,,Quake 1,Guncotton,,1325
+gun2.bsp,quake/maps/bsp/gun2.bsp,,Quake 1,Guncotton,,1954
+gunman01.bsp,quake/maps/bsp/gunman01.bsp,,Quake 1,Pathways,,1469
+gunman01.bsp,quake/maps/single-map-zips/gunman01.zip,maps/gunman01.bsp,Quake 1,Pathways,"Kevin ""GunnerMan"" Gwartney",1469
+gunner.bsp,quake/maps/bsp/gunner.bsp,,Quake 1,,,651
+gunner.bsp,quake/maps/single-map-zips/gunner.zip,maps/gunner.bsp,Quake 1,gunner,Jason Clogg (gunner),651
+gutz.bsp,quake/maps/bsp/gutz.bsp,,Quake 1,Gutz (by Limpy),,313
+gutz.bsp,quake/maps/single-map-zips/gutz.zip,maps/gutz.bsp,Quake 1,Gutz (by Limpy),,313
+gw2hell.bsp,quake/maps/bsp/gw2hell.bsp,,Quake 1,Gateway to hell,,333
+gw2hell.bsp,quake/maps/single-map-zips/gw2hell.zip,maps/gw2hell.bsp,Quake 1,Gateway to hell,,333
+gw99.bsp,quake/maps/bsp/gw99.bsp,,Quake 1,gloomworld 99,,379
+gw99.bsp,quake/maps/single-map-zips/gw99.zip,maps/gw99.bsp,Quake 1,gloomworld 99,Olivier Desmet,379
+gworld.bsp,quake/maps/bsp/gworld.bsp,,Quake 1,Gloomworld by Eugenius,,350
+gworld.bsp,quake/maps/packs/quakeone_maps.zip,gworld.bsp,Quake 1,Gloomworld by Eugenius,,350
+gworld.bsp,quake/maps/single-map-zips/gworld.zip,maps/gworld.bsp,Quake 1,Gloomworld by Eugenius,eugene kuznetsov,350
+gygax.bsp,quake/maps/bsp/gygax.bsp,,Quake 1,Gygax by A. Gottfridsson,,580
+gygax.bsp,quake/maps/single-map-zips/gygax.zip,maps/gygax.bsp,Quake 1,Gygax by A. Gottfridsson,,580
+gym.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/gym.bsp,Quake 1,The Gymnasium --- by Forrest,,1029
+gym.bsp,quake/maps/bsp/gym.bsp,,Quake 1,The Gymnasium --- by Forrest,,1029
+gym.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/gym.bsp,Quake 1,The Gymnasium --- by Forrest,,1029
+gym2.bsp,quake/maps/bsp/gym2.bsp,,Quake 1,,,357

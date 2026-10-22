@@ -1,0 +1,291 @@
+map_file,location,path_inside_archive,format,title,author,size_kb
+q-base.bsp,quake/maps/bsp/q-base.bsp,,Quake 1,Base By:Felipe G.,,192
+q-base.bsp,quake/maps/single-map-zips/q-base.zip,maps/q-base.bsp,Quake 1,Base By:Felipe G.,Felipe Garcia,303
+q1_q2dm1.bsp,quake/maps/bsp/q1_q2dm1.bsp,,Quake 1,Retroact-Edge,,864
+q1_q2dm1.bsp,quake/maps/single-map-zips/q1_q2dm1.zip,maps/q1_q2dm1.bsp,Quake 1,Retroact-Edge,"Steve ""magicman"" Thoms",864
+q1_q2dm3.bsp,quake/maps/bsp/q1_q2dm3.bsp,,Quake 1,PreFrag Pipe,,731
+q1_q2dm3.bsp,quake/maps/single-map-zips/q1_q2dm3.zip,maps/q1_q2dm3.bsp,Quake 1,PreFrag Pipe,"Steve ""magicman"" Thoms",731
+q1_q3dm13.bsp,quake/maps/bsp/q1_q3dm13.bsp,,Quake 1,The Lost World - Converted to Q1 by Jeff McWhorter,,2500
+q1_q3dm13.bsp,quake/maps/single-map-zips/q1_q3dm13.zip,maps/q1_q3dm13.bsp,Quake 1,The Lost World - Converted to Q1 by Jeff McWhorter,Jeff McWhorter,2500
+q1_q3dm17.bsp,quake/maps/bsp/q1_q3dm17.bsp,,Quake 1,The Longest Yard,,1536
+q1_q3dm17.bsp,quake/maps/single-map-zips/q1_q3dm17.zip,maps/q1_q3dm17.bsp,Quake 1,The Longest Yard,,1536
+q1_q3dm6.bsp,quake/maps/bsp/q1_q3dm6.bsp,,Quake 1,The Campgrounds....Conversion by Plutonium,,2887
+q1_q3dm6.bsp,quake/maps/single-map-zips/q1_q3dm6.zip,maps/q1_q3dm6.bsp,Quake 1,The Campgrounds....Conversion by Plutonium,,2887
+q1_q3tourney2.bsp,quake/maps/bsp/q1_q3tourney2.bsp,,Quake 1,The Proving Grounds - Conversion By Plutonium,,1238
+q1_q3tourney2.bsp,quake/maps/single-map-zips/q1_q3tourney2.zip,maps/q1_q3tourney2.bsp,Quake 1,The Proving Grounds - Conversion By Plutonium,Jeff McWhorter,1238
+q1a.bsp,quake/maps/bsp/q1a.bsp,,Quake 1,-[Q1A]- By Dj Chris,,103
+q1a.bsp,quake/maps/single-map-zips/q1a.zip,maps/q1a.bsp,Quake 1,-[Q1A]- By Dj Chris,,103
+q1a_dm1.bsp,quake/maps/bsp/q1a_dm1.bsp,,Quake 1,Qa_Dm by freak,,488
+q1a_dm1.bsp,quake/maps/single-map-zips/q1a_dm1.zip,maps/q1a_dm1.bsp,Quake 1,Qa_Dm by freak,,488
+q1a_dm2.bsp,quake/maps/bsp/q1a_dm2.bsp,,Quake 1,The Arena by Freak,,377
+q1a_dm2.bsp,quake/maps/single-map-zips/q1a_dm2.zip,maps/q1a_dm2.bsp,Quake 1,The Arena by Freak,,377
+q1adm1.bsp,quake/maps/bsp/q1adm1.bsp,,Quake 1,Quake 1 Arena DM 1 - Harb!ngeR,,1094
+q1adm1.bsp,quake/maps/single-map-zips/q1adm1.zip,maps/q1adm1.bsp,Quake 1,Quake 1 Arena DM 1 - Harb!ngeR,The Harb!ngeR of Fish,1094
+q1anni-beta3.bsp,quake/maps/bsp/q1anni-beta3.bsp,,Quake 1,Lava Station,,813
+q1anni-beta3.bsp,quake/maps/single-map-zips/q1anni-beta3.zip,maps/q1anni-beta3.bsp,Quake 1,Lava Station,,813
+q1arena1.bsp,quake/maps/bsp/q1arena1.bsp,,Quake 1,q1 arena - haqsau and rocketman,,404
+q1arena1.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/q1arena1.bsp,Quake 1,q1 arena - haqsau and rocketman,,404
+q1arena1.bsp,quake/maps/single-map-zips/q1arena1.zip,maps/q1arena1.bsp,Quake 1,q1 arena - haqsau and rocketman,,404
+q1b.bsp,quake/maps/bsp/q1b.bsp,,Quake 1,Welcome to q1b! Made by Dj Chris,,145
+q1b.bsp,quake/maps/single-map-zips/q1b.zip,maps/q1b.bsp,Quake 1,Welcome to q1b! Made by Dj Chris,,145
+q1ctf1.bsp,quake/maps/bsp/q1ctf1.bsp,,Quake 1,Warhouses Retro by Hafhead of Dteam,,1472
+q1ctf2.bsp,quake/maps/bsp/q1ctf2.bsp,,Quake 1,Ice Caves by Zuel of Dteam,,595
+q1ctf3.bsp,quake/maps/bsp/q1ctf3.bsp,,Quake 1,Nicole's Perseverance (*This),,1054
+q1ctf4.bsp,quake/maps/bsp/q1ctf4.bsp,,Quake 1,Blood Feud by Hafhead of Dteam,,1248
+q1ctf5.bsp,quake/maps/bsp/q1ctf5.bsp,,Quake 1,The Key by dolomite of Dteam,,1320
+q1ctf6.bsp,quake/maps/bsp/q1ctf6.bsp,,Quake 1,Quake-Henge by Zuel of Dteam,,1725
+q1ctf7.bsp,quake/maps/bsp/q1ctf7.bsp,,Quake 1,Cheat Sheet by dolomite of Dteam,,1064
+q1ctf8.bsp,quake/maps/bsp/q1ctf8.bsp,,Quake 1,Mason's Shelf by Zuel of Dteam,,1261
+q1dm17.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q1dm17.bsp,Quake 1,The Longest Yard,,1536
+q1dm17.bsp,quake/maps/bsp/q1dm17.bsp,,Quake 1,The Longest Yard,,1536
+q1dm17.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/q1dm17.bsp,Quake 1,The Longest Yard,,1536
+q1dm17.bsp,quake/maps/packs/quakeone_maps.zip,q1dm17.bsp,Quake 1,The Longest Yard,,1536
+q1dm17.bsp,quake/maps/single-map-zips/q1dm17.zip,maps/q1dm17.bsp,Quake 1,The Longest Yard,Jeff McWhorter,1536
+q1dm17rail.bsp,quake/maps/bsp/q1dm17rail.bsp,,Quake 1,The Longest Yard,,1536
+q1dm17rail.bsp,quake/maps/single-map-zips/q1dm17rail.zip,maps/q1dm17rail.bsp,Quake 1,The Longest Yard,,1536
+q1dm17x2.bsp,quake/maps/bsp/q1dm17x2.bsp,,Quake 1,The Longest Yard,,872
+q1dm17x2.bsp,quake/maps/single-map-zips/q1dm17x2.zip,maps/q1dm17x2.bsp,Quake 1,The Longest Yard,,872
+q1dm17x2b.bsp,quake/maps/bsp/q1dm17x2b.bsp,,Quake 1,The Longest Yard,,1141
+q1dm17x2b.bsp,quake/maps/single-map-zips/q1dm17x2b.zip,maps/q1dm17x2b.bsp,Quake 1,The Longest Yard,,1141
+q1edge.bsp,quake/maps/bsp/q1edge.bsp,,Quake 1,The Edge Conversion,,1192
+q1edge.bsp,quake/maps/packs/quakeone_maps.zip,q1edge.bsp,Quake 1,The Edge Conversion,,1192
+q1edge.bsp,quake/maps/single-map-zips/q1edge.zip,maps/q1edge.bsp,Quake 1,The Edge Conversion,,1192
+q1edgepk.bsp,quake/maps/bsp/q1edgepk.bsp,,Quake 1,The Edge Conversion,,1193
+q1edgepk.bsp,quake/maps/single-map-zips/q1edgepk.zip,maps/q1edgepk.bsp,Quake 1,The Edge Conversion,,1193
+q1fear2.bsp,quake/maps/bsp/q1fear2.bsp,,Quake 1,Feartower By Pirate,,862
+q1golf91.bsp,quake/maps/bsp/q1golf91.bsp,,Quake 1,Q1 Golf  v.91 BETA by Dr_Death,,965
+q1kath.bsp,quake/maps/bsp/q1kath.bsp,,Quake 1,Kathedral,,1972
+q1kath.bsp,quake/maps/single-map-zips/q1kath.zip,maps/q1kath.bsp,Quake 1,Kathedral,,1972
+q1ospdm5.bsp,quake/maps/bsp/q1ospdm5.bsp,,Quake 1,Deep Inside by Teddy // Q1 Version by Mick,,1658
+q1ospdm5.bsp,quake/maps/single-map-zips/q1ospdm5.zip,maps/q1ospdm5.bsp,Quake 1,Deep Inside by Teddy // Q1 Version by Mick,Mick,1658
+q1q3almostlost.bsp,quake/maps/bsp/q1q3almostlost.bsp,,Quake 1,Almost Lost - by ID Software Project Q1Q3 QW conversion by Mick 2014 qw.nu/forum/topic/6152,,2097
+q1q3alrl.bsp,quake/maps/bsp/q1q3alrl.bsp,,Quake 1,Almost Lost (RL) - by ID Software Project Q1Q3 - HammerTime edition QW conversion by Mick and Lurq,,2694
+q1q3asylum_beta2.bsp,quake/maps/bsp/q1q3asylum_beta2.bsp,,Quake 1,Asylum - by ID Software Project Q1Q3 QW conversion by Mick 2015 qw.nu/forum/topic/6152,,1562
+q1q3cpm4_beta4.bsp,quake/maps/bsp/q1q3cpm4_beta4.bsp,,Quake 1,Realm of Steel Rats by Khaile // Q1 Conversion by Mick,,1457
+q1q3cpm4_beta6.bsp,quake/maps/bsp/q1q3cpm4_beta6.bsp,,Quake 1,Realm of Steel Rats by Khaile Project Q1Q3 QW conversion by Mick 2014 qw.nu/forum/topic/6152,,1458
+q1q3cure_beta9.bsp,quake/maps/bsp/q1q3cure_beta9.bsp,,Quake 1,Cure by Ferdinand 'cityy' List Project Q1Q3 QW conversion by Mick 2018 qw.nu/forum/topic/6152,,4303
+q1q3dm14.bsp,quake/maps/bsp/q1q3dm14.bsp,,Quake 1,Grim Dungeons by ID Software - Q1 Version by Mick,,3695
+q1q3dm14.bsp,quake/maps/single-map-zips/q1q3dm14.zip,maps/q1q3dm14.bsp,Quake 1,Grim Dungeons by ID Software - Q1 Version by Mick,Mick,3787
+q1q3dm7_beta4.bsp,quake/maps/bsp/q1q3dm7_beta4.bsp,,Quake 1,Temple of Retribution by ID // Q1 Conversion by Mick,,4067
+q1q3elder_beta1.bsp,quake/maps/bsp/q1q3elder_beta1.bsp,,Quake 1,Elder - by ID Software Project Q1Q3 QW conversion by Mick 2016 qw.nu/forum/topic/6152,,1790
+q1q3evolution_beta2.bsp,quake/maps/bsp/q1q3evolution_beta2.bsp,,Quake 1,Evolution by Till Merker Project Q1Q3 QW conversion by Mick 2014 quakeworld.nu/forum/topic/6152,,897
+q1q3fheights_beta4.bsp,quake/maps/bsp/q1q3fheights_beta4.bsp,,Quake 1,Furious Heights,,2394
+q1q3gaudy_beta2.bsp,quake/maps/bsp/q1q3gaudy_beta2.bsp,,Quake 1,Gaudy - by HAL9000 Project Q1Q3 QW conversion by Mick 2015 qw.nu/forum/topic/6152,,1054
+q1q3hektik.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q1q3hektik.bsp,Quake 1,Hektik by swelt // Q1 Conversion by Mick,,1489
+q1q3hektik.bsp,quake/maps/bsp/q1q3hektik.bsp,,Quake 1,Hektik by swelt // Q1 Conversion by Mick,,1489
+q1q3hektik.bsp,quake/maps/single-map-zips/q1q3hektik.zip,maps/q1q3hektik.bsp,Quake 1,Hektik by swelt // Q1 Conversion by Mick,Mick,1506
+q1q3lastgift_beta2.bsp,quake/maps/bsp/q1q3lastgift_beta2.bsp,,Quake 1,The Last Gift - by Suicide-20 Project Q1Q3 QW conversion by Mick 2015 qw.nu/forum/topic/6152,,1706
+q1q3monsoon.bsp,quake/maps/bsp/q1q3monsoon.bsp,,Quake 1,Monsoon by Lukin (xtn's remix) // Q1 Conversion by Mick,,1467
+q1q3monsoon.bsp,quake/maps/single-map-zips/q1q3monsoon.zip,maps/q1q3monsoon.bsp,Quake 1,Monsoon by Lukin (xtn's remix) // Q1 Conversion by Mick,Mick,1467
+q1q3ospdm5.bsp,quake/maps/bsp/q1q3ospdm5.bsp,,Quake 1,Deep Inside by Teddy // Q1 Version by Mick,,1728
+q1q3ospdm5.bsp,quake/maps/single-map-zips/q1q3ospdm5.zip,maps/q1q3ospdm5.bsp,Quake 1,Deep Inside by Teddy // Q1 Version by Mick,,1728
+q1q3overkill_beta6.bsp,quake/maps/bsp/q1q3overkill_beta6.bsp,,Quake 1,All The Aces - by Wiebo // Q1 Version by Mick,,2310
+q1q3phrantic.bsp,quake/maps/bsp/q1q3phrantic.bsp,,Quake 1,Phrantic by swelt // Q1 Conversion by Mick,,886
+q1q3phrantic.bsp,quake/maps/single-map-zips/q1q3phrantic.zip,maps/q1q3phrantic.bsp,Quake 1,Phrantic by swelt // Q1 Conversion by Mick,,886
+q1q3solid.bsp,quake/maps/bsp/q1q3solid.bsp,,Quake 1,Solid by swelt // Q1 Conversion by Mick,,1204
+q1q3solid.bsp,quake/maps/single-map-zips/q1q3solid.zip,maps/q1q3solid.bsp,Quake 1,Solid by swelt // Q1 Conversion by Mick,,1204
+q1q3test.bsp,quake/maps/bsp/q1q3test.bsp,,Quake 1,The Not-so-Long Yard,,857
+q1q3test.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/q1q3test.bsp,Quake 1,The Not-so-Long Yard,,857
+q1q3test.bsp,quake/maps/single-map-zips/q1q3test.zip,maps/q1q3test.bsp,Quake 1,The Not-so-Long Yard,,857
+q1q3test2.bsp,quake/maps/bsp/q1q3test2.bsp,,Quake 1,The Not-so-Long Yard,,857
+q1q3test2.bsp,quake/maps/single-map-zips/q1q3test2.zip,maps/q1q3test2.bsp,Quake 1,The Not-so-Long Yard,,857
+q1q3thunderstruck.bsp,quake/maps/bsp/q1q3thunderstruck.bsp,,Quake 1,ThunderStruck by Till Merker // Q1 Conversion by Mick,,1074
+q1q3thunderstruck.bsp,quake/maps/single-map-zips/q1q3thunderstruck.zip,maps/q1q3thunderstruck.bsp,Quake 1,ThunderStruck by Till Merker // Q1 Conversion by Mick,,1074
+q1q3tourney4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q1q3tourney4.bsp,Quake 1,Vertical Vengeance II - by ID Software // Q1 Version by Mick,,1230
+q1q3toxfix_b2.bsp,quake/maps/bsp/q1q3toxfix_b2.bsp,,Quake 1,toxicity by thefury [toxfix beta 2] Project Q1Q3 QW conversion by Mick 2015 fixes by Thuriam 2018 [BETA 2] quakeworld.nu/forum/topic/7316,,2527
+q1q3toxicity.bsp,quake/maps/bsp/q1q3toxicity.bsp,,Quake 1,Toxicity by thefury QW conversion by Mick & Thuriam 2015-19 quakeworld.nu/forum/topic/7316 Project Q1Q3 quakeworld.nu/forum/topic/6152,,3523
+q1q3toxicity_beta6.bsp,quake/maps/bsp/q1q3toxicity_beta6.bsp,,Quake 1,toxicity by thefury // Q1 Conversion by Mick,,2490
+q1q3trinity_beta4.bsp,quake/maps/bsp/q1q3trinity_beta4.bsp,,Quake 1,Trinity by ID Software // Q1 Conversion by Mick,,2049
+q1q3vertical_beta5.bsp,quake/maps/bsp/q1q3vertical_beta5.bsp,,Quake 1,Vertical Vengeance by ID Software // Q1 Conversion by Mick,,1717
+q1shw1.bsp,quake/maps/bsp/q1shw1.bsp,,Quake 1,Devastation by ShadoW,,1145
+q1shw1.bsp,quake/maps/single-map-zips/q1shw1.zip,maps/q1shw1.bsp,Quake 1,Devastation by ShadoW,,1145
+q1shw2.bsp,quake/maps/bsp/q1shw2.bsp,,Quake 1,Deep Scars by ShadoW,,734
+q1shw2.bsp,quake/maps/single-map-zips/q1shw2.zip,maps/q1shw2.bsp,Quake 1,Deep Scars by ShadoW,,734
+q1shw2_b2.bsp,quake/maps/bsp/q1shw2_b2.bsp,,Quake 1,Deep Scars by ShadoW,,752
+q1shw2_b2.bsp,quake/maps/single-map-zips/q1shw2_b2.zip,maps/q1shw2_b2.bsp,Quake 1,Deep Scars by ShadoW,,752
+q1syntho.bsp,quake/maps/bsp/q1syntho.bsp,,Quake 1,Synthetic Origin-Q1,,441
+q1syntho.bsp,quake/maps/single-map-zips/q1syntho.zip,maps/q1syntho.bsp,Quake 1,Synthetic Origin-Q1,Mike Daugherty [aka Jerkoff],441
+q1tm2_remnent.bsp,quake/maps/bsp/q1tm2_remnent.bsp,,Quake 1,Johnny_Utah by remnent,,583
+q1tm2_remnent.bsp,quake/maps/single-map-zips/q1tm2_remnent.zip,maps/q1tm2_remnent.bsp,Quake 1,Johnny_Utah by remnent,Randall Holland,583
+q1tm3_lev.bsp,quake/maps/bsp/q1tm3_lev.bsp,,Quake 1,At Least it Has Crates,,938
+q1tm_speedy.bsp,quake/maps/bsp/q1tm_speedy.bsp,,Quake 1,HalfDead by Speedy,,640
+q1tm_speedy.bsp,quake/maps/single-map-zips/q1tm_speedy.zip,maps/q1tm_speedy.bsp,Quake 1,HalfDead by Speedy,Speedy,640
+q2dm1.bsp,quake/maps/bsp/q2dm1.bsp,,Quake 1,,,432
+q2dm1.bsp,quake/maps/packs/quake1.zip,q2dm1.bsp,Quake 1,,,432
+q2dm1.bsp,quake/maps/single-map-zips/q2dm1.zip,maps/q2dm1.bsp,Quake 1,q2dm1,Rampage!,432
+q2dmv1.bsp,other-games/quake2/q2dmv1(1).zip,q2dmv1.bsp,Quake 2,,,543
+q2dmv1.bsp,other-games/quake2/q2dmv1.zip,q2dmv1.bsp,Quake 2,,,543
+q3_tim1.bsp,quake/maps/bsp/q3_tim1.bsp,,Quake 1,Q3 by FreaK StorM,,334
+q3_tim1.bsp,quake/maps/single-map-zips/q3_tim1.zip,maps/q3_tim1.bsp,Quake 1,Q3 by FreaK StorM,,334
+q3dm13qw.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q3dm13qw.bsp,Quake 1,The Lost World - Converted to Q1 by Jeff McWhorter / Fixed by Muff1n,,2502
+q3dm6ish.bsp,other-games/quake3/q3dm6ish.zip,q3dm6ish.bsp,Quake 1,Q3DM6-ish by Aardappel,,479
+q3dm6ish.bsp,quake/maps/bsp/q3dm6ish.bsp,,Quake 1,Q3DM6-ish by Aardappel,,479
+q3dm6ish.bsp,quake/maps/single-map-zips/q3dm6ish.zip,maps/q3dm6ish.bsp,Quake 1,Q3DM6-ish by Aardappel,,479
+q3dm6qw.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q3dm6qw.bsp,Quake 1,The Campgrounds by SamoN,,2675
+q3dm6qw.bsp,quake/maps/bsp/q3dm6qw.bsp,,Quake 1,The Campgrounds by SamoN,,2675
+q3dm6qw.bsp,quake/maps/packs/quakeone_maps.zip,q3dm6qw.bsp,Quake 1,The Campgrounds by SamoN,,2675
+q3dm6qw.bsp,quake/maps/single-map-zips/q3dm6qw.zip,maps/q3dm6qw.bsp,Quake 1,The Campgrounds by SamoN,,2675
+q3dm6qwt.bsp,quake/maps/bsp/q3dm6qwt.bsp,,Quake 1,The Campgrounds by SamoN,,2675
+q3dm6qwt.bsp,quake/maps/single-map-zips/q3dm6qwt.zip,maps/q3dm6qwt.bsp,Quake 1,The Campgrounds by SamoN,,2675
+q_d5m1.bsp,quake/maps/bsp/q_d5m1.bsp,,Quake 1,In Honor of Doom,,1031
+q_d5m1.bsp,quake/maps/single-map-zips/q_d5m1.zip,maps/q_d5m1.bsp,Quake 1,In Honor of Doom,,1031
+q_dagon_66.bsp,quake/maps/bsp/q_dagon_66.bsp,,Quake 1,DAGON'S DEMESNE,,1408
+q_dagon_66.bsp,quake/maps/single-map-zips/q_dagon_66.zip,maps/q_dagon_66.bsp,Quake 1,DAGON'S DEMESNE,,1408
+q_dm.bsp,quake/maps/bsp/q_dm.bsp,,Quake 1,q_dm,,361
+q_dm.bsp,quake/maps/single-map-zips/q_dm.zip,maps/q_dm.bsp,Quake 1,q_dm,Peter Bisseker,361
+q_unlag1.bsp,quake/maps/bsp/q_unlag1.bsp,,Quake 1,UNLEASHED AGGRESSION 1,,761
+q_unlag1.bsp,quake/maps/single-map-zips/q_unlag1.zip,maps/q_unlag1.bsp,Quake 1,UNLEASHED AGGRESSION 1,"Thomas Moeller, alias vorphalack of TiC",761
+q_unlag2.bsp,quake/maps/bsp/q_unlag2.bsp,,Quake 1,UNLEASHED AGGRESSION 2,,839
+q_unlag2.bsp,quake/maps/single-map-zips/q_unlag2.zip,maps/q_unlag2.bsp,Quake 1,UNLEASHED AGGRESSION 2,"Thomas Moeller, alias vorphalack of TiC",839
+q_unlag3.bsp,quake/maps/bsp/q_unlag3.bsp,,Quake 1,UNLEASHED AGGRESSION 3,,556
+q_unlag3.bsp,quake/maps/single-map-zips/q_unlag3.zip,maps/q_unlag3.bsp,Quake 1,UNLEASHED AGGRESSION 3,"Thomas Moeller, alias vorph of TiC",556
+qakula.bsp,quake/maps/bsp/qakula.bsp,,Quake 1,Qakula,,1227
+qakula.bsp,quake/maps/single-map-zips/qakula.zip,maps/qakula.bsp,Quake 1,Qakula,,1227
+qakula2.bsp,quake/maps/bsp/qakula2.bsp,,Quake 1,Gormenghast Village,,1030
+qakula2.bsp,quake/maps/single-map-zips/qakula2.zip,maps/qakula2.bsp,Quake 1,Gormenghast Village,,1030
+qakula4.bsp,quake/maps/bsp/qakula4.bsp,,Quake 1,The Ruins of Athelstan,,1330
+qarena.bsp,quake/maps/bsp/qarena.bsp,,Quake 1,Entering THREDLEVEL,,499
+qarena.bsp,quake/maps/single-map-zips/qarena.zip,maps/qarena.bsp,Quake 1,Entering THREDLEVEL,James Smallwood (MrBoots),499
+qarnifex.bsp,quake/maps/bsp/qarnifex.bsp,,Quake 1,Qarnifex Q1 -- by JWS,,245
+qarnifex.bsp,quake/maps/single-map-zips/qarnifex.zip,maps/qarnifex.bsp,Quake 1,Qarnifex Q1 -- by JWS,JWS,245
+qc10q23.bsp,quake/maps/bsp/qc10q23.bsp,,Quake 1,Caverna (Beta) V0.5,,1096
+qc12q09.bsp,quake/maps/bsp/qc12q09.bsp,,Quake 1,Caverna (Beta 2) [12/09],,1507
+qchunks.bsp,quake/maps/bsp/qchunks.bsp,,Quake 1,Chris' Test Map,,178
+qchunks.bsp,quake/maps/single-map-zips/qchunks.zip,maps/qchunks.bsp,Quake 1,Chris' Test Map,,178
+qcon1.bsp,quake/maps/bsp/qcon1.bsp,,Quake 1,Fragstar Deathmatch One QuakeCon 97 Tournament Map by Dennis Kaltwasser (headshot),,367
+qcon1.bsp,quake/maps/single-map-zips/qcon1.zip,maps/qcon1.bsp,Quake 1,Fragstar Deathmatch One QuakeCon 97 Tournament Map by Dennis Kaltwasser (headshot),Dennis Kaltwasser (headshot of Clan Fragstar),367
+qcon11.bsp,quake/maps/bsp/qcon11.bsp,,Quake 1,Fragstar Deathmatch One QuakeCon 97 Tournament Map by Dennis Kaltwasser (headshot),,367
+qcon11.bsp,quake/maps/single-map-zips/qcon11.zip,maps/qcon11.bsp,Quake 1,Fragstar Deathmatch One QuakeCon 97 Tournament Map by Dennis Kaltwasser (headshot),,367
+qcon2.bsp,quake/maps/bsp/qcon2.bsp,,Quake 1,castlemania iii QuakeCon 97 Deathmatch Map by Dan Proietti (danimal),,492
+qcon2.bsp,quake/maps/single-map-zips/qcon2.zip,maps/qcon2.bsp,Quake 1,castlemania iii QuakeCon 97 Deathmatch Map by Dan Proietti (danimal),,492
+qcon3.bsp,quake/maps/bsp/qcon3.bsp,,Quake 1,,,726
+qcon3.bsp,quake/maps/single-map-zips/qcon3.zip,maps/qcon3.bsp,Quake 1,,,726
+qcs.bsp,quake/maps/bsp/qcs.bsp,,Quake 1,Quake Combat School,,1132
+qcs2.bsp,quake/maps/bsp/qcs2.bsp,,Quake 1,Quake Combat School II,,718
+qd2m7.bsp,quake/maps/bsp/qd2m7.bsp,,Quake 1,Doom2 Level7,,325
+qd2m7.bsp,quake/maps/single-map-zips/qd2m7.zip,maps/qd2m7.bsp,Quake 1,Doom2 Level7,,325
+qdepot.bsp,quake/maps/bsp/qdepot.bsp,,Quake 1,Quake Depot by QUAKEMAP(editor).TexGamer(demented artist).,,1575
+qdeth2.bsp,quake/maps/bsp/qdeth2.bsp,,Quake 1,QDeth By [MG]ScorpioN,,1080
+qdeth3.bsp,quake/maps/bsp/qdeth3.bsp,,Quake 1,QDeth By mGScrpoN,,1144
+qdm14b1.bsp,quake/maps/bsp/qdm14b1.bsp,,Quake 1,grimdungeonsbyqurnel,,1308
+qdm14b1.bsp,quake/maps/single-map-zips/qdm14b1.zip,maps/qdm14b1.bsp,Quake 1,grimdungeonsbyqurnel,,1308
+qffldm2.bsp,quake/maps/bsp/qffldm2.bsp,,Quake 1,QFFLdm2 By OH-PoRkY,,668
+qffldm2.bsp,quake/maps/single-map-zips/qffldm2.zip,maps/qffldm2.bsp,Quake 1,QFFLdm2 By OH-PoRkY,,668
+qffldm3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/qffldm3.bsp,Quake 1,QFFLdm3 by OH-PoRkY,,1195
+qffldm3.bsp,quake/maps/bsp/qffldm3.bsp,,Quake 1,QFFLdm3 by OH-PoRkY,,1195
+qffldm3.bsp,quake/maps/single-map-zips/qffldm3.zip,maps/qffldm3.bsp,Quake 1,QFFLdm3 by OH-PoRkY,OH.Porky  (Grant Duncan),1195
+qffldm4.bsp,quake/maps/bsp/qffldm4.bsp,,Quake 1,QFFLDM4 - By BiGGuS,,1085
+qffldm4.bsp,quake/maps/single-map-zips/qffldm4.zip,maps/qffldm4.bsp,Quake 1,QFFLDM4 - By BiGGuS,Paul Cowell,1085
+qffldm5.bsp,quake/maps/bsp/qffldm5.bsp,,Quake 1,QFFLDM5 - By BiGGuS,,906
+qffldm5.bsp,quake/maps/single-map-zips/qffldm5.zip,maps/qffldm5.bsp,Quake 1,QFFLDM5 - By BiGGuS,Paul Cowell,906
+qfflxmas.bsp,quake/maps/bsp/qfflxmas.bsp,,Quake 1,QFFL XMAS - By BiGGuS,,1201
+qfflxmas.bsp,quake/maps/single-map-zips/qfflxmas.zip,maps/qfflxmas.bsp,Quake 1,QFFL XMAS - By BiGGuS,Paul Cowell,1201
+qflag.bsp,quake/maps/bsp/qflag.bsp,,Quake 1,qflag.bsp by: Giggler,,404
+qhenge.bsp,quake/maps/bsp/qhenge.bsp,,Quake 1,,,172
+qhenge.bsp,quake/maps/single-map-zips/qhenge.zip,maps/qhenge.bsp,Quake 1,QuakeHenge,Stuart Presley,172
+qk102.bsp,quake/maps/bsp/qk102.bsp,,Quake 1,Quake102..... -Dave,,130
+qk102.bsp,quake/maps/single-map-zips/qk102.zip,maps/qk102.bsp,Quake 1,Quake102..... -Dave,,130
+qkrdm1.bsp,quake/maps/bsp/qkrdm1.bsp,,Quake 1,Theory of Gravity v - By Qkr,,275
+qkrdm1.bsp,quake/maps/single-map-zips/qkrdm1.zip,maps/qkrdm1.bsp,Quake 1,Theory of Gravity v - By Qkr,,275
+qkwall.bsp,quake/maps/bsp/qkwall.bsp,,Quake 1,DAV 19/12/1997,,1125
+qmatch!.bsp,quake/maps/bsp/qmatch!.bsp,,Quake 1,QMatch! (v 1.0) - by R.J.Orr @ 1997,,1014
+qmatch!.bsp,quake/maps/single-map-zips/qmatch!.zip,maps/qmatch!.bsp,Quake 1,QMatch! (v 1.0) - by R.J.Orr @ 1997,,1014
+qmelee01.bsp,quake/maps/bsp/qmelee01.bsp,,Quake 1,,,244
+qmelee01.bsp,quake/maps/single-map-zips/qmelee01.zip,maps/qmelee01.bsp,Quake 1,,,244
+qmelee02.bsp,quake/maps/bsp/qmelee02.bsp,,Quake 1,,,211
+qmelee02.bsp,quake/maps/single-map-zips/qmelee02.zip,maps/qmelee02.bsp,Quake 1,,,211
+qmelee06.bsp,quake/maps/bsp/qmelee06.bsp,,Quake 1,QMelee06 by Terata/JStatz,,238
+qmelee06.bsp,quake/maps/single-map-zips/qmelee06.zip,maps/qmelee06.bsp,Quake 1,QMelee06 by Terata/JStatz,,238
+qmine.bsp,quake/maps/bsp/qmine.bsp,,Quake 1,Qmine,,2165
+qndm1b_beta6.bsp,quake/maps/bsp/qndm1b_beta6.bsp,,Quake 1,Obsidian [Beta 6!] by queen*,,1827
+qndm1b_beta7.bsp,quake/maps/bsp/qndm1b_beta7.bsp,,Quake 1,Obsidian [Beta 7] by queen*,,1795
+qndm1b_beta8.bsp,quake/maps/bsp/qndm1b_beta8.bsp,,Quake 1,Obsidian [Beta 8] Layout and Geometry by queen* Texturing and Polish by lurq,,6030
+qndm2_beta1.bsp,quake/maps/bsp/qndm2_beta1.bsp,,Quake 1,Oberon's Stronghold [Beta 1] by queen* (Previously sm0_queen),,687
+qpi1.bsp,quake/maps/bsp/qpi1.bsp,,Quake 1,,,226
+qpit.bsp,quake/maps/bsp/qpit.bsp,,Quake 1,,,798
+qpit.bsp,quake/maps/single-map-zips/qpit.zip,maps/qpit.bsp,Quake 1,Q-pit,,798
+qplex6.bsp,quake/maps/bsp/qplex6.bsp,,Quake 1,The Quadplex,,924
+qplex6.bsp,quake/maps/single-map-zips/qplex6.zip,maps/qplex6.bsp,Quake 1,The Quadplex,Jason Breeze,924
+qpool!.bsp,quake/maps/bsp/qpool!.bsp,,Quake 1,Qpo0l!,,1683
+qrally01.bsp,quake/maps/bsp/qrally01.bsp,,Quake 1,The Franklin Project by Rowan 'Sumaleth' Crawford,,1283
+qrally01.bsp,quake/maps/single-map-zips/qrally01.zip,maps/qrally01.bsp,Quake 1,The Franklin Project by Rowan 'Sumaleth' Crawford,,1283
+qrally02.bsp,quake/maps/bsp/qrally02.bsp,,Quake 1,Mining Station by Brian 'Wendigo' Hess,,1127
+qrally02.bsp,quake/maps/single-map-zips/qrally02.zip,maps/qrally02.bsp,Quake 1,Mining Station by Brian 'Wendigo' Hess,,1127
+qrally03.bsp,quake/maps/bsp/qrally03.bsp,,Quake 1,The Chasm by Jeremy 'Terata' Statz,,1392
+qrdaf01.bsp,quake/maps/bsp/qrdaf01.bsp,,Quake 1,Welcome to Stunt Rally!,,1033
+qrdaf01.bsp,quake/maps/single-map-zips/qrdaf01.zip,maps/qrdaf01.bsp,Quake 1,Welcome to Stunt Rally!,Chris Sparks (DaFragsta),1033
+qrdm01.bsp,quake/maps/bsp/qrdm01.bsp,,Quake 1,The Bowl by Jeremy 'Terata' Statz,,370
+qrdm01.bsp,quake/maps/single-map-zips/qrdm01.zip,maps/qrdm01.bsp,Quake 1,The Bowl by Jeremy 'Terata' Statz,,370
+qrdm02.bsp,quake/maps/bsp/qrdm02.bsp,,Quake 1,Interstate 95 by Brian 'Wendigo' Hess,,696
+qrdm02.bsp,quake/maps/single-map-zips/qrdm02.zip,maps/qrdm02.bsp,Quake 1,Interstate 95 by Brian 'Wendigo' Hess,,696
+qrdm03.bsp,quake/maps/bsp/qrdm03.bsp,,Quake 1,Downtown -> By Jra,,656
+qrdm03.bsp,quake/maps/single-map-zips/qrdm03.zip,maps/qrdm03.bsp,Quake 1,Downtown -> By Jra,,656
+qrdm04.bsp,quake/maps/bsp/qrdm04.bsp,,Quake 1,Cliffside Carnage 3,,893
+qrdm04.bsp,quake/maps/single-map-zips/qrdm04.zip,maps/qrdm04.bsp,Quake 1,Cliffside Carnage 3,,893
+qrealms.bsp,quake/maps/bsp/qrealms.bsp,,Quake 1,Quake Realms v2.11,,766
+qrealms.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/qrealms.bsp,Quake 1,Quake Realms v2.11,,766
+qrealms.bsp,quake/maps/single-map-zips/qrealms.zip,maps/qrealms.bsp,Quake 1,Quake Realms v2.11,,766
+qrp-allmodel.bsp,quake/maps/bsp/qrp-allmodel.bsp,,Quake 1,,,57
+qrp-alltex2.bsp,quake/maps/bsp/qrp-alltex2.bsp,,Quake 1,,,2248
+qrp-alltex3.bsp,quake/maps/bsp/qrp-alltex3.bsp,,Quake 1,,,2146
+qrp-alltex4.bsp,quake/maps/bsp/qrp-alltex4.bsp,,Quake 1,,,892
+qrp-modeltest.bsp,quake/maps/bsp/qrp-modeltest.bsp,,Quake 1,,,56
+qryo.bsp,quake/maps/bsp/qryo.bsp,,Quake 1,,,1261
+qryo.bsp,quake/maps/single-map-zips/qryo.zip,maps/qryo.bsp,Quake 1,,,1261
+qtag.bsp,quake/maps/bsp/qtag.bsp,,Quake 1,Qtag.bsp by: Giggler,,933
+qtag.bsp,quake/maps/single-map-zips/qtag.zip,maps/qtag.bsp,Quake 1,Qtag.bsp by: Giggler,Giggler,933
+qtdm1.bsp,quake/maps/bsp/qtdm1.bsp,,Quake 1,malplatz,,2057
+qtdm1.bsp,quake/maps/single-map-zips/qtdm1.zip,maps/qtdm1.bsp,Quake 1,malplatz,,2057
+qtdm2.bsp,quake/maps/bsp/qtdm2.bsp,,Quake 1,16 of 2 then 1,,1816
+qtdm2_ca4.bsp,quake/maps/bsp/qtdm2_ca4.bsp,,Quake 1,16 of 2 then 1,,1809
+qtdm2_ffa.bsp,quake/maps/bsp/qtdm2_ffa.bsp,,Quake 1,cinque de jaun,,1280
+qtdm2_ffa.bsp,quake/maps/single-map-zips/qtdm2_ffa.zip,maps/qtdm2_ffa.bsp,Quake 1,cinque de jaun,,1280
+qtdm3.bsp,quake/maps/bsp/qtdm3.bsp,,Quake 1,Uberskank,,1273
+qtdm3.bsp,quake/maps/packs/quakeone_maps.zip,qtdm3.bsp,Quake 1,Uberskank,,1275
+qtdm3.bsp,quake/maps/single-map-zips/qtdm3.zip,maps/qtdm3.bsp,Quake 1,Uberskank,distrans,1275
+qtown.bsp,quake/maps/bsp/qtown.bsp,,Quake 1,"quake town, by Colonel sanders",,1030
+quad.bsp,quake/maps/bsp/quad.bsp,,Quake 1,Quadraplex,,317
+quad.bsp,quake/maps/single-map-zips/quad.zip,maps/quad.bsp,Quake 1,Quadraplex,Twinsen,317
+quad25.bsp,quake/maps/bsp/quad25.bsp,,Quake 1,,,760
+quadlava.bsp,quake/maps/bsp/quadlava.bsp,,Quake 1,Quad Lava Version  {VH}BurI (aka.Tieman),,354
+quadlympics.bsp,quake/maps/bsp/quadlympics.bsp,,Quake 1,Quadlympic Hurdle Dash - 2 ROCKET JUMPS MAX!,,198
+quadlympics.bsp,quake/maps/single-map-zips/quadlympics.zip,maps/quadlympics.bsp,Quake 1,Quadlympic Hurdle Dash - 2 ROCKET JUMPS MAX!,,198
+quadquest.bsp,quake/maps/bsp/quadquest.bsp,,Quake 1,,,383
+quadquest.bsp,quake/maps/single-map-zips/quadquest.zip,maps/quadquest.bsp,Quake 1,,,383
+quadrock.bsp,quake/maps/bsp/quadrock.bsp,,Quake 1,Quad Rock Base - by Gibbie hylke_b@hotmail.com,,596
+quadrock.bsp,quake/maps/single-map-zips/quadrock.zip,maps/quadrock.bsp,Quake 1,Quad Rock Base - by Gibbie hylke_b@hotmail.com,Hylke Beck (gibbie),587
+quadroom.bsp,quake/maps/bsp/quadroom.bsp,,Quake 1,Entering Quadroom - Race for the Quad,,792
+quadroom.bsp,quake/maps/single-map-zips/quadroom.zip,maps/quadroom.bsp,Quake 1,Entering Quadroom - Race for the Quad,David Berry,792
+quakechess1r.bsp,quake/maps/bsp/quakechess1r.bsp,,Quake 1,Chess By rmAnimeManQ,,300
+quakerun.bsp,quake/maps/bsp/quakerun.bsp,,Quake 1,,,422
+quander.bsp,quake/maps/bsp/quander.bsp,,Quake 1,TheQuandering By BgBllZMN,,3321
+quarry2.bsp,quake/maps/bsp/quarry2.bsp,,Quake 1,-- The Quarry -- by > Victim >,,1305
+quase.bsp,quake/maps/bsp/quase.bsp,,Quake 1,Entering Q.U.A.S.E.,,369
+quase.bsp,quake/maps/single-map-zips/quase.zip,maps/quase.bsp,Quake 1,Entering Q.U.A.S.E.,EraserX,369
+qubixdm2.bsp,quake/maps/bsp/qubixdm2.bsp,,Quake 1,,,603
+qubixdm2.bsp,quake/maps/single-map-zips/qubixdm2.zip,maps/qubixdm2.bsp,Quake 1,,,603
+quicky1b.bsp,quake/maps/bsp/quicky1b.bsp,,Quake 1,Quicky1 By [SS] Gunther Theme: Sandball,,749
+quid001.bsp,quake/maps/bsp/quid001.bsp,,Quake 1,quid - rocketman,,236
+quid001.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/quid001.bsp,Quake 1,quid - rocketman,,236
+quid001.bsp,quake/maps/single-map-zips/quid001.zip,maps/quid001.bsp,Quake 1,quid - rocketman,,236
+quimby.bsp,quake/maps/bsp/quimby.bsp,,Quake 1,Vote Qumby,,486
+quimby.bsp,quake/maps/single-map-zips/quimby.zip,maps/quimby.bsp,Quake 1,Vote Qumby,,486
+qurexpo1.bsp,quake/maps/bsp/qurexpo1.bsp,,Quake 1,ancientarenabyqurnel,,585
+quta1.bsp,quake/maps/bsp/quta1.bsp,,Quake 1,,,890
+quta1.bsp,quake/maps/single-map-zips/quta1.zip,maps/quta1.bsp,Quake 1,,,890
+qw1.bsp,quake/maps/bsp/qw1.bsp,,Quake 1,Mission 32 Alpha,,1448
+qw_ubj_pro.bsp,dmc/maps/bsp/qw_ubj_pro.bsp,,Half-Life/DMC,Ultima Bunny Jump -by Huntil,,1114
+qw_uj_pro.bsp,dmc/maps/bsp/qw_uj_pro.bsp,,Half-Life/DMC,Ultima Jump -by Huntil,,1329
+qw_urj_pro.bsp,dmc/maps/bsp/qw_urj_pro.bsp,,Half-Life/DMC,Ultima Rocket Jump -by Huntil,,645
+qwcpm15b2.bsp,quake/maps/bsp/qwcpm15b2.bsp,,Quake 1,,,635
+qwcpm15b2.bsp,quake/maps/single-map-zips/qwcpm15b2.zip,maps/qwcpm15b2.bsp,Quake 1,,,635
+qwctf.bsp,quake/maps/bsp/qwctf.bsp,,Quake 1,QWCTF CAN BLOW ME,,1145
+qwdm1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/qwdm1.bsp,Quake 1,Grim Prince [qwdm1],,456
+qwdm1.bsp,quake/maps/bsp/qwdm1.bsp,,Quake 1,Grim Prince [qwdm1],,456
+qwdm2.bsp,quake/maps/bsp/qwdm2.bsp,,Quake 1,The Grim Place [qwdm2],,509
+qwdm5.bsp,quake/maps/bsp/qwdm5.bsp,,Quake 1,Some Place [qwdm5],,860
+qwdm6.bsp,quake/maps/bsp/qwdm6.bsp,,Quake 1,Hall of the Slain [qwdm6],,528
+qwdm7.bsp,quake/maps/bsp/qwdm7.bsp,,Quake 1,The Bold Place - by QuakeR,,527
+qwm1.bsp,quake/maps/bsp/qwm1.bsp,,Quake 1,,,520
+qwm1.bsp,quake/maps/single-map-zips/qwm1.zip,maps/qwm1.bsp,Quake 1,,,520
+qzictf2.bsp,quake/maps/bsp/qzictf2.bsp,,Quake 1,,,1544

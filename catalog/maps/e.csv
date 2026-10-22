@@ -1,0 +1,378 @@
+map_file,location,path_inside_archive,format,title,author,size_kb
+e1.bsp,quake/maps/bsp/e1.bsp,,Quake 1,,,1809
+e1m1.bsp,quake/engines/Quake compat Kurok PC.rar,Quake compat Kurok PC/ID1/maps/e1m1.bsp,,,,1023
+e1m1.bsp,quake/maps/bsp/e1m1.bsp,,Quake 1,the Slipgate Complex,,1333
+e1m1alt.bsp,quake/maps/bsp/e1m1alt.bsp,,Quake 1,the Slipgate Complex,,1330
+e1m1alt.bsp,quake/maps/single-map-zips/e1m1alt.zip,maps/e1m1alt.bsp,Quake 1,the Slipgate Complex,,1330
+e1m1d.bsp,quake/maps/bsp/e1m1d.bsp,,Quake 1,the Slipgate Complex - modified by Swen.Klemund@deathsdoor.com,,1329
+e1m1d.bsp,quake/maps/single-map-zips/e1m1d.zip,maps/e1m1d.bsp,Quake 1,the Slipgate Complex - modified by Swen.Klemund@deathsdoor.com,id-Software,1329
+e1m1max.bsp,quake/maps/bsp/e1m1max.bsp,,Quake 1,The Slipgate Complex By ID ..--+==MORE MONSTERS VERSION==+--.. By Gnarler Exit fix by The Gizmo,,1683
+e1m1rmx.bsp,quake/maps/bsp/e1m1rmx.bsp,,Quake 1,The Slipgate Duplex,,3768
+e1m2.bsp,quake/engines/Quake compat Kurok PC.rar,Quake compat Kurok PC/ID1/maps/e1m2.bsp,,,,955
+e1m2.bsp,quake/maps/bsp/e1m2.bsp,,Quake 1,Castle of the Damned,,1301
+e1m2ish.bsp,quake/maps/bsp/e1m2ish.bsp,,Quake 1,E1M2-ish by Aardappel,,717
+e1m2ish.bsp,quake/maps/packs/e1m2ish.zip,e1m2ish.bsp,Quake 1,E1M2-ish by Aardappel,,704
+e1m2ish.bsp,quake/maps/single-map-zips/e1m2ish.zip,maps/e1m2ish.bsp,Quake 1,E1M2-ish by Aardappel,Aardappel    (Wouter van Oortmerssen),717
+e1m3.bsp,quake/engines/Quake compat Kurok PC.rar,Quake compat Kurok PC/ID1/maps/e1m3.bsp,,,,1505
+e1m3.bsp,quake/maps/bsp/e1m3.bsp,,Quake 1,the Necropolis,,1220
+e1m3tdm.bsp,quake/maps/bsp/e1m3tdm.bsp,,Quake 1,the Necropolis TDM edition by Zaka,,1060
+e1m3tdm.bsp,quake/maps/single-map-zips/e1m3tdm.zip,maps/e1m3tdm.bsp,Quake 1,the Necropolis TDM edition by Zaka,,1060
+e1m4.bsp,quake/engines/Quake compat Kurok PC.rar,Quake compat Kurok PC/ID1/maps/e1m4.bsp,,,,1145
+e1m4.bsp,quake/maps/bsp/e1m4.bsp,,Quake 1,the Grisly Grotto,,1378
+e1m5.bsp,quake/engines/Quake compat Kurok PC.rar,Quake compat Kurok PC/ID1/maps/e1m5.bsp,,,,1239
+e1m5.bsp,quake/maps/bsp/e1m5.bsp,,Quake 1,Gloom Keep,,1293
+e1m5duel.bsp,quake/maps/bsp/e1m5duel.bsp,,Quake 1,e1m5 duel,,385
+e1m5duel.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/e1m5duel.bsp,Quake 1,e1m5 duel,,385
+e1m5duel.bsp,quake/maps/single-map-zips/e1m5duel.zip,maps/e1m5duel.bsp,Quake 1,e1m5 duel,Olivier Desmet [odd],385
+e1m5tdm.bsp,quake/maps/bsp/e1m5tdm.bsp,,Quake 1,Gloom Keep TDM edition by Qurnel,,1258
+e1m5tdm.bsp,quake/maps/single-map-zips/e1m5tdm.zip,maps/e1m5tdm.bsp,Quake 1,Gloom Keep TDM edition by Qurnel,,1258
+e1m6.bsp,quake/engines/Quake compat Kurok PC.rar,Quake compat Kurok PC/ID1/maps/e1m6.bsp,,,,1511
+e1m6.bsp,quake/maps/bsp/e1m6.bsp,,Quake 1,The Door To Chthon,,1040
+e1m6tdm.bsp,quake/maps/bsp/e1m6tdm.bsp,,Quake 1,The Door To Chthon TDM edition by Qurnel,,900
+e1m6tdm.bsp,quake/maps/single-map-zips/e1m6tdm.zip,maps/e1m6tdm.bsp,Quake 1,The Door To Chthon TDM edition by Qurnel,,900
+e1m7.bsp,quake/engines/Quake compat Kurok PC.rar,Quake compat Kurok PC/ID1/maps/e1m7.bsp,,,,326
+e1m7.bsp,quake/maps/bsp/e1m7.bsp,,Quake 1,The House of Chthon,,593
+e1m8.bsp,quake/maps/bsp/e1m8.bsp,,Quake 1,Ziggurat Vertigo,,904
+e2m1.bsp,quake/maps/bsp/e2m1.bsp,,Quake 1,the Installation,,1367
+e2m10.bsp,quake/maps/bsp/e2m10.bsp,,Quake 1,the Dismal Oubliette,,561
+e2m1max.bsp,quake/maps/bsp/e2m1max.bsp,,Quake 1,the Installation By Id + Romero ==++More Monsters Version!!!++== By Gnarler,,2112
+e2m2.bsp,quake/maps/bsp/e2m2.bsp,,Quake 1,the Ogre Citadel,,1827
+e2m2ctb.bsp,quake/maps/bsp/e2m2ctb.bsp,,Quake 1,the Ogre Citadel Cross the Border style!,,1468
+e2m2tdm.bsp,quake/maps/bsp/e2m2tdm.bsp,,Quake 1,the Ogre Citadel TDM edition by Qurnel,,1093
+e2m2tdm.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/e2m2tdm.bsp,Quake 1,the Ogre Citadel TDM edition by Qurnel,,1093
+e2m2tdm.bsp,quake/maps/single-map-zips/e2m2tdm.zip,maps/e2m2tdm.bsp,Quake 1,the Ogre Citadel TDM edition by Qurnel,,1093
+e2m3.bsp,quake/maps/bsp/e2m3.bsp,,Quake 1,the Crypt of Decay,,1300
+e2m4.bsp,quake/maps/bsp/e2m4.bsp,,Quake 1,the Ebon Fortress,,1268
+e2m4max.bsp,quake/maps/bsp/e2m4max.bsp,,Quake 1,The Ebon Fortress By ID --== MORE MONSTERS VERSION ==-- By Gnarler We Love Hardkore,,2029
+e2m5.bsp,quake/maps/bsp/e2m5.bsp,,Quake 1,the Wizard's Manse,,1336
+e2m6.bsp,quake/maps/bsp/e2m6.bsp,,Quake 1,the Dismal Oubliette,,1198
+e2m6full.bsp,quake/maps/bsp/e2m6full.bsp,,Quake 1,the Dismal Oubliette,,1540
+e2m7.bsp,quake/maps/bsp/e2m7.bsp,,Quake 1,the Underearth,,1351
+e2m7tdm.bsp,quake/maps/bsp/e2m7tdm.bsp,,Quake 1,the Underearth TDM edition by Qurnel,,1320
+e3m1.bsp,quake/maps/bsp/e3m1.bsp,,Quake 1,Termination Central,,1321
+e3m1ffab2.bsp,quake/maps/bsp/e3m1ffab2.bsp,,Quake 1,Termination Central FFA Edition - Beta 02 by vegetous - www.quakebrasil.com,,1176
+e3m1ffab2.bsp,quake/maps/single-map-zips/e3m1ffab2.zip,maps/e3m1ffab2.bsp,Quake 1,Termination Central FFA Edition - Beta 02 by vegetous - www.quakebrasil.com,,1176
+e3m2.bsp,quake/maps/bsp/e3m2.bsp,,Quake 1,The Vaults of Zin,,1015
+e3m2tdm.bsp,quake/maps/bsp/e3m2tdm.bsp,,Quake 1,The Vaults of Zin TDM edition by Qurnel,,857
+e3m2tdm.bsp,quake/maps/single-map-zips/e3m2tdm.zip,maps/e3m2tdm.bsp,Quake 1,The Vaults of Zin TDM edition by Qurnel,,857
+e3m2tdmb.bsp,quake/maps/bsp/e3m2tdmb.bsp,,Quake 1,The Vaults of Zin TDM edition by Qurnel,,837
+e3m2tdmb.bsp,quake/maps/single-map-zips/e3m2tdmb.zip,maps/e3m2tdmb.bsp,Quake 1,The Vaults of Zin TDM edition by Qurnel,,837
+e3m3.bsp,quake/maps/bsp/e3m3.bsp,,Quake 1,the Tomb of Terror,,942
+e3m3tdm.bsp,quake/maps/bsp/e3m3tdm.bsp,,Quake 1,the Tomb of Terror TDM edition by Qurnel,,990
+e3m3tdm.bsp,quake/maps/single-map-zips/e3m3tdm.zip,maps/e3m3tdm.bsp,Quake 1,the Tomb of Terror TDM edition by Qurnel,,990
+e3m3tdmb.bsp,quake/maps/bsp/e3m3tdmb.bsp,,Quake 1,the Tomb of Terror TDM edition by Qurnel,,992
+e3m3tdmb.bsp,quake/maps/single-map-zips/e3m3tdmb.zip,maps/e3m3tdmb.bsp,Quake 1,the Tomb of Terror TDM edition by Qurnel,,992
+e3m4.bsp,quake/maps/bsp/e3m4.bsp,,Quake 1,Satan's Dark Delight,,1340
+e3m5.bsp,quake/maps/bsp/e3m5.bsp,,Quake 1,the Wind Tunnels,,1400
+e3m6.bsp,quake/maps/bsp/e3m6.bsp,,Quake 1,Chambers of Torment,,1355
+e3m6tdm.bsp,quake/maps/bsp/e3m6tdm.bsp,,Quake 1,Chambers of Torment TDM edition by Qurnel,,1317
+e3m6tdm.bsp,quake/maps/single-map-zips/e3m6tdm.zip,maps/e3m6tdm.bsp,Quake 1,Chambers of Torment TDM edition by Qurnel,,1317
+e3m7.bsp,quake/maps/bsp/e3m7.bsp,,Quake 1,the Haunted Halls,,1398
+e3m7tdm.bsp,quake/maps/bsp/e3m7tdm.bsp,,Quake 1,the Haunted Halls TDM edition by Qurnel,,1138
+e3m7tdm.bsp,quake/maps/single-map-zips/e3m7tdm.zip,maps/e3m7tdm.bsp,Quake 1,the Haunted Halls TDM edition by Qurnel,,1138
+e4m1.bsp,quake/maps/bsp/e4m1.bsp,,Quake 1,the Sewage System,,1330
+e4m2.bsp,quake/maps/bsp/e4m2.bsp,,Quake 1,The Tower of Despair,,1099
+e4m3.bsp,quake/maps/bsp/e4m3.bsp,,Quake 1,The Elder God Shrine,,1295
+e4m3tdm.bsp,quake/maps/bsp/e4m3tdm.bsp,,Quake 1,The Elder God Shrine TDM edition by Qurnel,,1201
+e4m4.bsp,quake/maps/bsp/e4m4.bsp,,Quake 1,the Palace of Hate,,1283
+e4m5.bsp,quake/maps/bsp/e4m5.bsp,,Quake 1,Hell's Atrium,,1273
+e4m6.bsp,quake/maps/bsp/e4m6.bsp,,Quake 1,The Pain Maze,,1171
+e4m7.bsp,quake/maps/bsp/e4m7.bsp,,Quake 1,Azure Agony,,1460
+e4m8.bsp,quake/maps/bsp/e4m8.bsp,,Quake 1,the Nameless City,,1098
+eagle.bsp,quake/maps/bsp/eagle.bsp,,Quake 1,Where Eagles Dare - By Nephilim,,699
+eagle.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/eagle.bsp,Quake 1,Where Eagles Dare - By Nephilim,,699
+eagle.bsp,quake/maps/single-map-zips/eagle.zip,maps/eagle.bsp,Quake 1,Where Eagles Dare - By Nephilim,,699
+earth.bsp,quake/maps/bsp/earth.bsp,,Quake 1,Earthworld,,1043
+earthbnd.bsp,quake/maps/bsp/earthbnd.bsp,,Quake 1,They live . . .!,,1391
+eatit.bsp,quake/maps/bsp/eatit.bsp,,Quake 1,,,379
+eatit.bsp,quake/maps/single-map-zips/eatit.zip,maps/eatit.bsp,Quake 1,"Eat it, it's good!",D. Rhodd,379
+ebase.bsp,quake/maps/bsp/ebase.bsp,,Quake 1,Entering EBase,,85
+ebase.bsp,quake/maps/single-map-zips/ebase.zip,maps/ebase.bsp,Quake 1,Entering EBase,Stryker,85
+ebntest2.bsp,quake/maps/bsp/ebntest2.bsp,,Quake 1,the Ebon Fortress By ID testing MORE MONSTERS VERSION v1 By Gnarler,,1656
+eclipse.bsp,quake/maps/bsp/eclipse.bsp,,Quake 1,elipse by equim (equim@aol.com),,473
+eclipse.bsp,quake/maps/single-map-zips/eclipse.zip,maps/eclipse.bsp,Quake 1,elipse by equim (equim@aol.com),,473
+ecstasie.bsp,quake/maps/bsp/ecstasie.bsp,,Quake 1,,,207
+ed1b.bsp,quake/maps/bsp/ed1b.bsp,,Quake 1,,,169
+ed1b.bsp,quake/maps/single-map-zips/ed1b.zip,maps/ed1b.bsp,Quake 1,,,169
+edc.bsp,quake/maps/bsp/edc.bsp,,Quake 1,Eternal Dismemberment Complex By Tyrann,,613
+edc.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/edc.bsp,Quake 1,Eternal Dismemberment Complex By Tyrann,,613
+edc.bsp,quake/maps/packs/quakeone_maps.zip,edc.bsp,Quake 1,Eternal Dismemberment Complex By Tyrann,,613
+edc.bsp,quake/maps/single-map-zips/edc.zip,maps/edc.bsp,Quake 1,Eternal Dismemberment Complex By Tyrann,Kevin Shanahan,613
+edeath.bsp,quake/maps/bsp/edeath.bsp,,Quake 1,Eminent Death,,355
+edeath.bsp,quake/maps/single-map-zips/edeath.zip,maps/edeath.bsp,Quake 1,Eminent Death,Jeff Tunink,355
+EDGE1A.bsp,quake/maps/packs/100brush.zip,maps/EDGE1A.bsp,Quake 1,Periwinkle Paranoia,,436
+edgepain.bsp,quake/maps/bsp/edgepain.bsp,,Quake 1,"The Edge, The Pain",,1010
+edgepain.bsp,quake/maps/single-map-zips/edgepain.zip,maps/edgepain.bsp,Quake 1,"The Edge, The Pain",David Jewsbury,1010
+edm1.bsp,quake/maps/bsp/edm1.bsp,,Quake 1,,,750
+edm1.bsp,quake/maps/single-map-zips/edm1.zip,maps/edm1.bsp,Quake 1,None,Mr Ed,750
+edom.bsp,quake/maps/bsp/edom.bsp,,Quake 1,Empedokles domain,,1605
+edtest.bsp,quake/maps/bsp/edtest.bsp,,Quake 1,House on the edge of Hardkores Hell (Evildead with a Hardkore patch),,1134
+edtest2.bsp,quake/maps/bsp/edtest2.bsp,,Quake 1,House on the edge of Hardkores Hell,,1133
+eedm.bsp,quake/maps/bsp/eedm.bsp,,Quake 1,Vertigo by Cornhog,,885
+eedm.bsp,quake/maps/single-map-zips/eedm.zip,maps/eedm.bsp,Quake 1,Vertigo by Cornhog,"""Cornhog"" Justin Hornkohl",885
+eee.bsp,quake/maps/bsp/eee.bsp,,Quake 1,"playtest 21b, inertia@quakenet for comments",,1109
+eee.bsp,quake/maps/single-map-zips/eee.zip,maps/eee.bsp,Quake 1,"playtest 21b, inertia@quakenet for comments",,1109
+efdm1.bsp,quake/maps/bsp/efdm1.bsp,,Quake 1,Electric Fish Deathmatch 1,,844
+efdm1.bsp,quake/maps/single-map-zips/efdm1.zip,maps/efdm1.bsp,Quake 1,Electric Fish Deathmatch 1,Mr Fribbles,844
+efdm10.bsp,quake/maps/bsp/efdm10.bsp,,Quake 1,efdm WhiteChocolateSpaceEgg by MrFribbleS http://www.planetquake.com/frib/,,864
+efdm10.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/efdm10.bsp,Quake 1,efdm WhiteChocolateSpaceEgg by MrFribbleS http://www.planetquake.com/frib/,,864
+efdm10.bsp,quake/maps/packs/quakeone_maps.zip,efdm10.bsp,Quake 1,efdm WhiteChocolateSpaceEgg by MrFribbleS http://www.planetquake.com/frib/,,864
+efdm10.bsp,quake/maps/single-map-zips/efdm10.zip,maps/efdm10.bsp,Quake 1,efdm WhiteChocolateSpaceEgg by MrFribbleS http://www.planetquake.com/frib/,Mr Fribbles (Van Ricketts),864
+efdm11.bsp,quake/maps/bsp/efdm11.bsp,,Quake 1,"efdm o!  "" !o by o`MrribbleOo http://www.planetquake.com/frib/",,843
+efdm11.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/efdm11.bsp,Quake 1,efdm maelstrom by MrFribbleS http://www.planetquake.com/frib/,,833
+efdm11.bsp,quake/maps/single-map-zips/efdm11.zip,maps/efdm11.bsp,Quake 1,"efdm o!  "" !o by o`MrribbleOo http://www.planetquake.com/frib/",Mr Fribbles (Van Ricketts),843
+efdm12.bsp,quake/maps/bsp/efdm12.bsp,,Quake 1,efdm death by the dozen by MrFribbleS http://www.planetquake.com/frib/,,1489
+efdm12.bsp,quake/maps/packs/quakeone_maps.zip,efdm12.bsp,Quake 1,efdm death by the dozen by MrFribbleS http://www.planetquake.com/frib/,,1489
+efdm12.bsp,quake/maps/single-map-zips/efdm12.zip,maps/efdm12.bsp,Quake 1,efdm death by the dozen by MrFribbleS http://www.planetquake.com/frib/,Mr Fribbles (Van Ricketts),1489
+efdm13.bsp,quake/maps/bsp/efdm13.bsp,,Quake 1,efdm Double Vision by MrFribbleS http://www.planetquake.com/frib/,,1127
+efdm13.bsp,quake/maps/single-map-zips/efdm13.zip,maps/efdm13.bsp,Quake 1,efdm Double Vision by MrFribbleS http://www.planetquake.com/frib/,Mr Fribbles (Van Ricketts),1127
+efdm2.bsp,quake/maps/bsp/efdm2.bsp,,Quake 1,efdm by MrFribbleS,,745
+efdm2.bsp,quake/maps/single-map-zips/efdm2.zip,maps/efdm2.bsp,Quake 1,efdm by MrFribbleS,Mr Fribbles (Van Ricketts),745
+efdm3.bsp,quake/maps/bsp/efdm3.bsp,,Quake 1,efdm by MrFribbleS,,646
+efdm3.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/efdm3.bsp,Quake 1,efdm by MrFribbleS,,646
+efdm3.bsp,quake/maps/single-map-zips/efdm3.zip,maps/efdm3.bsp,Quake 1,efdm by MrFribbleS,Mr Fribbles,646
+efdm4.bsp,quake/maps/bsp/efdm4.bsp,,Quake 1,efdm by MrFribbleS,,740
+efdm4.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/efdm4.bsp,Quake 1,efdm by MrFribbleS,,740
+efdm4.bsp,quake/maps/single-map-zips/efdm4.zip,maps/efdm4.bsp,Quake 1,efdm by MrFribbleS,Mr Fribbles,740
+efdm5.bsp,quake/maps/bsp/efdm5.bsp,,Quake 1,efdm -VrteX- by MrFribbleS,,448
+efdm5.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/efdm5.bsp,Quake 1,efdm -VrteX- by MrFribbleS,,448
+efdm5.bsp,quake/maps/single-map-zips/efdm5.zip,maps/efdm5.bsp,Quake 1,efdm -VrteX- by MrFribbleS,Mr Fribbles,448
+efdm6.bsp,quake/maps/bsp/efdm6.bsp,,Quake 1,efdm GunmetaL by MrFribbleS,,611
+efdm6.bsp,quake/maps/single-map-zips/efdm6.zip,maps/efdm6.bsp,Quake 1,efdm GunmetaL by MrFribbleS,Mr Fribbles,611
+efdm7.bsp,quake/maps/bsp/efdm7.bsp,,Quake 1,efdm biohazard by MrFribbleS fribbles@geocities.com,,767
+efdm7.bsp,quake/maps/single-map-zips/efdm7.zip,maps/efdm7.bsp,Quake 1,efdm biohazard by MrFribbleS fribbles@geocities.com,Mr Fribbles,767
+efdm8.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/efdm8.bsp,Quake 1,efdm cryptosporidium by MrFribbleS http://www.planetquake.com/frib/,,664
+efdm8.bsp,quake/maps/bsp/efdm8.bsp,,Quake 1,efdm cryptosporidium by MrFribbleS http://www.planetquake.com/frib/,,664
+efdm8.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/efdm8.bsp,Quake 1,efdm cryptosporidium by MrFribbleS http://www.planetquake.com/frib/,,664
+efdm8.bsp,quake/maps/single-map-zips/efdm8.zip,maps/efdm8.bsp,Quake 1,efdm cryptosporidium by MrFribbleS http://www.planetquake.com/frib/,Mr Fribbles,664
+efdm9.bsp,quake/maps/bsp/efdm9.bsp,,Quake 1,efdm tangerine dream by MrFribbleS http://www.planetquake.com/frib/,,872
+efdm9.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/efdm9.bsp,Quake 1,efdm tangerine dream by MrFribbleS http://www.planetquake.com/frib/,,872
+effigy.bsp,quake/maps/bsp/effigy.bsp,,Quake 1,:effigy of the forgotten: by moloch,,706
+effigy.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/effigy.bsp,Quake 1,:effigy of the forgotten: by moloch,,706
+effigy.bsp,quake/maps/single-map-zips/effigy.zip,maps/effigy.bsp,Quake 1,:effigy of the forgotten: by moloch,moloch [Thomas Rasmussen],706
+egad.bsp,quake/maps/bsp/egad.bsp,,Quake 1,,,533
+egad.bsp,quake/maps/single-map-zips/egad.zip,maps/egad.bsp,Quake 1,Eat Gib and Die,D.Rhodd,533
+egypt.bsp,quake/maps/bsp/egypt.bsp,,Quake 1,,,563
+egypt.bsp,quake/maps/single-map-zips/egypt.zip,maps/egypt.bsp,Quake 1,Egyptian Maze,"Wayne ""The Saint"" Peeples",563
+egypt1on1.bsp,quake/maps/bsp/egypt1on1.bsp,,Quake 1,Egypt1 duel by darkrift,,417
+egypt2.bsp,quake/maps/bsp/egypt2.bsp,,Quake 1,The Pharoh's Curse: Everlasting conflict...,,398
+egyptele.bsp,quake/maps/bsp/egyptele.bsp,,Quake 1,the Egyptian Element,,477
+egyptele.bsp,quake/maps/single-map-zips/egyptele.zip,maps/egyptele.bsp,Quake 1,the Egyptian Element,Dogwalker,477
+egyptra.bsp,quake/maps/bsp/egyptra.bsp,,Quake 1,egyptra,,466
+egyptra2.bsp,quake/maps/bsp/egyptra2.bsp,,Quake 1,Egyptra2 - by Underscore,,499
+egyptra3.bsp,quake/maps/bsp/egyptra3.bsp,,Quake 1,=] Egypt 1999[=,,761
+ehirn.bsp,quake/maps/bsp/ehirn.bsp,,Quake 1,Elektronenhirn,,682
+ehirn.bsp,quake/maps/single-map-zips/ehirn.zip,maps/ehirn.bsp,Quake 1,Elektronenhirn,B.Birke (Email: donut@prima.ruhr.de or BBDortmund@aol.com),682
+el_dotd.bsp,quake/maps/bsp/el_dotd.bsp,,Quake 1,Death on the Docks,,619
+el_dotd.bsp,quake/maps/single-map-zips/el_dotd.zip,maps/el_dotd.bsp,Quake 1,Death on the Docks,"realistik, Imaginos of Clan SinTheTiK & White Hawke",619
+elav8.bsp,quake/maps/bsp/elav8.bsp,,Quake 1,ELAV8 BY ROMAN,,1116
+elbow.bsp,quake/maps/bsp/elbow.bsp,,Quake 1,Spare Elbow by Kevin Shanahan,,232
+elbow.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/elbow.bsp,Quake 1,Spare Elbow by Kevin Shanahan,,232
+elbow.bsp,quake/maps/single-map-zips/elbow.zip,maps/elbow.bsp,Quake 1,Spare Elbow by Kevin Shanahan,Kevin Shanahan,232
+elcshp.bsp,quake/maps/bsp/elcshp.bsp,,Quake 1,,,1120
+elcshp2.bsp,quake/maps/bsp/elcshp2.bsp,,Quake 1,,,656
+elcshp3.bsp,quake/maps/bsp/elcshp3.bsp,,Quake 1,,,1046
+elder.bsp,quake/maps/bsp/elder.bsp,,Quake 1,The Elder Sanctuary,,1943
+elder.bsp,quake/maps/single-map-zips/elder.zip,maps/elder.bsp,Quake 1,The Elder Sanctuary,,1943
+ele.bsp,quake/maps/bsp/ele.bsp,,Quake 1,The Extinction Level Event made by Jack O. Trade,,563
+ele.bsp,quake/maps/single-map-zips/ele.zip,maps/ele.bsp,Quake 1,The Extinction Level Event made by Jack O. Trade,Bjørn-Erik Solli [Jack O. Trade],563
+electra14.bsp,quake/maps/bsp/electra14.bsp,,Quake 1,Electra by hylke beck aka gibbie bech@geo.vu.nl UNRELEASED,,2503
+electra14.bsp,quake/maps/single-map-zips/electra14.zip,maps/electra14.bsp,Quake 1,Electra by hylke beck aka gibbie bech@geo.vu.nl UNRELEASED,,2503
+elektra.bsp,quake/maps/bsp/elektra.bsp,,Quake 1,The Elektra Complex,,1327
+elfa01r.bsp,quake/maps/bsp/elfa01r.bsp,,Quake 1,elf arena  Revised irc #shi By elf and Spark,,340
+elffinal.bsp,quake/maps/bsp/elffinal.bsp,,Quake 1,WlcmTolFzR Have a Blast...,,178
+elgrap.bsp,quake/maps/bsp/elgrap.bsp,,Quake 1,El Grappleron,,1085
+elit2k.bsp,quake/maps/bsp/elit2k.bsp,,Quake 1,-Elite 2000- by Cocker Mail:cocker@hem.passagen.se,,2661
+elit2kteam.bsp,quake/maps/bsp/elit2kteam.bsp,,Quake 1,-Elite 2000- by Cocker Mail:cocker@hem.passagen.se,,2661
+elit98.bsp,quake/maps/bsp/elit98.bsp,,Quake 1,-Elite 98-,,2259
+elit99.bsp,quake/maps/bsp/elit99.bsp,,Quake 1,-Elite 99- by Cocker,,2897
+elkdm2.bsp,quake/maps/bsp/elkdm2.bsp,,Quake 1,IroN TreeS by JoCke,,373
+elkdm2.bsp,quake/maps/single-map-zips/elkdm2.zip,maps/elkdm2.bsp,Quake 1,IroN TreeS by JoCke,"Joakim ""JoCke"" Blomberg",373
+elmdm07.bsp,quake/maps/bsp/elmdm07.bsp,,Quake 1,Norrits' Lair by Godling,,1504
+elmdm07.bsp,quake/maps/single-map-zips/elmdm07.zip,maps/elmdm07.bsp,Quake 1,Norrits' Lair by Godling,Jon Bishop,1504
+elmdm08.bsp,quake/maps/bsp/elmdm08.bsp,,Quake 1,Pit of the Garthim,,1069
+elmdm08.bsp,quake/maps/single-map-zips/elmdm08.zip,maps/elmdm08.bsp,Quake 1,Pit of the Garthim,Mark Fenger (Mr.Gone),1069
+elmdm09.bsp,quake/maps/bsp/elmdm09.bsp,,Quake 1,Terminal Velocity,,961
+elmdm09.bsp,quake/maps/single-map-zips/elmdm09.zip,maps/elmdm09.bsp,Quake 1,Terminal Velocity,Mark Fenger (Mr.Gone),961
+elmdm1.bsp,quake/maps/bsp/elmdm1.bsp,,Quake 1,,,482
+elmdm1.bsp,quake/maps/single-map-zips/elmdm1.zip,maps/elmdm1.bsp,Quake 1,ELM arena,Alan Freemantle <Zakath>,482
+elmdm10.bsp,quake/maps/bsp/elmdm10.bsp,,Quake 1,Palace of Sith,,1899
+elmdm10.bsp,quake/maps/single-map-zips/elmdm10.zip,maps/elmdm10.bsp,Quake 1,Palace of Sith,Mark Fenger (Mr.Gone),1899
+elmdm11.bsp,quake/maps/bsp/elmdm11.bsp,,Quake 1,Realm of Miclantecuhtli,,1536
+elmdm11.bsp,quake/maps/single-map-zips/elmdm11.zip,maps/elmdm11.bsp,Quake 1,Realm of Miclantecuhtli,Alan Freemantle <Zakath>,1536
+elmdm12.bsp,quake/maps/bsp/elmdm12.bsp,,Quake 1,Pharaoh's Rest,,2066
+elmdm12.bsp,quake/maps/single-map-zips/elmdm12.zip,maps/elmdm12.bsp,Quake 1,Pharaoh's Rest,Alan Freemantle <Zakath>,2066
+elmdm13.bsp,quake/maps/bsp/elmdm13.bsp,,Quake 1,the Mines of Titan,,1334
+elmdm13.bsp,quake/maps/single-map-zips/elmdm13.zip,maps/elmdm13.bsp,Quake 1,the Mines of Titan,"Brian ""ELM-Somberfire"" Smedley",1334
+elmdm2.bsp,quake/maps/bsp/elmdm2.bsp,,Quake 1,ELM One on One,,184
+elmdm2.bsp,quake/maps/single-map-zips/elmdm2.zip,maps/elmdm2.bsp,Quake 1,ELM One on One,"Brian ""ELM-Somberfire"" Smedley",184
+elmdm3.bsp,quake/maps/bsp/elmdm3.bsp,,Quake 1,,,2046
+elmdm3.bsp,quake/maps/single-map-zips/elmdm3.zip,maps/elmdm3.bsp,Quake 1,ELM home,Alan Freemantle <Zakath>,2046
+elmdm4.bsp,quake/maps/bsp/elmdm4.bsp,,Quake 1,,,434
+elmdm4.bsp,quake/maps/single-map-zips/elmdm4.zip,maps/elmdm4.bsp,Quake 1,ELM temple,Alan Freemantle <Zakath>,434
+elmdm5.bsp,quake/maps/bsp/elmdm5.bsp,,Quake 1,Carnage Court,,1134
+elmdm5.bsp,quake/maps/single-map-zips/elmdm5.zip,maps/elmdm5.bsp,Quake 1,Carnage Court,"Mark Fenger (Mr.Gone, ELM)",1134
+elmdm6.bsp,quake/maps/bsp/elmdm6.bsp,,Quake 1,He Who Walks Beneath,,1153
+elmdm6.bsp,quake/maps/single-map-zips/elmdm6.zip,maps/elmdm6.bsp,Quake 1,He Who Walks Beneath,"Brian ""ELM-Somberfire"" Smedley",1153
+elysiumb2.bsp,quake/maps/bsp/elysiumb2.bsp,,Quake 1,Elysium - Beta 2 | textures http://tinyurl.com/74ly7kw,,933
+elysiumb2.bsp,quake/maps/single-map-zips/elysiumb2.zip,maps/elysiumb2.bsp,Quake 1,Elysium - Beta 2 | textures http://tinyurl.com/74ly7kw,,933
+em1.bsp,quake/maps/bsp/em1.bsp,,Quake 1,The Wherehouse,,792
+embrion.bsp,quake/maps/bsp/embrion.bsp,,Quake 1,+ Embrion + by Dupeq,,817
+embrion.bsp,quake/maps/single-map-zips/embrion.zip,maps/embrion.bsp,Quake 1,+ Embrion + by Dupeq,,817
+emddm1.bsp,quake/maps/bsp/emddm1.bsp,,Quake 1,Ultimate Balance. (Throw all your bullets in the fire. . . and stand there!!!),,622
+emddm1.bsp,quake/maps/single-map-zips/emddm1.zip,maps/emddm1.bsp,Quake 1,Ultimate Balance. (Throw all your bullets in the fire. . . and stand there!!!),,622
+emddmm4.bsp,quake/maps/bsp/emddmm4.bsp,,Quake 1,Enemy must Die! qw clan map for DMM4. Good Luck ! :) Made by SkaR & GlOOMy in 09.2003,,201
+emddmm4.bsp,quake/maps/single-map-zips/emddmm4.zip,maps/emddmm4.bsp,Quake 1,Enemy must Die! qw clan map for DMM4. Good Luck ! :) Made by SkaR & GlOOMy in 09.2003,,201
+emdtr2b.bsp,quake/maps/bsp/emdtr2b.bsp,,Quake 1,,,324
+emolt.bsp,quake/maps/bsp/emolt.bsp,,Quake 1,Emolt Quanta - SnAzBaZ,,715
+emp.bsp,quake/maps/bsp/emp.bsp,,Quake 1,E.M.P By Midori[BH],,2702
+emp1.bsp,quake/maps/bsp/emp1.bsp,,Quake 1,E.M.P By Midori[BH],,2675
+empire.bsp,quake/maps/bsp/empire.bsp,,Quake 1,Welcome to the Empire,,992
+emptyplc.bsp,quake/maps/bsp/emptyplc.bsp,,Quake 1,The Empty Place,,315
+emptyplc.bsp,quake/maps/single-map-zips/emptyplc.zip,maps/emptyplc.bsp,Quake 1,The Empty Place,"Steve ""magicman"" Thoms",315
+end.bsp,quake/maps/bsp/end.bsp,,Quake 1,Shub-Niggurath's Pit,,681
+end_pre.bsp,quake/maps/bsp/end_pre.bsp,,Quake 1,Shub-Niggurath's Pit,,440
+enda.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/enda.bsp,Quake 1,Shub-Niggurath's Pit,,456
+enddm.bsp,quake/maps/bsp/enddm.bsp,,Quake 1,Shub's Arena by vegetous,,223
+endif.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/endif.bsp,Quake 1,#endif - by yataze,,231
+endif.bsp,quake/maps/bsp/endif.bsp,,Quake 1,#endif - by yataze,,231
+endif.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/endif.bsp,Quake 1,#endif - by yataze,,231
+endif.bsp,quake/maps/packs/quakeone_maps.zip,endif.bsp,Quake 1,#endif - by yataze,,231
+endmax2.bsp,quake/maps/bsp/endmax2.bsp,,Quake 1,Shub-Niggurath's Pit By ID -Final- --==++MORE MONSTERS VERSION!!++==-- By Gnarler,,1636
+endor1a.bsp,quake/maps/bsp/endor1a.bsp,,Quake 1,endor rocketman no ewoks here!!,,472
+endor1a.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/endor1a.bsp,Quake 1,endor rocketman no ewoks here!!,,472
+endor1a.bsp,quake/maps/single-map-zips/endor1a.zip,maps/endor1a.bsp,Quake 1,endor rocketman no ewoks here!!,,472
+endra.bsp,quake/maps/bsp/endra.bsp,,Quake 1,Shub's Rocket Arena by vegetous,,230
+endtime.bsp,quake/maps/bsp/endtime.bsp,,Quake 1,End of time,,1964
+eng2k6.bsp,quake/maps/bsp/eng2k6.bsp,,Quake 1,eng2k6 By ent entropy12345@yahoo.com,,356
+eng2k7.bsp,quake/maps/bsp/eng2k7.bsp,,Quake 1,eng2k7 By ent entropy12345@yahoo.com,,521
+engage17.bsp,quake/maps/bsp/engage17.bsp,,Quake 1,Fortress Engagement ENGAGE17 by [DLF] VoodooChild,,1255
+engbat.bsp,quake/maps/bsp/engbat.bsp,,Quake 1,Engineer Battle - by [REC]Someone [REC]R3ptile.EG's idea ;) - Engineer Guild's Domain -,,349
+engbat2.bsp,quake/maps/bsp/engbat2.bsp,,Quake 1,engineer battle 2 created by space-[acs] fine tuned by terminator[acs],,639
+engbat3.bsp,quake/maps/bsp/engbat3.bsp,,Quake 1,engbat3.bsp by LSD alexz,,427
+engbat3r.bsp,quake/maps/bsp/engbat3r.bsp,,Quake 1,engbat3.bsp by LSD alexz,,527
+engbat4f.bsp,quake/maps/bsp/engbat4f.bsp,,Quake 1,-=ENGINEER'S BATTLE 4=- BgBllZMN,,1637
+engbatds.bsp,quake/maps/bsp/engbatds.bsp,,Quake 1,,,971
+engdemo.bsp,quake/maps/bsp/engdemo.bsp,,Quake 1,Demoman-VS-Engineer,,237
+engineer.bsp,quake/maps/bsp/engineer.bsp,,Quake 1,ENGINEER by Sul Updates by ScHweppeS,,987
+engjump2.bsp,quake/maps/bsp/engjump2.bsp,,Quake 1,****ENGJUMPS 2!!**** By Soul,,1055
+engjumps.bsp,quake/maps/bsp/engjumps.bsp,,Quake 1,Engineer Area!! By Soul [ICQ] 10298781,,987
+engp1.bsp,quake/maps/bsp/engp1.bsp,,Quake 1,An engineer's plight By:Blog Blog@hotmail.com,,261
+engsdual.bsp,quake/maps/bsp/engsdual.bsp,,Quake 1,"Engsdual - Stack, Battle, And Dual! By: KllA Icq#",,777
+engwar1.bsp,quake/maps/bsp/engwar1.bsp,,Quake 1,-[ ENGiNEER WAR (Pub. release v.1)]- GET IT AT: contaminated.net/vault/engwar1.zip,,459
+enigma.bsp,quake/maps/bsp/enigma.bsp,,Quake 1,the divine enigma - by kaiser,,439
+enigma.bsp,quake/maps/single-map-zips/enigma.zip,maps/enigma.bsp,Quake 1,the divine enigma - by kaiser,Kaiser,439
+enigma1.bsp,quake/maps/bsp/enigma1.bsp,,Quake 1,Enigma - by XeNoN,,583
+enigma1.bsp,quake/maps/single-map-zips/enigma1.zip,maps/enigma1.bsp,Quake 1,Enigma - by XeNoN,,583
+ennogeht.bsp,quake/maps/bsp/ennogeht.bsp,,Quake 1,,,738
+ennogeht.bsp,quake/maps/single-map-zips/ennogeht.zip,maps/ennogeht.bsp,Quake 1,,,738
+enraged.bsp,quake/maps/bsp/enraged.bsp,,Quake 1,Enraged - by Jago (with Bambuz),,2528
+enraged.bsp,quake/maps/single-map-zips/enraged.zip,maps/enraged.bsp,Quake 1,Enraged - by Jago (with Bambuz),Dan Naumov aka Jago,2528
+enterc.bsp,quake/maps/bsp/enterc.bsp,,Quake 1,Entercorsed by dloader@yoss.canweb.net ([jD]),,608
+enterc.bsp,quake/maps/single-map-zips/enterc.zip,maps/enterc.bsp,Quake 1,Entercorsed by dloader@yoss.canweb.net ([jD]),Mark Danes ([jD]),608
+enterhot.bsp,quake/maps/bsp/enterhot.bsp,,Quake 1,enter the dragon,,546
+enterhot.bsp,quake/maps/single-map-zips/enterhot.zip,maps/enterhot.bsp,Quake 1,enter the dragon,,546
+enterrw.bsp,quake/maps/bsp/enterrw.bsp,,Quake 1,enter the dragon,,519
+enthor15.bsp,quake/maps/bsp/enthor15.bsp,,Quake 1,Eternal Horror - By FLooD,,886
+enthor15.bsp,quake/maps/single-map-zips/enthor15.zip,maps/enthor15.bsp,Quake 1,Eternal Horror - By FLooD,,886
+enthouse.bsp,quake/maps/bsp/enthouse.bsp,,Quake 1,]ent['s house. by ]ent[ and Gnarler. TF / DM / Coop map,,1320
+entrenched1b.bsp,quake/maps/bsp/entrenched1b.bsp,,Quake 1,Entrench v.1b By:aXeDaoLin,,1296
+entry.bsp,quake/maps/bsp/entry.bsp,,Quake 1,Unlawful Entry by Bugsy_sWeMoB,,96
+entry.bsp,quake/maps/single-map-zips/entry.zip,maps/entry.bsp,Quake 1,Unlawful Entry by Bugsy_sWeMoB,,96
+envyflos.bsp,other-games/quake2/maps/envyflos.bsp,,Quake 2,,,1714
+eod.bsp,quake/maps/bsp/eod.bsp,,Quake 1,E O D -clone cic,,927
+eod.bsp,quake/maps/single-map-zips/eod.zip,maps/eod.bsp,Quake 1,E O D -clone cic,,927
+eodm2.bsp,quake/maps/bsp/eodm2.bsp,,Quake 1,outcast,,552
+eodm2.bsp,quake/maps/single-map-zips/eodm2.zip,maps/eodm2.bsp,Quake 1,outcast,,552
+eodm3.bsp,quake/maps/bsp/eodm3.bsp,,Quake 1,Nighttime Cavity -clone,,1733
+eodm3.bsp,quake/maps/single-map-zips/eodm3.zip,maps/eodm3.bsp,Quake 1,Nighttime Cavity -clone,,1733
+eodm4.bsp,quake/maps/bsp/eodm4.bsp,,Quake 1,eodm4 (test1): download it faster and get the lit at www.comfortinch4os.com/eodm4,,1435
+eodm4.bsp,quake/maps/single-map-zips/eodm4.zip,maps/eodm4.bsp,Quake 1,eodm4 (test1): download it faster and get the lit at www.comfortinch4os.com/eodm4,,1435
+eoe.bsp,quake/maps/bsp/eoe.bsp,,Quake 1,Ekauq Ot Emoclew,,156
+eoe.bsp,quake/maps/single-map-zips/eoe.zip,maps/eoe.bsp,Quake 1,Ekauq Ot Emoclew,Phil Hammond inforatt@ix.netcom.com,156
+eoj.bsp,quake/maps/bsp/eoj.bsp,,Quake 1,,,1090
+eoj.bsp,quake/maps/single-map-zips/eoj.zip,maps/eoj.bsp,Quake 1,Early Uploading John,,1090
+epista.bsp,quake/maps/bsp/epista.bsp,,Quake 1,Epista by Anesthesia,,424
+epista.bsp,quake/maps/single-map-zips/epista.zip,maps/epista.bsp,Quake 1,Epista by Anesthesia,Anesthesia,424
+epoch.bsp,quake/maps/bsp/epoch.bsp,,Quake 1,The Epoch Turning,,1691
+epstart.bsp,quake/maps/bsp/epstart.bsp,,Quake 1,CTF-EP Start,,2083
+erkle9.bsp,quake/maps/bsp/erkle9.bsp,,Quake 1,Erkle's Domain,,407
+escape.bsp,quake/maps/bsp/escape.bsp,,Quake 1,,,1703
+escape1.bsp,quake/maps/bsp/escape1.bsp,,Quake 1,-=[ L E V E L 1 ]=- The Escape By Soul entities by Gnarler and Hardkore,,1104
+escape2.bsp,quake/maps/bsp/escape2.bsp,,Quake 1,-=[ L E V E L 2 ]=- The Escape By Soul Entites by Gnarler & Hardkore,,1742
+escape2a.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/escape2a.bsp,Quake 1,Intermission BIG CHILL,,1224
+escape2a.bsp,quake/maps/bsp/escape2a.bsp,,Quake 1,Intermission BIG CHILL,,1224
+escape2a.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/escape2a.bsp,Quake 1,Intermission BIG CHILL,,1224
+escape3.bsp,quake/maps/bsp/escape3.bsp,,Quake 1,-=[ L E V E L 3 ]=- The Escape By Soul Special Thanks to Gnarler and Hardkore For all the help and support!,,2444
+escape4_2.bsp,quake/maps/bsp/escape4_2.bsp,,Quake 1,-=[ L E V E L 4 ]=- The Escape By Soul Beta,,1142
+escout.bsp,quake/maps/bsp/escout.bsp,,Quake 1,,,158
+escoutb2.bsp,quake/maps/bsp/escoutb2.bsp,,Quake 1,,,333
+estudio12.bsp,quake/maps/bsp/estudio12.bsp,,Quake 1,Estudios 1.2 capyvara@geocities.com,,1323
+eternal1.bsp,quake/maps/bsp/eternal1.bsp,,Quake 1,Eternal Insanity - Freelance. By Arq.,,384
+eternal1.bsp,quake/maps/single-map-zips/eternal1.zip,maps/eternal1.bsp,Quake 1,Eternal Insanity - Freelance. By Arq.,"Toke D.""Cold"" Jørgensen of The Inner Order",384
+eternal2.bsp,quake/maps/bsp/eternal2.bsp,,Quake 1,Nail It - Cold -,,297
+eternal2.bsp,quake/maps/single-map-zips/eternal2.zip,maps/eternal2.bsp,Quake 1,Nail It - Cold -,"Toke D.""Cold"" Jørgensen of The Inner Order",297
+eternal3.bsp,quake/maps/bsp/eternal3.bsp,,Quake 1,Insanity Maximun - [GP] Arq.Rauch,,669
+eternal3.bsp,quake/maps/single-map-zips/eternal3.zip,maps/eternal3.bsp,Quake 1,Insanity Maximun - [GP] Arq.Rauch,,669
+eternal4.bsp,quake/maps/bsp/eternal4.bsp,,Quake 1,Aras Sol Pars - Playground Blood - Cold -,,452
+eternal4.bsp,quake/maps/single-map-zips/eternal4.zip,maps/eternal4.bsp,Quake 1,Aras Sol Pars - Playground Blood - Cold -,"Toke D.""Cold"" Jørgensen of The Inner Order",452
+eternal5.bsp,quake/maps/bsp/eternal5.bsp,,Quake 1,Cave Dyscrentia - Arq.Rauch - theguardians@yahoo.com,,599
+eternal5.bsp,quake/maps/single-map-zips/eternal5.zip,maps/eternal5.bsp,Quake 1,Cave Dyscrentia - Arq.Rauch - theguardians@yahoo.com,"Toke D.""Cold"" Jørgensen Aka .Arq.Rauch of [KV]",599
+eternal6.bsp,quake/maps/bsp/eternal6.bsp,,Quake 1,Eternal6 - In Sheeps Clothing - [cOld],,898
+eternal6.bsp,quake/maps/single-map-zips/eternal6.zip,maps/eternal6.bsp,Quake 1,Eternal6 - In Sheeps Clothing - [cOld],cOld,898
+ethereal.bsp,quake/maps/bsp/ethereal.bsp,,Quake 1,The Ethereal Void,,163
+etninc.bsp,quake/maps/bsp/etninc.bsp,,Quake 1,Welcome To ETN Incorporated,,1263
+etninc.bsp,quake/maps/single-map-zips/etninc.zip,maps/etninc.bsp,Quake 1,Welcome To ETN Incorporated,Etienne (E.T.) Rheaume,1263
+etown.bsp,quake/maps/bsp/etown.bsp,,Quake 1,evil town by a.g -97,,1001
+evdm1.bsp,quake/maps/bsp/evdm1.bsp,,Quake 1,black rain,,832
+evdm1.bsp,quake/maps/single-map-zips/evdm1.zip,maps/evdm1.bsp,Quake 1,black rain,Evan Wagner,832
+evening.bsp,quake/maps/bsp/evening.bsp,,Quake 1,Evening Eviseration,,961
+evening.bsp,quake/maps/single-map-zips/evening.zip,maps/evening.bsp,Quake 1,Evening Eviseration,james4040,961
+evening2.bsp,quake/maps/bsp/evening2.bsp,,Quake 1,Evening Evisceration,,1093
+evening2.bsp,quake/maps/single-map-zips/evening2.zip,maps/evening2.bsp,Quake 1,Evening Evisceration,james4040,1093
+evil.bsp,quake/maps/bsp/evil.bsp,,Quake 1,The Evil House,,402
+evil.bsp,quake/maps/single-map-zips/evil.zip,maps/evil.bsp,Quake 1,The Evil House,Lestat,402
+evil2.bsp,quake/maps/bsp/evil2.bsp,,Quake 1,The Evil House,,390
+evil2.bsp,quake/maps/single-map-zips/evil2.zip,maps/evil2.bsp,Quake 1,The Evil House,Lestat,390
+evildead.bsp,quake/maps/bsp/evildead.bsp,,Quake 1,EvilDead cabin,,1132
+evilplay.bsp,quake/maps/bsp/evilplay.bsp,,Quake 1,The evil playground - by Fearicon@hotmail.com,,585
+evilplay.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/evilplay.bsp,Quake 1,The evil playground - by Fearicon@hotmail.com,,585
+evilwrld.bsp,quake/maps/bsp/evilwrld.bsp,,Quake 1,EvilWorld 1,,1218
+evpick.bsp,quake/maps/bsp/evpick.bsp,,Quake 1,eVPick - Map Voting,,348
+evsd20.bsp,quake/maps/bsp/evsd20.bsp,,Quake 1,"Demoman vs Engineer Map Design M2KDetMaster Entities, etc  RendeR",,448
+ewg1.bsp,quake/maps/bsp/ewg1.bsp,,Quake 1,Ephidrina War Grounds By SirLiam vvv,,2139
+ewg2.bsp,quake/maps/bsp/ewg2.bsp,,Quake 1,Ephidrina War Grounds II By SirLiam vvv,,2324
+ewg3.bsp,quake/maps/bsp/ewg3.bsp,,Quake 1,Ephidrina War Grounds III By SirLiam vvv Entities edited by OPRJuNCJuN,,2540
+ewg3sta.bsp,quake/maps/bsp/ewg3sta.bsp,,Quake 1,STA MTF Division Ephidrina War Grounds III By SirLiam vvv,,2537
+excavation_rc2.bsp,quake/maps/bsp/excavation_rc2.bsp,,Quake 1,Excavation (release canidate 2) - by foogs,,2132
+excel.bsp,quake/maps/bsp/excel.bsp,,Quake 1,Excelsior by Greymon,,2017
+excelsta.bsp,quake/maps/bsp/excelsta.bsp,,Quake 1,Excelsior by Greymon STA version Entities b,,2017
+exdm1.bsp,quake/maps/bsp/exdm1.bsp,,Quake 1,MELANQUOLIA by excessus,,733
+exdm1.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/exdm1.bsp,Quake 1,MELANQUOLIA by excessus,,733
+exdm1.bsp,quake/maps/single-map-zips/exdm1.zip,maps/exdm1.bsp,Quake 1,MELANQUOLIA by excessus,"Carlos ""excessus"" Sisi",733
+exdm2.bsp,quake/maps/bsp/exdm2.bsp,,Quake 1,Game Preserve By Excessus,,856
+exdm2.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/exdm2.bsp,Quake 1,Game Preserve By Excessus,,856
+exdm2.bsp,quake/maps/single-map-zips/exdm2.zip,maps/exdm2.bsp,Quake 1,Game Preserve By Excessus,"Carlos ""excessus"" Sisi",856
+exdm3.bsp,quake/maps/bsp/exdm3.bsp,,Quake 1,Pandemonium By Excessus,,975
+exdm3.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/exdm3.bsp,Quake 1,Pandemonium By Excessus,,975
+exdm3.bsp,quake/maps/packs/quake1.zip,exdm3.bsp,Quake 1,Pandemonium By Excessus,,975
+exdm3.bsp,quake/maps/single-map-zips/exdm3.zip,maps/exdm3.bsp,Quake 1,Pandemonium By Excessus,"Carlos ""excessus"" Sisi",975
+exdm4.bsp,quake/maps/bsp/exdm4.bsp,,Quake 1,.The Furnace. by Excessus,,1068
+exdm4.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/exdm4.bsp,Quake 1,The Furnace by Excessus,,1055
+exdm4.bsp,quake/maps/single-map-zips/exdm4.zip,maps/exdm4.bsp,Quake 1,.The Furnace. by Excessus,"Carlos ""excessus"" Sisi",1068
+exdm5.bsp,quake/maps/bsp/exdm5.bsp,,Quake 1,ESPRIT DE CORPSE by excessus,,1206
+exdm5.bsp,quake/maps/single-map-zips/exdm5.zip,maps/exdm5.bsp,Quake 1,ESPRIT DE CORPSE by excessus,"Carlos ""Excessus"" Sisí",1206
+exilea2r1.bsp,quake/maps/bsp/exilea2r1.bsp,,Quake 1,exile-alpha2 revision1,,248
+exilea2r1.bsp,quake/maps/single-map-zips/exilea2r1.zip,maps/exilea2r1.bsp,Quake 1,exile-alpha2 revision1,,248
+exileb1r6.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/exileb1r6.bsp,Quake 1,Exile - Beta 1 Revision 6 - by foogs,,1828
+exlsr.bsp,quake/maps/bsp/exlsr.bsp,,Quake 1,Excelsior by Greymon,,2123
+expctf1.bsp,quake/maps/bsp/expctf1.bsp,,Quake 1,Expert CTF I Nicole's Virtue *this(adistler@ace.cs.ohiou.edu),,1368
+expctf2.bsp,quake/maps/bsp/expctf2.bsp,,Quake 1,Expert Base - Myrkul and Publius,,1762
+expel.bsp,quake/maps/bsp/expel.bsp,,Quake 1,Expel Humanity,,877
+expel.bsp,quake/maps/single-map-zips/expel.zip,maps/expel.bsp,Quake 1,Expel Humanity,David Jewsbury,877
+expert.bsp,quake/maps/bsp/expert.bsp,,Quake 1,Expert SK BladeZ,,1527
+extermin.bsp,quake/maps/bsp/extermin.bsp,,Quake 1,,,320
+extrj2b3.bsp,quake/maps/bsp/extrj2b3.bsp,,Quake 1,xtrme Rockt Jumpng Version  BETA  By MiNiLRd gamesnet #bar,,1308
+eyesock.bsp,quake/maps/bsp/eyesock.bsp,,Quake 1,Eye Socket,,1137
+ezsquare.bsp,quake/maps/bsp/ezsquare.bsp,,Quake 1,EZSquare By EmuZombie,,156
+ezstreet.bsp,quake/maps/bsp/ezstreet.bsp,,Quake 1,EZStreet by Hirlas & Ryan Cawdor,,750

@@ -1,0 +1,1709 @@
+# Inside the archives in `quake/qc-source/`
+
+9 archives. Click one to see its files.
+
+<details>
+<summary><code>cleanqc-gpl.zip</code> (42 files)</summary>
+
+- `ai.qc` 15 KB
+- `boss.qc` 13 KB
+- `buttons.qc` 4 KB
+- `client.qc` 42 KB
+- `combat.qc` 8 KB
+- `defs.qc` 20 KB
+- `demon.qc` 10 KB
+- `dog.qc` 10 KB
+- `doors.qc` 18 KB
+- `enforcer.qc` 11 KB
+- `fight.qc` 8 KB
+- `fish.qc` 8 KB
+- `fteextensions.qc` 193 KB
+- `gnu_gpl.txt` 18 KB
+- `hknight.qc` 19 KB
+- `items.qc` 33 KB
+- `knight.qc` 10 KB
+- `misc.qc` 16 KB
+- `monster_weapon_drop.qc` 2 KB
+- `monsters.qc` 6 KB
+- `motd.qc` 0 KB
+- `ogre.qc` 15 KB
+- `oldone.qc` 10 KB
+- `plats.qc` 8 KB
+- `player.qc` 21 KB
+- `progdefs.h` 3 KB
+- `progs.src` 1 KB
+- `release/progs.dat` 339 KB
+- `release/progs.lno` 85 KB
+- `request.qc` 6 KB
+- `shalrath.qc` 9 KB
+- `shambler.qc` 14 KB
+- `soldier.qc` 11 KB
+- `spawns.qc` 1 KB
+- `spectate.qc` 9 KB
+- `subs.qc` 7 KB
+- `tarbaby.qc` 8 KB
+- `triggers.qc` 15 KB
+- `weapons.qc` 32 KB
+- `wizard.qc` 12 KB
+- `world.qc` 12 KB
+- `zombie.qc` 21 KB
+
+</details>
+
+<details>
+<summary><code>cr5src.zip</code> (45 files)</summary>
+
+- `triggers.qc` 15 KB
+- `angles.qc` 3 KB
+- `array.qc` 4 KB
+- `Auto.qc` 9 KB
+- `buttons.qc` 3 KB
+- `Changes.log` 16 KB
+- `Client.qc` 53 KB
+- `Combat.qc` 10 KB
+- `Console.qc` 43 KB
+- `Debug.qc` 17 KB
+- `defs.qc` 25 KB
+- `doors.qc` 18 KB
+- `Elodefs.qc` 9 KB
+- `Elohim.qc` 44 KB
+- `fnstrings.qc` 6 KB
+- `hotspots.qc` 0 KB
+- `impulses.txt` 1 KB
+- `Items.qc` 34 KB
+- `Match.qc` 52 KB
+- `misc.qc` 17 KB
+- `models.qc` 9 KB
+- `monsters.qc` 1 KB
+- `Motd.qc` 8 KB
+- `Observer.qc` 49 KB
+- `options.qc` 27 KB
+- `plats.qc` 8 KB
+- `Player.qc` 19 KB
+- `progdefs.h` 3 KB
+- `Progs.src` 1 KB
+- `QSMACK.QC` 6 KB
+- `quaketag.qc` 3 KB
+- `quaketv.qc` 5 KB
+- `Score.qc` 12 KB
+- `sprites.qc` 0 KB
+- `Stats.qc` 10 KB
+- `strings.qc` 22 KB
+- `subs.qc` 6 KB
+- `Training.qc` 9 KB
+- `Admin.qc` 29 KB
+- `USERDEFS.QC` 4 KB
+- `Utils.qc` 16 KB
+- `votables.qc` 22 KB
+- `vote.qc` 5 KB
+- `Weapons.qc` 33 KB
+- `world.qc` 13 KB
+
+</details>
+
+<details>
+<summary><code>cr62src.zip</code> (61 files)</summary>
+
+- `strings.qc` 6 KB
+- `angles.qc` 3 KB
+- `array.qc` 2 KB
+- `Auto.qc` 9 KB
+- `buttons.qc` 3 KB
+- `Changes.log` 20 KB
+- `Client.qc` 55 KB
+- `Combat.qc` 10 KB
+- `Console.qc` 45 KB
+- `Crmod.001` 15 KB
+- `Crmod.dsp` 7 KB
+- `Crmod.dsw` 1 KB
+- `Crmod.mak` 15 KB
+- `Crmod.mdp` 40 KB
+- `Crmod.ncb` 41 KB
+- `Crmod.opt` 56 KB
+- `Crmod.plg` 2 KB
+- `Debug.qc` 16 KB
+- `defs.qc` 25 KB
+- `display.qc` 5 KB
+- `doors.qc` 18 KB
+- `Elodefs.qc` 10 KB
+- `Elohim.qc` 50 KB
+- `impulses.txt` 1 KB
+- `internal.qc` 9 KB
+- `Items.qc` 36 KB
+- `m.bat` 0 KB
+- `Make.bat` 0 KB
+- `Match.qc` 55 KB
+- `misc.qc` 16 KB
+- `models.qc` 9 KB
+- `monsters.qc` 1 KB
+- `Motd.qc` 7 KB
+- `name.qc` 4 KB
+- `net.qc` 6 KB
+- `Observer.qc` 45 KB
+- `options.qc` 21 KB
+- `plats.qc` 8 KB
+- `Player.qc` 19 KB
+- `progdefs.bak` 3 KB
+- `progdefs.h` 3 KB
+- `Progs.src` 1 KB
+- `proquake.qc` 3 KB
+- `Qsmack.qc` 6 KB
+- `quaketag.qc` 4 KB
+- `quaketv.qc` 5 KB
+- `Score.qc` 12 KB
+- `sprites.qc` 0 KB
+- `Stats.qc` 15 KB
+- `Admin.qc` 33 KB
+- `subs.qc` 6 KB
+- `TEMP.TXT` 0 KB
+- `Training.qc` 9 KB
+- `triggers.qc` 15 KB
+- `Userdefs.qc` 4 KB
+- `Utils.qc` 15 KB
+- `votables.qc` 23 KB
+- `vote.qc` 6 KB
+- `Weapons.qc` 33 KB
+- `world.qc` 13 KB
+- `zone.qc` 5 KB
+
+</details>
+
+<details>
+<summary><code>Kurok compatible quakec.rar</code> (49 files)</summary>
+
+- `Kurok compatible quakec/ai.qc` 14 KB
+- `Kurok compatible quakec/amtest.qc` 2 KB
+- `Kurok compatible quakec/boss.qc` 12 KB
+- `Kurok compatible quakec/buttons.qc` 3 KB
+- `Kurok compatible quakec/client.qc` 33 KB
+- `Kurok compatible quakec/combat.qc` 6 KB
+- `Kurok compatible quakec/defs.qc` 18 KB
+- `Kurok compatible quakec/demon.qc` 10 KB
+- `Kurok compatible quakec/dog.qc` 9 KB
+- `Kurok compatible quakec/doors.qc` 17 KB
+- `Kurok compatible quakec/enforcer.qc` 10 KB
+- `Kurok compatible quakec/fight.qc` 7 KB
+- `Kurok compatible quakec/fish.qc` 8 KB
+- `Kurok compatible quakec/flag.qc` 0 KB
+- `Kurok compatible quakec/Frikbot/bot.qc` 29 KB
+- `Kurok compatible quakec/Frikbot/bot_ai.qc` 23 KB
+- `Kurok compatible quakec/Frikbot/bot_ed.qc` 42 KB
+- `Kurok compatible quakec/Frikbot/bot_fight.qc` 9 KB
+- `Kurok compatible quakec/Frikbot/bot_misc.qc` 14 KB
+- `Kurok compatible quakec/Frikbot/bot_move.qc` 12 KB
+- `Kurok compatible quakec/Frikbot/bot_phys.qc` 17 KB
+- `Kurok compatible quakec/Frikbot/bot_qw.qc` 23 KB
+- `Kurok compatible quakec/Frikbot/bot_way.qc` 20 KB
+- `Kurok compatible quakec/fteqccgui.exe` 260 KB
+- `Kurok compatible quakec/hknight.qc` 18 KB
+- `Kurok compatible quakec/items.qc` 29 KB
+- `Kurok compatible quakec/jctest.qc` 0 KB
+- `Kurok compatible quakec/knight.qc` 9 KB
+- `Kurok compatible quakec/misc.qc` 15 KB
+- `Kurok compatible quakec/models.qc` 9 KB
+- `Kurok compatible quakec/monsters.qc` 5 KB
+- `Kurok compatible quakec/ogre.qc` 15 KB
+- `Kurok compatible quakec/oldone.qc` 9 KB
+- `Kurok compatible quakec/plats.qc` 8 KB
+- `Kurok compatible quakec/player.qc` 17 KB
+- `Kurok compatible quakec/progdefs.h` 3 KB
+- `Kurok compatible quakec/progs.src` 1 KB
+- `Kurok compatible quakec/readme.txt` 0 KB
+- `Kurok compatible quakec/shalrath.qc` 8 KB
+- `Kurok compatible quakec/shambler.qc` 12 KB
+- `Kurok compatible quakec/soldier.qc` 10 KB
+- `Kurok compatible quakec/sprites.qc` 0 KB
+- `Kurok compatible quakec/subs.qc` 6 KB
+- `Kurok compatible quakec/tarbaby.qc` 7 KB
+- `Kurok compatible quakec/triggers.qc` 14 KB
+- `Kurok compatible quakec/weapons.qc` 26 KB
+- `Kurok compatible quakec/wizard.qc` 10 KB
+- `Kurok compatible quakec/world.qc` 11 KB
+- `Kurok compatible quakec/zombie.qc` 20 KB
+
+</details>
+
+<details>
+<summary><code>progs106.zip</code> (38 files)</summary>
+
+- `progs.dat` 403 KB
+- `zombie.qc` 20 KB
+- `world.qc` 11 KB
+- `wizard.qc` 10 KB
+- `weapons.qc` 25 KB
+- `triggers.qc` 14 KB
+- `tarbaby.qc` 7 KB
+- `subs.qc` 6 KB
+- `sprites.qc` 0 KB
+- `soldier.qc` 10 KB
+- `shambler.qc` 12 KB
+- `shalrath.qc` 8 KB
+- `progs.src` 0 KB
+- `ai.qc` 14 KB
+- `player.qc` 17 KB
+- `plats.qc` 8 KB
+- `oldone.qc` 9 KB
+- `ogre.qc` 14 KB
+- `monsters.qc` 5 KB
+- `models.qc` 9 KB
+- `misc.qc` 15 KB
+- `knight.qc` 9 KB
+- `jctest.qc` 0 KB
+- `items.qc` 29 KB
+- `hknight.qc` 18 KB
+- `flag.qc` 0 KB
+- `fish.qc` 8 KB
+- `fight.qc` 7 KB
+- `enforcer.qc` 10 KB
+- `doors.qc` 17 KB
+- `dog.qc` 9 KB
+- `demon.qc` 10 KB
+- `defs.qc` 17 KB
+- `combat.qc` 6 KB
+- `client.qc` 32 KB
+- `buttons.qc` 3 KB
+- `boss.qc` 12 KB
+- `amtest.qc` 2 KB
+
+</details>
+
+<details>
+<summary><code>progs_dump_devkit_v200.zip</code> (194 files)</summary>
+
+- `pd_200/development/fgd_def/pd_200.def` 145 KB
+- `pd_200/development/fgd_def/pd_200_JACK.fgd` 109 KB
+- `pd_200/development/fgd_def/pd_200_TB.fgd` 113 KB
+- `pd_200/development/fgd_def/pd_200_TB_custom_mdls.fgd` 118 KB
+- `pd_200/development/map src/debris/brick01.map` 1 KB
+- `pd_200/development/map src/debris/wood1.map` 1 KB
+- `pd_200/development/map src/pd_bosses.map` 329 KB
+- `pd_200/development/map src/pd_breakables.map` 35 KB
+- `pd_200/development/map src/pd_change_dest.map` 126 KB
+- `pd_200/development/map src/pd_counter.map` 176 KB
+- `pd_200/development/map src/pd_cutscenes.map` 564 KB
+- `pd_200/development/map src/pd_cutscn_cuts.map` 9 KB
+- `pd_200/development/map src/pd_cutscn_simple.map` 7 KB
+- `pd_200/development/map src/pd_cutscn_tracking.map` 8 KB
+- `pd_200/development/map src/pd_elevator.map` 117 KB
+- `pd_200/development/map src/pd_gallery.map` 500 KB
+- `pd_200/development/map src/pd_gravity.jmx` 1708 KB
+- `pd_200/development/map src/pd_gravity.map` 650 KB
+- `pd_200/development/map src/pd_ionous.jmx` 3781 KB
+- `pd_200/development/map src/pd_ionous.map` 1443 KB
+- `pd_200/development/map src/pd_keys.map` 98 KB
+- `pd_200/development/map src/pd_ladders.map` 217 KB
+- `pd_200/development/map src/pd_lasers.map` 351 KB
+- `pd_200/development/map src/pd_lava.map` 101 KB
+- `pd_200/development/map src/pd_lightning.map` 206 KB
+- `pd_200/development/map src/pd_meat.map` 268 KB
+- `pd_200/development/map src/pd_rotate.map` 61 KB
+- `pd_200/development/map src/pd_void.map` 70 KB
+- `pd_200/development/map src/pd_yoder.map` 418 KB
+- `pd_200/development/map src/pd_zombies.map` 175 KB
+- `pd_200/development/map src/prefab_ammo_backpack.map` 7 KB
+- `pd_200/development/map src/prefab_func_fall2.map` 81 KB
+- `pd_200/development/map src/prefab_spawner.map` 8 KB
+- `pd_200/development/map src/start.map` 593 KB
+- `pd_200/development/progs_dump-devkit-readme.txt` 5 KB
+- `pd_200/development/quakec src/ai.qc` 16 KB
+- `pd_200/development/quakec src/boss.qc` 13 KB
+- `pd_200/development/quakec src/boss2.qc` 16 KB
+- `pd_200/development/quakec src/buttons.qc` 3 KB
+- `pd_200/development/quakec src/changelog.txt` 10 KB
+- `pd_200/development/quakec src/client.qc` 42 KB
+- `pd_200/development/quakec src/combat.qc` 7 KB
+- `pd_200/development/quakec src/custom_mdls.qc` 2 KB
+- `pd_200/development/quakec src/customsounds.qc` 5 KB
+- `pd_200/development/quakec src/cutscene.qc` 30 KB
+- `pd_200/development/quakec src/defs.qc` 25 KB
+- `pd_200/development/quakec src/demon.qc` 14 KB
+- `pd_200/development/quakec src/doelightning.qc` 5 KB
+- `pd_200/development/quakec src/doeplats.qc` 15 KB
+- `pd_200/development/quakec src/dog.qc` 14 KB
+- `pd_200/development/quakec src/doors.qc` 18 KB
+- `pd_200/development/quakec src/dtmisc.qc` 29 KB
+- `pd_200/development/quakec src/dtquake.qc` 3 KB
+- `pd_200/development/quakec src/elevatr.qc` 4 KB
+- `pd_200/development/quakec src/enforcer.qc` 24 KB
+- `pd_200/development/quakec src/fight.qc` 7 KB
+- `pd_200/development/quakec src/fish.qc` 11 KB
+- `pd_200/development/quakec src/func_bob.qc` 6 KB
+- `pd_200/development/quakec src/func_fall2.qc` 6 KB
+- `pd_200/development/quakec src/hipcount.qc` 5 KB
+- `pd_200/development/quakec src/hippart.qc` 8 KB
+- `pd_200/development/quakec src/hiptrig.qc` 6 KB
+- `pd_200/development/quakec src/hknight.qc` 23 KB
+- `pd_200/development/quakec src/items.qc` 66 KB
+- `pd_200/development/quakec src/keydata.qc` 6 KB
+- `pd_200/development/quakec src/keylock.qc` 6 KB
+- `pd_200/development/quakec src/knight.qc` 14 KB
+- `pd_200/development/quakec src/LICENSE` 18 KB
+- `pd_200/development/quakec src/lights.qc` 15 KB
+- `pd_200/development/quakec src/math.qc` 2 KB
+- `pd_200/development/quakec src/misc.qc` 39 KB
+- `pd_200/development/quakec src/misc_model.qc` 2 KB
+- `pd_200/development/quakec src/mobot.qc` 14 KB
+- `pd_200/development/quakec src/monsters.qc` 10 KB
+- `pd_200/development/quakec src/newflags.qc` 6 KB
+- `pd_200/development/quakec src/ogre.qc` 39 KB
+- `pd_200/development/quakec src/oldone.qc` 10 KB
+- `pd_200/development/quakec src/oldone2.qc` 14 KB
+- `pd_200/development/quakec src/plats.qc` 14 KB
+- `pd_200/development/quakec src/player.qc` 20 KB
+- `pd_200/development/quakec src/progs.src` 2 KB
+- `pd_200/development/quakec src/README.md` 0 KB
+- `pd_200/development/quakec src/rotate.qc` 31 KB
+- `pd_200/development/quakec src/rubicon2.qc` 28 KB
+- `pd_200/development/quakec src/shalrath.qc` 13 KB
+- `pd_200/development/quakec src/shambler.qc` 18 KB
+- `pd_200/development/quakec src/soldier.qc` 18 KB
+- `pd_200/development/quakec src/subs.qc` 14 KB
+- `pd_200/development/quakec src/tarbaby.qc` 10 KB
+- `pd_200/development/quakec src/triggers.qc` 38 KB
+- `pd_200/development/quakec src/weapons.qc` 37 KB
+- `pd_200/development/quakec src/wizard.qc` 15 KB
+- `pd_200/development/quakec src/world.qc` 20 KB
+- `pd_200/development/quakec src/zombie.qc` 33 KB
+- `pd_200/development/wads/pd_200.wad` 3953 KB
+- `pd_200/maps/debris/brick01.bsp` 8 KB
+- `pd_200/maps/debris/wood1.bsp` 7 KB
+- `pd_200/maps/pd_bosses.bsp` 757 KB
+- `pd_200/maps/pd_bosses.lit` 538 KB
+- `pd_200/maps/pd_breakables.bsp` 145 KB
+- `pd_200/maps/pd_change_dest.bsp` 2672 KB
+- `pd_200/maps/pd_change_dest.lit` 5322 KB
+- `pd_200/maps/pd_counter.bsp` 284 KB
+- `pd_200/maps/pd_counter.lit` 105 KB
+- `pd_200/maps/pd_cutscenes.bsp` 1162 KB
+- `pd_200/maps/pd_cutscenes.lit` 503 KB
+- `pd_200/maps/pd_cutscn_cuts.bsp` 477 KB
+- `pd_200/maps/pd_cutscn_cuts.lit` 41 KB
+- `pd_200/maps/pd_cutscn_simple.bsp` 477 KB
+- `pd_200/maps/pd_cutscn_simple.lit` 40 KB
+- `pd_200/maps/pd_cutscn_tracking.bsp` 479 KB
+- `pd_200/maps/pd_cutscn_tracking.lit` 41 KB
+- `pd_200/maps/pd_elevator.bsp` 620 KB
+- `pd_200/maps/pd_elevator.lit` 108 KB
+- `pd_200/maps/pd_gallery.bsp` 1365 KB
+- `pd_200/maps/pd_gallery.lit` 654 KB
+- `pd_200/maps/pd_gravity.bsp` 1023 KB
+- `pd_200/maps/pd_ionous.bsp` 1458 KB
+- `pd_200/maps/pd_ionous.lit` 460 KB
+- `pd_200/maps/pd_keys.bsp` 308 KB
+- `pd_200/maps/pd_ladders.bsp` 797 KB
+- `pd_200/maps/pd_ladders.lit` 114 KB
+- `pd_200/maps/pd_lasers.bsp` 1479 KB
+- `pd_200/maps/pd_lasers.lit` 306 KB
+- `pd_200/maps/pd_lava.bsp` 778 KB
+- `pd_200/maps/pd_lava.lit` 186 KB
+- `pd_200/maps/pd_lightning.bsp` 561 KB
+- `pd_200/maps/pd_meat.bsp` 677 KB
+- `pd_200/maps/pd_meat.lit` 263 KB
+- `pd_200/maps/pd_rotate.bsp` 269 KB
+- `pd_200/maps/pd_void.bsp` 634 KB
+- `pd_200/maps/pd_void.lit` 516 KB
+- `pd_200/maps/pd_yoder.bsp` 965 KB
+- `pd_200/maps/pd_yoder.lit` 568 KB
+- `pd_200/maps/pd_zombies.bsp` 344 KB
+- `pd_200/maps/pd_zombies.lit` 150 KB
+- `pd_200/maps/prefab_ammo_backpack.bsp` 35 KB
+- `pd_200/maps/prefab_ammo_backpack.lit` 59 KB
+- `pd_200/maps/prefab_func_fall2.bsp` 176 KB
+- `pd_200/maps/prefab_func_fall2.lit` 174 KB
+- `pd_200/maps/start.bsp` 1500 KB
+- `pd_200/maps/start.lit` 521 KB
+- `pd_200/mod_template.zip` 2049 KB
+- `pd_200/progs.dat` 615 KB
+- `pd_200/progs/a_mdls/m_cells1.mdl` 3 KB
+- `pd_200/progs/a_mdls/m_cells2.mdl` 4 KB
+- `pd_200/progs/a_mdls/m_nails1.mdl` 3 KB
+- `pd_200/progs/a_mdls/m_nails2.mdl` 4 KB
+- `pd_200/progs/a_mdls/m_rock1.mdl` 3 KB
+- `pd_200/progs/a_mdls/m_rock2.mdl` 4 KB
+- `pd_200/progs/a_mdls/m_shell1.mdl` 3 KB
+- `pd_200/progs/a_mdls/m_shell2.mdl` 4 KB
+- `pd_200/progs/candle.mdl` 24 KB
+- `pd_200/progs/debris.mdl` 264 KB
+- `pd_200/progs/enforcer.mdl` 461 KB
+- `pd_200/progs/g_shotgn.mdl` 24 KB
+- `pd_200/progs/g_shotty.mdl` 23 KB
+- `pd_200/progs/h_boss.mdl` 62 KB
+- `pd_200/progs/h_mdls/m_h100.mdl` 18 KB
+- `pd_200/progs/h_mdls/m_h15.mdl` 3 KB
+- `pd_200/progs/h_mdls/m_h25.mdl` 14 KB
+- `pd_200/progs/h_mdls/pd_vial.mdl` 24 KB
+- `pd_200/progs/h_ogre.mdl` 41 KB
+- `pd_200/progs/lspike.mdl` 2 KB
+- `pd_200/progs/mervup.mdl` 32 KB
+- `pd_200/progs/ogre.mdl` 308 KB
+- `pd_200/progs/pd_armor_sh.mdl` 31 KB
+- `pd_200/progs/pd_base_key.mdl` 21 KB
+- `pd_200/progs/pd_bpack.mdl` 211 KB
+- `pd_200/progs/pd_rune_key.mdl` 45 KB
+- `pd_200/progs/pd_wiz_key.mdl` 21 KB
+- `pd_200/progs/s_flame.spr` 29 KB
+- `pd_200/progs/s_null.spr` 1 KB
+- `pd_200/progs/soldier.mdl` 313 KB
+- `pd_200/progs/spark.mdl` 9 KB
+- `pd_200/progs/spike.mdl` 4 KB
+- `pd_200/progs_dump_200_README.txt` 5 KB
+- `pd_200/progs_dump_manual_200.pdf` 4656 KB
+- `pd_200/sound/break/pd_bricks1.wav` 60 KB
+- `pd_200/sound/break/pd_metal1.wav` 43 KB
+- `pd_200/sound/break/pd_metal2.wav` 69 KB
+- `pd_200/sound/break/pd_stones1.wav` 73 KB
+- `pd_200/sound/break/pd_wood1.wav` 34 KB
+- `pd_200/sound/break/pd_wood2.wav` 33 KB
+- `pd_200/sound/dump/elec22k.wav` 81 KB
+- `pd_200/sound/dump/pd_armor1_sh.wav` 12 KB
+- `pd_200/sound/dump/pd_magic_01.wav` 123 KB
+- `pd_200/sound/dump/pd_quake_end.wav` 36 KB
+- `pd_200/sound/dump/pd_quake_full.wav` 153 KB
+- `pd_200/sound/dump/pd_quake_loop1.wav` 156 KB
+- `pd_200/sound/dump/rumble.wav` 52 KB
+- `pd_200/sound/dump/spark.wav` 14 KB
+- `pd_200/sound/dump/water_59_02.wav` 39 KB
+- `pd_200/sound/oldone2/pd_pop2.wav` 41 KB
+
+</details>
+
+<details>
+<summary><code>q1source(1).zip</code> (605 files)</summary>
+
+- `gnu.txt` 15 KB
+- `QW/clean.bat` 1 KB
+- `QW/client/adivtab.h` 10 KB
+- `QW/client/anorms.h` 6 KB
+- `QW/client/anorm_dots.h` 21 KB
+- `QW/client/asm_draw.h` 4 KB
+- `QW/client/asm_i386.h` 2 KB
+- `QW/client/block16.h` 2 KB
+- `QW/client/block8.h` 2 KB
+- `QW/client/bothdefs.h` 4 KB
+- `QW/client/bspfile.h` 6 KB
+- `QW/client/buildnum.c` 2 KB
+- `QW/client/cdaudio.h` 1 KB
+- `QW/client/cd_audio.c` 17 KB
+- `QW/client/cd_linux.c` 8 KB
+- `QW/client/cd_null.c` 0 KB
+- `QW/client/cd_win.c` 10 KB
+- `QW/client/client.h` 12 KB
+- `QW/client/cl_cam.c` 13 KB
+- `QW/client/cl_demo.c` 17 KB
+- `QW/client/cl_ents.c` 25 KB
+- `QW/client/cl_input.c` 13 KB
+- `QW/client/cl_main.c` 31 KB
+- `QW/client/cl_parse.c` 29 KB
+- `QW/client/cl_pred.c` 5 KB
+- `QW/client/cl_tent.c` 9 KB
+- `QW/client/cmd.c` 14 KB
+- `QW/client/cmd.h` 4 KB
+- `QW/client/common.c` 42 KB
+- `QW/client/common.h` 7 KB
+- `QW/client/console.c` 13 KB
+- `QW/client/console.h` 2 KB
+- `QW/client/crc.c` 4 KB
+- `QW/client/crc.h` 1 KB
+- `QW/client/cvar.c` 5 KB
+- `QW/client/cvar.h` 3 KB
+- `QW/client/docs.txt` 4 KB
+- `QW/client/draw.c` 19 KB
+- `QW/client/draw.h` 2 KB
+- `QW/client/d_copy.s` 3 KB
+- `QW/client/d_draw.asm` 21 KB
+- `QW/client/d_draw.s` 24 KB
+- `QW/client/d_draw16.asm` 22 KB
+- `QW/client/d_draw16.s` 22 KB
+- `QW/client/d_edge.c` 7 KB
+- `QW/client/d_fill.c` 2 KB
+- `QW/client/d_iface.h` 6 KB
+- `QW/client/d_ifacea.h` 3 KB
+- `QW/client/d_init.c` 3 KB
+- `QW/client/d_local.h` 3 KB
+- `QW/client/d_modech.c` 2 KB
+- `QW/client/d_part.c` 4 KB
+- `QW/client/d_parta.asm` 14 KB
+- `QW/client/d_parta.s` 10 KB
+- `QW/client/d_polysa.asm` 27 KB
+- `QW/client/d_polysa.s` 45 KB
+- `QW/client/d_polyse.c` 24 KB
+- `QW/client/d_scan.c` 11 KB
+- `QW/client/d_scana.asm` 8 KB
+- `QW/client/d_scana.s` 2 KB
+- `QW/client/d_sky.c` 3 KB
+- `QW/client/d_spr8.asm` 20 KB
+- `QW/client/d_spr8.s` 20 KB
+- `QW/client/d_sprite.c` 10 KB
+- `QW/client/d_surf.c` 7 KB
+- `QW/client/d_vars.c` 1 KB
+- `QW/client/d_varsa.asm` 10 KB
+- `QW/client/d_varsa.s` 5 KB
+- `QW/client/d_zpoint.c` 1 KB
+- `QW/client/exitscrn.txt` 1 KB
+- `QW/client/glquake.h` 8 KB
+- `QW/client/glquake2.h` 5 KB
+- `QW/client/gl_draw.c` 29 KB
+- `QW/client/gl_mesh.c` 8 KB
+- `QW/client/gl_model.c` 41 KB
+- `QW/client/gl_model.h` 9 KB
+- `QW/client/gl_ngraph.c` 3 KB
+- `QW/client/gl_refrag.c` 4 KB
+- `QW/client/gl_rlight.c` 8 KB
+- `QW/client/gl_rmain.c` 24 KB
+- `QW/client/gl_rmisc.c` 11 KB
+- `QW/client/gl_rsurf.c` 35 KB
+- `QW/client/gl_screen.c` 24 KB
+- `QW/client/gl_test.c` 3 KB
+- `QW/client/gl_vidlinux.c` 17 KB
+- `QW/client/gl_vidlinuxglx.c` 17 KB
+- `QW/client/gl_vidlinux_svga.c` 18 KB
+- `QW/client/gl_vidlinux_x11.c` 19 KB
+- `QW/client/gl_vidnt.c` 45 KB
+- `QW/client/gl_warp.c` 22 KB
+- `QW/client/gl_warp_sin.h` 3 KB
+- `QW/client/input.h` 1 KB
+- `QW/client/in_null.c` 0 KB
+- `QW/client/in_win.c` 28 KB
+- `QW/client/keys.c` 16 KB
+- `QW/client/keys.h` 3 KB
+- `QW/client/makefile.svgalib` 2 KB
+- `QW/client/math.asm` 12 KB
+- `QW/client/math.s` 11 KB
+- `QW/client/mathlib.c` 12 KB
+- `QW/client/mathlib.h` 3 KB
+- `QW/client/md4.c` 10 KB
+- `QW/client/menu.c` 25 KB
+- `QW/client/menu.h` 1 KB
+- `QW/client/model.c` 40 KB
+- `QW/client/model.h` 8 KB
+- `QW/client/modelgen.h` 3 KB
+- `QW/client/net.h` 3 KB
+- `QW/client/net_chan.c` 11 KB
+- `QW/client/net_udp.c` 7 KB
+- `QW/client/net_wins.c` 7 KB
+- `QW/client/nonintel.c` 1 KB
+- `QW/client/notes.txt` 1 KB
+- `QW/client/pmove.c` 18 KB
+- `QW/client/pmove.h` 2 KB
+- `QW/client/pmovetst.c` 9 KB
+- `QW/client/protocol.h` 8 KB
+- `QW/client/q.bat` 0 KB
+- `QW/client/qe3.ico` 1 KB
+- `QW/client/quakeasm.h` 6 KB
+- `QW/client/quakedef.h` 3 KB
+- `QW/client/quakeworld.bmp` 40 KB
+- `QW/client/qwcl.dsp` 59 KB
+- `QW/client/qwcl.dsw` 1 KB
+- `QW/client/qwcl.mak` 208 KB
+- `QW/client/qwcl.mdp` 62 KB
+- `QW/client/qwcl.plg` 22 KB
+- `QW/client/qwcl2.ico` 10 KB
+- `QW/client/render.h` 5 KB
+- `QW/client/resource.h` 1 KB
+- `QW/client/r_aclip.c` 8 KB
+- `QW/client/r_aclipa.asm` 9 KB
+- `QW/client/r_aclipa.s` 5 KB
+- `QW/client/r_alias.c` 19 KB
+- `QW/client/r_aliasa.asm` 10 KB
+- `QW/client/r_aliasa.s` 7 KB
+- `QW/client/r_bsp.c` 15 KB
+- `QW/client/r_draw.c` 20 KB
+- `QW/client/r_drawa.asm` 16 KB
+- `QW/client/r_drawa.s` 18 KB
+- `QW/client/r_edge.c` 15 KB
+- `QW/client/r_edgea.asm` 17 KB
+- `QW/client/r_edgea.s` 18 KB
+- `QW/client/r_efrag.c` 5 KB
+- `QW/client/r_light.c` 5 KB
+- `QW/client/r_local.h` 8 KB
+- `QW/client/r_main.c` 25 KB
+- `QW/client/r_misc.c` 11 KB
+- `QW/client/r_part.c` 12 KB
+- `QW/client/r_shared.h` 5 KB
+- `QW/client/r_sky.c` 5 KB
+- `QW/client/r_sprite.c` 11 KB
+- `QW/client/r_surf.c` 13 KB
+- `QW/client/r_vars.c` 1 KB
+- `QW/client/r_varsa.asm` 7 KB
+- `QW/client/r_varsa.s` 2 KB
+- `QW/client/sbar.c` 28 KB
+- `QW/client/sbar.h` 1 KB
+- `QW/client/screen.c` 23 KB
+- `QW/client/screen.h` 1 KB
+- `QW/client/skin.c` 6 KB
+- `QW/client/snd_dma.c` 21 KB
+- `QW/client/snd_linux.c` 5 KB
+- `QW/client/snd_mem.c` 7 KB
+- `QW/client/snd_mix.c` 8 KB
+- `QW/client/snd_mixa.asm` 9 KB
+- `QW/client/snd_mixa.s` 5 KB
+- `QW/client/snd_win.c` 16 KB
+- `QW/client/sound.h` 5 KB
+- `QW/client/spritegn.h` 3 KB
+- `QW/client/surf16.asm` 11 KB
+- `QW/client/surf16.s` 3 KB
+- `QW/client/surf8.asm` 17 KB
+- `QW/client/surf8.s` 14 KB
+- `QW/client/sys.h` 2 KB
+- `QW/client/sys_dosa.s` 1 KB
+- `QW/client/sys_linux.c` 8 KB
+- `QW/client/sys_null.c` 2 KB
+- `QW/client/sys_win.c` 13 KB
+- `QW/client/sys_wina.asm` 8 KB
+- `QW/client/sys_wina.s` 2 KB
+- `QW/client/vid.h` 3 KB
+- `QW/client/vid_null.c` 1 KB
+- `QW/client/vid_svgalib.c` 21 KB
+- `QW/client/vid_win.c` 75 KB
+- `QW/client/vid_x.c` 26 KB
+- `QW/client/view.c` 22 KB
+- `QW/client/view.h` 1 KB
+- `QW/client/wad.c` 3 KB
+- `QW/client/wad.h` 2 KB
+- `QW/client/winquake.aps` 68 KB
+- `QW/client/winquake.h` 3 KB
+- `QW/client/winquake.rc` 3 KB
+- `QW/client/zone.c` 19 KB
+- `QW/client/zone.h` 3 KB
+- `QW/cmds.txt` 8 KB
+- `QW/docs/glqwcl-readme.txt` 6 KB
+- `QW/docs/qwcl-readme.txt` 42 KB
+- `QW/docs/readme.qwcl` 8 KB
+- `QW/docs/readme.qwsv` 0 KB
+- `QW/dxsdk/sdk/inc/d3d.h` 18 KB
+- `QW/dxsdk/sdk/inc/d3dcaps.h` 13 KB
+- `QW/dxsdk/sdk/inc/d3drm.h` 5 KB
+- `QW/dxsdk/sdk/inc/d3drmdef.h` 14 KB
+- `QW/dxsdk/sdk/inc/d3drmobj.h` 32 KB
+- `QW/dxsdk/sdk/inc/d3drmwin.h` 1 KB
+- `QW/dxsdk/sdk/inc/d3dtypes.h` 31 KB
+- `QW/dxsdk/sdk/inc/ddraw.h` 107 KB
+- `QW/dxsdk/sdk/inc/dinput.h` 31 KB
+- `QW/dxsdk/sdk/inc/dplay.h` 11 KB
+- `QW/dxsdk/sdk/inc/dsetup.h` 3 KB
+- `QW/dxsdk/sdk/inc/dsound.h` 13 KB
+- `QW/dxsdk/sdk/inc/fastfile.h` 1 KB
+- `QW/dxsdk/sdk/lib/dinput.lib` 12 KB
+- `QW/dxsdk/sdk/lib/dxguid.lib` 63 KB
+- `QW/fixskins.sh` 0 KB
+- `QW/gas2masm/gas2masm.001` 4 KB
+- `QW/gas2masm/gas2masm.c` 20 KB
+- `QW/gas2masm/gas2masm.dsp` 4 KB
+- `QW/gas2masm/gas2masm.mak` 6 KB
+- `QW/gas2masm/gas2masm.mdp` 37 KB
+- `QW/gas2masm/gas2masm.plg` 1 KB
+- `QW/glqwcl.3dfxgl` 0 KB
+- `QW/glqwcl.spec.sh` 1 KB
+- `QW/Makefile.Linux` 30 KB
+- `QW/Makefile.Solaris` 5 KB
+- `QW/makezip` 0 KB
+- `QW/makezip.bat` 0 KB
+- `QW/progs/buttons.qc` 3 KB
+- `QW/progs/client.qc` 33 KB
+- `QW/progs/combat.qc` 7 KB
+- `QW/progs/defs.qc` 24 KB
+- `QW/progs/doors.qc` 18 KB
+- `QW/progs/files.dat` 6 KB
+- `QW/progs/items.qc` 36 KB
+- `QW/progs/misc.qc` 17 KB
+- `QW/progs/models.qc` 10 KB
+- `QW/progs/plats.qc` 8 KB
+- `QW/progs/player.qc` 21 KB
+- `QW/progs/progdefs.h` 2 KB
+- `QW/progs/progs.src` 0 KB
+- `QW/progs/qwprogs.dat` 193 KB
+- `QW/progs/server.qc` 2 KB
+- `QW/progs/spectate.qc` 2 KB
+- `QW/progs/sprites.qc` 0 KB
+- `QW/progs/subs.qc` 5 KB
+- `QW/progs/triggers.qc` 15 KB
+- `QW/progs/weapons.qc` 29 KB
+- `QW/progs/world.qc` 12 KB
+- `QW/quake.gif` 1 KB
+- `QW/quakeworld.bmp` 89 KB
+- `QW/qw.dsw` 1 KB
+- `QW/qw.ncb` 809 KB
+- `QW/qw.opt` 108 KB
+- `QW/qw2do.txt` 5 KB
+- `QW/qwchangelog.txt` 10 KB
+- `QW/qwcl.spec.sh` 2 KB
+- `QW/qwcl.x11.spec.sh` 1 KB
+- `QW/qwfwd/misc.c` 6 KB
+- `QW/qwfwd/qwfwd.001` 3 KB
+- `QW/qwfwd/qwfwd.c` 6 KB
+- `QW/qwfwd/qwfwd.dsp` 3 KB
+- `QW/qwfwd/qwfwd.dsw` 1 KB
+- `QW/qwfwd/qwfwd.plg` 1 KB
+- `QW/qwrlnote.txt` 16 KB
+- `QW/qwsv.spec.sh` 3 KB
+- `QW/release233_notes.txt` 2 KB
+- `QW/scitech/include/debug.h` 7 KB
+- `QW/scitech/include/mgldos.h` 2 KB
+- `QW/scitech/include/mglwin.h` 5 KB
+- `QW/scitech/include/mgraph.h` 75 KB
+- `QW/scitech/lib/win32/vc/mgllt.lib` 458 KB
+- `QW/server/asm_i386.h` 2 KB
+- `QW/server/makefile` 1 KB
+- `QW/server/math.s` 8 KB
+- `QW/server/model.c` 24 KB
+- `QW/server/move.txt` 0 KB
+- `QW/server/newnet.txt` 2 KB
+- `QW/server/notes.txt` 0 KB
+- `QW/server/profile.txt` 3 KB
+- `QW/server/progdefs.h` 3 KB
+- `QW/server/progs.h` 4 KB
+- `QW/server/pr_cmds.c` 32 KB
+- `QW/server/pr_comp.h` 3 KB
+- `QW/server/pr_edict.c` 21 KB
+- `QW/server/pr_exec.c` 13 KB
+- `QW/server/quakeasm.h` 1 KB
+- `QW/server/qwsv.dsp` 8 KB
+- `QW/server/qwsv.dsw` 1 KB
+- `QW/server/qwsv.mak` 50 KB
+- `QW/server/qwsv.mdp` 39 KB
+- `QW/server/qwsv.plg` 3 KB
+- `QW/server/qwsvdef.h` 2 KB
+- `QW/server/server.h` 12 KB
+- `QW/server/sv_ccmds.c` 17 KB
+- `QW/server/sv_ents.c` 12 KB
+- `QW/server/sv_init.c` 10 KB
+- `QW/server/sv_main.c` 36 KB
+- `QW/server/sv_move.c` 9 KB
+- `QW/server/sv_nchan.c` 4 KB
+- `QW/server/sv_phys.c` 21 KB
+- `QW/server/sv_send.c` 18 KB
+- `QW/server/sv_user.c` 40 KB
+- `QW/server/sys.h` 1 KB
+- `QW/server/sys_unix.c` 5 KB
+- `QW/server/sys_win.c` 4 KB
+- `QW/server/world.c` 20 KB
+- `QW/server/world.h` 3 KB
+- `QW/server/worlda.s` 2 KB
+- `readme.txt` 3 KB
+- `WinQuake/3dfx.txt` 2 KB
+- `WinQuake/adivtab.h` 11 KB
+- `WinQuake/anorms.h` 6 KB
+- `WinQuake/anorm_dots.h` 21 KB
+- `WinQuake/asm_draw.h` 4 KB
+- `WinQuake/asm_i386.h` 2 KB
+- `WinQuake/block16.h` 3 KB
+- `WinQuake/block8.h` 3 KB
+- `WinQuake/bspfile.h` 7 KB
+- `WinQuake/cdaudio.h` 1 KB
+- `WinQuake/cd_audio.c` 19 KB
+- `WinQuake/cd_linux.c` 7 KB
+- `WinQuake/cd_null.c` 1 KB
+- `WinQuake/cd_win.c` 10 KB
+- `WinQuake/chase.c` 2 KB
+- `WinQuake/clean.bat` 0 KB
+- `WinQuake/client.h` 9 KB
+- `WinQuake/cl_demo.c` 8 KB
+- `WinQuake/cl_input.c` 11 KB
+- `WinQuake/cl_main.c` 16 KB
+- `WinQuake/cl_parse.c` 20 KB
+- `WinQuake/cl_tent.c` 9 KB
+- `WinQuake/cmd.c` 13 KB
+- `WinQuake/cmd.h` 4 KB
+- `WinQuake/common.c` 36 KB
+- `WinQuake/common.h` 5 KB
+- `WinQuake/conproc.c` 7 KB
+- `WinQuake/conproc.h` 1 KB
+- `WinQuake/console.c` 13 KB
+- `WinQuake/console.h` 1 KB
+- `WinQuake/crc.c` 3 KB
+- `WinQuake/crc.h` 1 KB
+- `WinQuake/cvar.c` 4 KB
+- `WinQuake/cvar.h` 3 KB
+- `WinQuake/cwsdpmi.exe` 25 KB
+- `WinQuake/data/COMEXP.TXT` 25 KB
+- `WinQuake/data/HELP.TXT` 5 KB
+- `WinQuake/data/LICINFO.TXT` 4 KB
+- `WinQuake/data/MANUAL.TXT` 43 KB
+- `WinQuake/data/ORDER.TXT` 4 KB
+- `WinQuake/data/README.TXT` 18 KB
+- `WinQuake/data/RLICNSE.TXT` 11 KB
+- `WinQuake/data/SLICNSE.TXT` 10 KB
+- `WinQuake/data/TECHINFO.TXT` 74 KB
+- `WinQuake/docs/INSTALL` 6 KB
+- `WinQuake/docs/INSTALL.Q2Mission` 1 KB
+- `WinQuake/docs/INSTALL.Quake` 6 KB
+- `WinQuake/docs/INSTALL.Quake2` 8 KB
+- `WinQuake/docs/README` 6 KB
+- `WinQuake/docs/readme.glquake` 7 KB
+- `WinQuake/docs/readme.squake` 4 KB
+- `WinQuake/docs/README.X11` 3 KB
+- `WinQuake/dosasm.s` 1 KB
+- `WinQuake/dosisms.h` 2 KB
+- `WinQuake/dos_v2.c` 5 KB
+- `WinQuake/draw.c` 17 KB
+- `WinQuake/draw.h` 1 KB
+- `WinQuake/dxsdk/SDK/INC/D3D.H` 18 KB
+- `WinQuake/dxsdk/SDK/INC/D3DCAPS.H` 13 KB
+- `WinQuake/dxsdk/SDK/INC/D3DRM.H` 5 KB
+- `WinQuake/dxsdk/SDK/INC/D3DRMDEF.H` 14 KB
+- `WinQuake/dxsdk/SDK/INC/D3DRMOBJ.H` 32 KB
+- `WinQuake/dxsdk/SDK/INC/D3DRMWIN.H` 1 KB
+- `WinQuake/dxsdk/SDK/INC/D3DTYPES.H` 31 KB
+- `WinQuake/dxsdk/SDK/INC/DDRAW.H` 107 KB
+- `WinQuake/dxsdk/SDK/INC/DINPUT.H` 31 KB
+- `WinQuake/dxsdk/SDK/INC/DPLAY.H` 11 KB
+- `WinQuake/dxsdk/SDK/INC/DSETUP.H` 3 KB
+- `WinQuake/dxsdk/SDK/INC/DSOUND.H` 13 KB
+- `WinQuake/dxsdk/SDK/INC/FASTFILE.H` 1 KB
+- `WinQuake/dxsdk/SDK/LIB/DINPUT.LIB` 12 KB
+- `WinQuake/dxsdk/SDK/LIB/DXGUID.LIB` 63 KB
+- `WinQuake/d_copy.s` 3 KB
+- `WinQuake/d_draw.s` 24 KB
+- `WinQuake/d_draw16.s` 22 KB
+- `WinQuake/d_edge.c` 8 KB
+- `WinQuake/d_fill.c` 2 KB
+- `WinQuake/d_iface.h` 7 KB
+- `WinQuake/d_ifacea.h` 3 KB
+- `WinQuake/d_init.c` 3 KB
+- `WinQuake/d_local.h` 3 KB
+- `WinQuake/d_modech.c` 2 KB
+- `WinQuake/d_part.c` 4 KB
+- `WinQuake/d_parta.s` 10 KB
+- `WinQuake/d_polysa.s` 45 KB
+- `WinQuake/d_polyse.c` 26 KB
+- `WinQuake/d_scan.c` 11 KB
+- `WinQuake/d_scana.s` 2 KB
+- `WinQuake/d_sky.c` 3 KB
+- `WinQuake/d_spr8.s` 20 KB
+- `WinQuake/d_sprite.c` 10 KB
+- `WinQuake/d_surf.c` 7 KB
+- `WinQuake/d_vars.c` 2 KB
+- `WinQuake/d_varsa.s` 5 KB
+- `WinQuake/d_zpoint.c` 1 KB
+- `WinQuake/gas2masm/gas2masm.c` 20 KB
+- `WinQuake/gas2masm/gas2masm.dsp` 4 KB
+- `WinQuake/gas2masm/gas2masm.dsw` 1 KB
+- `WinQuake/gas2masm/gas2masm.mdp` 37 KB
+- `WinQuake/gas2masm/gas2masm.plg` 1 KB
+- `WinQuake/glqnotes.txt` 8 KB
+- `WinQuake/glquake.h` 7 KB
+- `WinQuake/glquake2.h` 6 KB
+- `WinQuake/gl_draw.c` 27 KB
+- `WinQuake/gl_mesh.c` 8 KB
+- `WinQuake/gl_model.c` 39 KB
+- `WinQuake/gl_model.h` 9 KB
+- `WinQuake/gl_refrag.c` 4 KB
+- `WinQuake/gl_rlight.c` 7 KB
+- `WinQuake/gl_rmain.c` 25 KB
+- `WinQuake/gl_rmisc.c` 11 KB
+- `WinQuake/gl_rsurf.c` 34 KB
+- `WinQuake/gl_screen.c` 17 KB
+- `WinQuake/gl_test.c` 3 KB
+- `WinQuake/gl_vidlinux.c` 19 KB
+- `WinQuake/gl_vidlinuxglx.c` 22 KB
+- `WinQuake/gl_vidnt.c` 45 KB
+- `WinQuake/gl_warp.c` 22 KB
+- `WinQuake/gl_warp_sin.h` 3 KB
+- `WinQuake/host.c` 20 KB
+- `WinQuake/host_cmd.c` 37 KB
+- `WinQuake/input.h` 1 KB
+- `WinQuake/in_dos.c` 13 KB
+- `WinQuake/in_null.c` 1 KB
+- `WinQuake/in_sun.c` 5 KB
+- `WinQuake/in_win.c` 28 KB
+- `WinQuake/keys.c` 15 KB
+- `WinQuake/keys.h` 3 KB
+- `WinQuake/kit/3DFX.TXT` 9 KB
+- `WinQuake/kit/GLQUAKE.EXE` 426 KB
+- `WinQuake/kit/JOYSTICK.TXT` 10 KB
+- `WinQuake/kit/OPENGL32.DLL` 139 KB
+- `WinQuake/kit/README.TXT` 8 KB
+- `WinQuake/Makefile.linuxi386` 33 KB
+- `WinQuake/Makefile.Solaris` 11 KB
+- `WinQuake/makezip.bat` 0 KB
+- `WinQuake/math.s` 11 KB
+- `WinQuake/mathlib.c` 13 KB
+- `WinQuake/mathlib.h` 3 KB
+- `WinQuake/menu.c` 65 KB
+- `WinQuake/menu.h` 1 KB
+- `WinQuake/model.c` 42 KB
+- `WinQuake/model.h` 8 KB
+- `WinQuake/modelgen.h` 3 KB
+- `WinQuake/mpdosock.h` 27 KB
+- `WinQuake/mplib.c` 6 KB
+- `WinQuake/mplpc.c` 22 KB
+- `WinQuake/net.h` 9 KB
+- `WinQuake/net_bsd.c` 2 KB
+- `WinQuake/net_bw.c` 19 KB
+- `WinQuake/net_bw.h` 2 KB
+- `WinQuake/net_comx.c` 30 KB
+- `WinQuake/net_dgrm.c` 34 KB
+- `WinQuake/net_dgrm.h` 1 KB
+- `WinQuake/net_dos.c` 3 KB
+- `WinQuake/net_ipx.c` 18 KB
+- `WinQuake/net_ipx.h` 2 KB
+- `WinQuake/net_loop.c` 5 KB
+- `WinQuake/net_loop.h` 1 KB
+- `WinQuake/net_main.c` 20 KB
+- `WinQuake/net_mp.c` 11 KB
+- `WinQuake/net_mp.h` 2 KB
+- `WinQuake/net_none.c` 1 KB
+- `WinQuake/net_ser.c` 21 KB
+- `WinQuake/net_ser.h` 1 KB
+- `WinQuake/net_udp.c` 10 KB
+- `WinQuake/net_udp.h` 2 KB
+- `WinQuake/net_vcr.c` 4 KB
+- `WinQuake/net_vcr.h` 1 KB
+- `WinQuake/net_win.c` 2 KB
+- `WinQuake/net_wins.c` 15 KB
+- `WinQuake/net_wins.h` 2 KB
+- `WinQuake/net_wipx.c` 11 KB
+- `WinQuake/net_wipx.h` 2 KB
+- `WinQuake/net_wso.c` 
+- `WinQuake/nonintel.c` 1 KB
+- `WinQuake/progdefs.h` 1 KB
+- `WinQuake/progdefs.q1` 3 KB
+- `WinQuake/progdefs.q2` 3 KB
+- `WinQuake/progs.h` 4 KB
+- `WinQuake/protocol.h` 5 KB
+- `WinQuake/pr_cmds.c` 38 KB
+- `WinQuake/pr_comp.h` 3 KB
+- `WinQuake/pr_edict.c` 23 KB
+- `WinQuake/pr_exec.c` 13 KB
+- `WinQuake/q.bat` 0 KB
+- `WinQuake/qa.bat` 0 KB
+- `WinQuake/qb.bat` 0 KB
+- `WinQuake/qe3.ico` 1 KB
+- `WinQuake/qt.bat` 0 KB
+- `WinQuake/quake-data.spec.sh` 2 KB
+- `WinQuake/quake-hipnotic.spec.sh` 4 KB
+- `WinQuake/quake-rogue.spec.sh` 4 KB
+- `WinQuake/quake-shareware.spec.sh` 2 KB
+- `WinQuake/quake.gif` 1 KB
+- `WinQuake/quake.ico` 10 KB
+- `WinQuake/quake.spec.sh` 2 KB
+- `WinQuake/quakeasm.h` 6 KB
+- `WinQuake/quakedef.h` 8 KB
+- `WinQuake/README.Solaris` 3 KB
+- `WinQuake/render.h` 5 KB
+- `WinQuake/resource.h` 1 KB
+- `WinQuake/r_aclip.c` 9 KB
+- `WinQuake/r_aclipa.s` 5 KB
+- `WinQuake/r_alias.c` 19 KB
+- `WinQuake/r_aliasa.s` 7 KB
+- `WinQuake/r_bsp.c` 15 KB
+- `WinQuake/r_draw.c` 21 KB
+- `WinQuake/r_drawa.s` 18 KB
+- `WinQuake/r_edge.c` 16 KB
+- `WinQuake/r_edgea.s` 18 KB
+- `WinQuake/r_efrag.c` 5 KB
+- `WinQuake/r_light.c` 5 KB
+- `WinQuake/r_local.h` 8 KB
+- `WinQuake/r_main.c` 26 KB
+- `WinQuake/r_misc.c` 10 KB
+- `WinQuake/r_part.c` 16 KB
+- `WinQuake/r_shared.h` 5 KB
+- `WinQuake/r_sky.c` 5 KB
+- `WinQuake/r_sprite.c` 11 KB
+- `WinQuake/r_surf.c` 14 KB
+- `WinQuake/r_vars.c` 1 KB
+- `WinQuake/r_varsa.s` 2 KB
+- `WinQuake/sbar.c` 29 KB
+- `WinQuake/sbar.h` 1 KB
+- `WinQuake/scitech/INCLUDE/DEBUG.H` 7 KB
+- `WinQuake/scitech/INCLUDE/MGLDOS.H` 2 KB
+- `WinQuake/scitech/INCLUDE/MGLWIN.H` 5 KB
+- `WinQuake/scitech/INCLUDE/MGRAPH.H` 75 KB
+- `WinQuake/scitech/LIB/WIN32/VC/MGLLT.LIB` 458 KB
+- `WinQuake/screen.c` 19 KB
+- `WinQuake/screen.h` 2 KB
+- `WinQuake/server.h` 7 KB
+- `WinQuake/snd_dma.c` 21 KB
+- `WinQuake/snd_dos.c` 13 KB
+- `WinQuake/snd_gus.c` 35 KB
+- `WinQuake/snd_linux.c` 6 KB
+- `WinQuake/snd_mem.c` 7 KB
+- `WinQuake/snd_mix.c` 8 KB
+- `WinQuake/snd_mixa.s` 5 KB
+- `WinQuake/snd_next.c` 1 KB
+- `WinQuake/snd_null.c` 2 KB
+- `WinQuake/snd_sun.c` 4 KB
+- `WinQuake/snd_win.c` 16 KB
+- `WinQuake/sound.h` 5 KB
+- `WinQuake/spritegn.h` 3 KB
+- `WinQuake/surf16.s` 3 KB
+- `WinQuake/surf8.s` 14 KB
+- `WinQuake/sv_main.c` 28 KB
+- `WinQuake/sv_move.c` 10 KB
+- `WinQuake/sv_phys.c` 38 KB
+- `WinQuake/sv_user.c` 13 KB
+- `WinQuake/sys.h` 2 KB
+- `WinQuake/sys_dos.c` 20 KB
+- `WinQuake/sys_dosa.s` 1 KB
+- `WinQuake/sys_linux.c` 12 KB
+- `WinQuake/sys_null.c` 4 KB
+- `WinQuake/sys_sun.c` 7 KB
+- `WinQuake/sys_win.c` 17 KB
+- `WinQuake/sys_wina.s` 2 KB
+- `WinQuake/sys_wind.c` 5 KB
+- `WinQuake/vgamodes.h` 15 KB
+- `WinQuake/vid.h` 3 KB
+- `WinQuake/vid_dos.c` 16 KB
+- `WinQuake/vid_dos.h` 3 KB
+- `WinQuake/vid_ext.c` 19 KB
+- `WinQuake/vid_null.c` 2 KB
+- `WinQuake/vid_sunx.c` 29 KB
+- `WinQuake/vid_sunxil.c` 29 KB
+- `WinQuake/vid_svgalib.c` 21 KB
+- `WinQuake/vid_vga.c` 10 KB
+- `WinQuake/vid_win.c` 74 KB
+- `WinQuake/vid_x.c` 27 KB
+- `WinQuake/view.c` 25 KB
+- `WinQuake/view.h` 1 KB
+- `WinQuake/vregset.c` 2 KB
+- `WinQuake/vregset.h` 1 KB
+- `WinQuake/wad.c` 3 KB
+- `WinQuake/wad.h` 2 KB
+- `WinQuake/winquake.aps` 28 KB
+- `WinQuake/WinQuake.dsp` 69 KB
+- `WinQuake/WinQuake.dsw` 1 KB
+- `WinQuake/winquake.h` 4 KB
+- `WinQuake/WinQuake.mdp` 66 KB
+- `WinQuake/WinQuake.ncb` 737 KB
+- `WinQuake/WinQuake.opt` 97 KB
+- `WinQuake/WinQuake.plg` 26 KB
+- `WinQuake/winquake.rc` 3 KB
+- `WinQuake/world.c` 22 KB
+- `WinQuake/world.h` 3 KB
+- `WinQuake/worlda.s` 3 KB
+- `WinQuake/wq.bat` 1 KB
+- `WinQuake/wqreadme.txt` 47 KB
+- `WinQuake/zone.c` 19 KB
+- `WinQuake/zone.h` 3 KB
+
+</details>
+
+<details>
+<summary><code>q1source.zip</code> (605 files)</summary>
+
+- `gnu.txt` 15 KB
+- `QW/clean.bat` 1 KB
+- `QW/client/adivtab.h` 10 KB
+- `QW/client/anorms.h` 6 KB
+- `QW/client/anorm_dots.h` 21 KB
+- `QW/client/asm_draw.h` 4 KB
+- `QW/client/asm_i386.h` 2 KB
+- `QW/client/block16.h` 2 KB
+- `QW/client/block8.h` 2 KB
+- `QW/client/bothdefs.h` 4 KB
+- `QW/client/bspfile.h` 6 KB
+- `QW/client/buildnum.c` 2 KB
+- `QW/client/cdaudio.h` 1 KB
+- `QW/client/cd_audio.c` 17 KB
+- `QW/client/cd_linux.c` 8 KB
+- `QW/client/cd_null.c` 0 KB
+- `QW/client/cd_win.c` 10 KB
+- `QW/client/client.h` 12 KB
+- `QW/client/cl_cam.c` 13 KB
+- `QW/client/cl_demo.c` 17 KB
+- `QW/client/cl_ents.c` 25 KB
+- `QW/client/cl_input.c` 13 KB
+- `QW/client/cl_main.c` 31 KB
+- `QW/client/cl_parse.c` 29 KB
+- `QW/client/cl_pred.c` 5 KB
+- `QW/client/cl_tent.c` 9 KB
+- `QW/client/cmd.c` 14 KB
+- `QW/client/cmd.h` 4 KB
+- `QW/client/common.c` 42 KB
+- `QW/client/common.h` 7 KB
+- `QW/client/console.c` 13 KB
+- `QW/client/console.h` 2 KB
+- `QW/client/crc.c` 4 KB
+- `QW/client/crc.h` 1 KB
+- `QW/client/cvar.c` 5 KB
+- `QW/client/cvar.h` 3 KB
+- `QW/client/docs.txt` 4 KB
+- `QW/client/draw.c` 19 KB
+- `QW/client/draw.h` 2 KB
+- `QW/client/d_copy.s` 3 KB
+- `QW/client/d_draw.asm` 21 KB
+- `QW/client/d_draw.s` 24 KB
+- `QW/client/d_draw16.asm` 22 KB
+- `QW/client/d_draw16.s` 22 KB
+- `QW/client/d_edge.c` 7 KB
+- `QW/client/d_fill.c` 2 KB
+- `QW/client/d_iface.h` 6 KB
+- `QW/client/d_ifacea.h` 3 KB
+- `QW/client/d_init.c` 3 KB
+- `QW/client/d_local.h` 3 KB
+- `QW/client/d_modech.c` 2 KB
+- `QW/client/d_part.c` 4 KB
+- `QW/client/d_parta.asm` 14 KB
+- `QW/client/d_parta.s` 10 KB
+- `QW/client/d_polysa.asm` 27 KB
+- `QW/client/d_polysa.s` 45 KB
+- `QW/client/d_polyse.c` 24 KB
+- `QW/client/d_scan.c` 11 KB
+- `QW/client/d_scana.asm` 8 KB
+- `QW/client/d_scana.s` 2 KB
+- `QW/client/d_sky.c` 3 KB
+- `QW/client/d_spr8.asm` 20 KB
+- `QW/client/d_spr8.s` 20 KB
+- `QW/client/d_sprite.c` 10 KB
+- `QW/client/d_surf.c` 7 KB
+- `QW/client/d_vars.c` 1 KB
+- `QW/client/d_varsa.asm` 10 KB
+- `QW/client/d_varsa.s` 5 KB
+- `QW/client/d_zpoint.c` 1 KB
+- `QW/client/exitscrn.txt` 1 KB
+- `QW/client/glquake.h` 8 KB
+- `QW/client/glquake2.h` 5 KB
+- `QW/client/gl_draw.c` 29 KB
+- `QW/client/gl_mesh.c` 8 KB
+- `QW/client/gl_model.c` 41 KB
+- `QW/client/gl_model.h` 9 KB
+- `QW/client/gl_ngraph.c` 3 KB
+- `QW/client/gl_refrag.c` 4 KB
+- `QW/client/gl_rlight.c` 8 KB
+- `QW/client/gl_rmain.c` 24 KB
+- `QW/client/gl_rmisc.c` 11 KB
+- `QW/client/gl_rsurf.c` 35 KB
+- `QW/client/gl_screen.c` 24 KB
+- `QW/client/gl_test.c` 3 KB
+- `QW/client/gl_vidlinux.c` 17 KB
+- `QW/client/gl_vidlinuxglx.c` 17 KB
+- `QW/client/gl_vidlinux_svga.c` 18 KB
+- `QW/client/gl_vidlinux_x11.c` 19 KB
+- `QW/client/gl_vidnt.c` 45 KB
+- `QW/client/gl_warp.c` 22 KB
+- `QW/client/gl_warp_sin.h` 3 KB
+- `QW/client/input.h` 1 KB
+- `QW/client/in_null.c` 0 KB
+- `QW/client/in_win.c` 28 KB
+- `QW/client/keys.c` 16 KB
+- `QW/client/keys.h` 3 KB
+- `QW/client/makefile.svgalib` 2 KB
+- `QW/client/math.asm` 12 KB
+- `QW/client/math.s` 11 KB
+- `QW/client/mathlib.c` 12 KB
+- `QW/client/mathlib.h` 3 KB
+- `QW/client/md4.c` 10 KB
+- `QW/client/menu.c` 25 KB
+- `QW/client/menu.h` 1 KB
+- `QW/client/model.c` 40 KB
+- `QW/client/model.h` 8 KB
+- `QW/client/modelgen.h` 3 KB
+- `QW/client/net.h` 3 KB
+- `QW/client/net_chan.c` 11 KB
+- `QW/client/net_udp.c` 7 KB
+- `QW/client/net_wins.c` 7 KB
+- `QW/client/nonintel.c` 1 KB
+- `QW/client/notes.txt` 1 KB
+- `QW/client/pmove.c` 18 KB
+- `QW/client/pmove.h` 2 KB
+- `QW/client/pmovetst.c` 9 KB
+- `QW/client/protocol.h` 8 KB
+- `QW/client/q.bat` 0 KB
+- `QW/client/qe3.ico` 1 KB
+- `QW/client/quakeasm.h` 6 KB
+- `QW/client/quakedef.h` 3 KB
+- `QW/client/quakeworld.bmp` 40 KB
+- `QW/client/qwcl.dsp` 59 KB
+- `QW/client/qwcl.dsw` 1 KB
+- `QW/client/qwcl.mak` 208 KB
+- `QW/client/qwcl.mdp` 62 KB
+- `QW/client/qwcl.plg` 22 KB
+- `QW/client/qwcl2.ico` 10 KB
+- `QW/client/render.h` 5 KB
+- `QW/client/resource.h` 1 KB
+- `QW/client/r_aclip.c` 8 KB
+- `QW/client/r_aclipa.asm` 9 KB
+- `QW/client/r_aclipa.s` 5 KB
+- `QW/client/r_alias.c` 19 KB
+- `QW/client/r_aliasa.asm` 10 KB
+- `QW/client/r_aliasa.s` 7 KB
+- `QW/client/r_bsp.c` 15 KB
+- `QW/client/r_draw.c` 20 KB
+- `QW/client/r_drawa.asm` 16 KB
+- `QW/client/r_drawa.s` 18 KB
+- `QW/client/r_edge.c` 15 KB
+- `QW/client/r_edgea.asm` 17 KB
+- `QW/client/r_edgea.s` 18 KB
+- `QW/client/r_efrag.c` 5 KB
+- `QW/client/r_light.c` 5 KB
+- `QW/client/r_local.h` 8 KB
+- `QW/client/r_main.c` 25 KB
+- `QW/client/r_misc.c` 11 KB
+- `QW/client/r_part.c` 12 KB
+- `QW/client/r_shared.h` 5 KB
+- `QW/client/r_sky.c` 5 KB
+- `QW/client/r_sprite.c` 11 KB
+- `QW/client/r_surf.c` 13 KB
+- `QW/client/r_vars.c` 1 KB
+- `QW/client/r_varsa.asm` 7 KB
+- `QW/client/r_varsa.s` 2 KB
+- `QW/client/sbar.c` 28 KB
+- `QW/client/sbar.h` 1 KB
+- `QW/client/screen.c` 23 KB
+- `QW/client/screen.h` 1 KB
+- `QW/client/skin.c` 6 KB
+- `QW/client/snd_dma.c` 21 KB
+- `QW/client/snd_linux.c` 5 KB
+- `QW/client/snd_mem.c` 7 KB
+- `QW/client/snd_mix.c` 8 KB
+- `QW/client/snd_mixa.asm` 9 KB
+- `QW/client/snd_mixa.s` 5 KB
+- `QW/client/snd_win.c` 16 KB
+- `QW/client/sound.h` 5 KB
+- `QW/client/spritegn.h` 3 KB
+- `QW/client/surf16.asm` 11 KB
+- `QW/client/surf16.s` 3 KB
+- `QW/client/surf8.asm` 17 KB
+- `QW/client/surf8.s` 14 KB
+- `QW/client/sys.h` 2 KB
+- `QW/client/sys_dosa.s` 1 KB
+- `QW/client/sys_linux.c` 8 KB
+- `QW/client/sys_null.c` 2 KB
+- `QW/client/sys_win.c` 13 KB
+- `QW/client/sys_wina.asm` 8 KB
+- `QW/client/sys_wina.s` 2 KB
+- `QW/client/vid.h` 3 KB
+- `QW/client/vid_null.c` 1 KB
+- `QW/client/vid_svgalib.c` 21 KB
+- `QW/client/vid_win.c` 75 KB
+- `QW/client/vid_x.c` 26 KB
+- `QW/client/view.c` 22 KB
+- `QW/client/view.h` 1 KB
+- `QW/client/wad.c` 3 KB
+- `QW/client/wad.h` 2 KB
+- `QW/client/winquake.aps` 68 KB
+- `QW/client/winquake.h` 3 KB
+- `QW/client/winquake.rc` 3 KB
+- `QW/client/zone.c` 19 KB
+- `QW/client/zone.h` 3 KB
+- `QW/cmds.txt` 8 KB
+- `QW/docs/glqwcl-readme.txt` 6 KB
+- `QW/docs/qwcl-readme.txt` 42 KB
+- `QW/docs/readme.qwcl` 8 KB
+- `QW/docs/readme.qwsv` 0 KB
+- `QW/dxsdk/sdk/inc/d3d.h` 18 KB
+- `QW/dxsdk/sdk/inc/d3dcaps.h` 13 KB
+- `QW/dxsdk/sdk/inc/d3drm.h` 5 KB
+- `QW/dxsdk/sdk/inc/d3drmdef.h` 14 KB
+- `QW/dxsdk/sdk/inc/d3drmobj.h` 32 KB
+- `QW/dxsdk/sdk/inc/d3drmwin.h` 1 KB
+- `QW/dxsdk/sdk/inc/d3dtypes.h` 31 KB
+- `QW/dxsdk/sdk/inc/ddraw.h` 107 KB
+- `QW/dxsdk/sdk/inc/dinput.h` 31 KB
+- `QW/dxsdk/sdk/inc/dplay.h` 11 KB
+- `QW/dxsdk/sdk/inc/dsetup.h` 3 KB
+- `QW/dxsdk/sdk/inc/dsound.h` 13 KB
+- `QW/dxsdk/sdk/inc/fastfile.h` 1 KB
+- `QW/dxsdk/sdk/lib/dinput.lib` 12 KB
+- `QW/dxsdk/sdk/lib/dxguid.lib` 63 KB
+- `QW/fixskins.sh` 0 KB
+- `QW/gas2masm/gas2masm.001` 4 KB
+- `QW/gas2masm/gas2masm.c` 20 KB
+- `QW/gas2masm/gas2masm.dsp` 4 KB
+- `QW/gas2masm/gas2masm.mak` 6 KB
+- `QW/gas2masm/gas2masm.mdp` 37 KB
+- `QW/gas2masm/gas2masm.plg` 1 KB
+- `QW/glqwcl.3dfxgl` 0 KB
+- `QW/glqwcl.spec.sh` 1 KB
+- `QW/Makefile.Linux` 30 KB
+- `QW/Makefile.Solaris` 5 KB
+- `QW/makezip` 0 KB
+- `QW/makezip.bat` 0 KB
+- `QW/progs/buttons.qc` 3 KB
+- `QW/progs/client.qc` 33 KB
+- `QW/progs/combat.qc` 7 KB
+- `QW/progs/defs.qc` 24 KB
+- `QW/progs/doors.qc` 18 KB
+- `QW/progs/files.dat` 6 KB
+- `QW/progs/items.qc` 36 KB
+- `QW/progs/misc.qc` 17 KB
+- `QW/progs/models.qc` 10 KB
+- `QW/progs/plats.qc` 8 KB
+- `QW/progs/player.qc` 21 KB
+- `QW/progs/progdefs.h` 2 KB
+- `QW/progs/progs.src` 0 KB
+- `QW/progs/qwprogs.dat` 193 KB
+- `QW/progs/server.qc` 2 KB
+- `QW/progs/spectate.qc` 2 KB
+- `QW/progs/sprites.qc` 0 KB
+- `QW/progs/subs.qc` 5 KB
+- `QW/progs/triggers.qc` 15 KB
+- `QW/progs/weapons.qc` 29 KB
+- `QW/progs/world.qc` 12 KB
+- `QW/quake.gif` 1 KB
+- `QW/quakeworld.bmp` 89 KB
+- `QW/qw.dsw` 1 KB
+- `QW/qw.ncb` 809 KB
+- `QW/qw.opt` 108 KB
+- `QW/qw2do.txt` 5 KB
+- `QW/qwchangelog.txt` 10 KB
+- `QW/qwcl.spec.sh` 2 KB
+- `QW/qwcl.x11.spec.sh` 1 KB
+- `QW/qwfwd/misc.c` 6 KB
+- `QW/qwfwd/qwfwd.001` 3 KB
+- `QW/qwfwd/qwfwd.c` 6 KB
+- `QW/qwfwd/qwfwd.dsp` 3 KB
+- `QW/qwfwd/qwfwd.dsw` 1 KB
+- `QW/qwfwd/qwfwd.plg` 1 KB
+- `QW/qwrlnote.txt` 16 KB
+- `QW/qwsv.spec.sh` 3 KB
+- `QW/release233_notes.txt` 2 KB
+- `QW/scitech/include/debug.h` 7 KB
+- `QW/scitech/include/mgldos.h` 2 KB
+- `QW/scitech/include/mglwin.h` 5 KB
+- `QW/scitech/include/mgraph.h` 75 KB
+- `QW/scitech/lib/win32/vc/mgllt.lib` 458 KB
+- `QW/server/asm_i386.h` 2 KB
+- `QW/server/makefile` 1 KB
+- `QW/server/math.s` 8 KB
+- `QW/server/model.c` 24 KB
+- `QW/server/move.txt` 0 KB
+- `QW/server/newnet.txt` 2 KB
+- `QW/server/notes.txt` 0 KB
+- `QW/server/profile.txt` 3 KB
+- `QW/server/progdefs.h` 3 KB
+- `QW/server/progs.h` 4 KB
+- `QW/server/pr_cmds.c` 32 KB
+- `QW/server/pr_comp.h` 3 KB
+- `QW/server/pr_edict.c` 21 KB
+- `QW/server/pr_exec.c` 13 KB
+- `QW/server/quakeasm.h` 1 KB
+- `QW/server/qwsv.dsp` 8 KB
+- `QW/server/qwsv.dsw` 1 KB
+- `QW/server/qwsv.mak` 50 KB
+- `QW/server/qwsv.mdp` 39 KB
+- `QW/server/qwsv.plg` 3 KB
+- `QW/server/qwsvdef.h` 2 KB
+- `QW/server/server.h` 12 KB
+- `QW/server/sv_ccmds.c` 17 KB
+- `QW/server/sv_ents.c` 12 KB
+- `QW/server/sv_init.c` 10 KB
+- `QW/server/sv_main.c` 36 KB
+- `QW/server/sv_move.c` 9 KB
+- `QW/server/sv_nchan.c` 4 KB
+- `QW/server/sv_phys.c` 21 KB
+- `QW/server/sv_send.c` 18 KB
+- `QW/server/sv_user.c` 40 KB
+- `QW/server/sys.h` 1 KB
+- `QW/server/sys_unix.c` 5 KB
+- `QW/server/sys_win.c` 4 KB
+- `QW/server/world.c` 20 KB
+- `QW/server/world.h` 3 KB
+- `QW/server/worlda.s` 2 KB
+- `readme.txt` 3 KB
+- `WinQuake/3dfx.txt` 2 KB
+- `WinQuake/adivtab.h` 11 KB
+- `WinQuake/anorms.h` 6 KB
+- `WinQuake/anorm_dots.h` 21 KB
+- `WinQuake/asm_draw.h` 4 KB
+- `WinQuake/asm_i386.h` 2 KB
+- `WinQuake/block16.h` 3 KB
+- `WinQuake/block8.h` 3 KB
+- `WinQuake/bspfile.h` 7 KB
+- `WinQuake/cdaudio.h` 1 KB
+- `WinQuake/cd_audio.c` 19 KB
+- `WinQuake/cd_linux.c` 7 KB
+- `WinQuake/cd_null.c` 1 KB
+- `WinQuake/cd_win.c` 10 KB
+- `WinQuake/chase.c` 2 KB
+- `WinQuake/clean.bat` 0 KB
+- `WinQuake/client.h` 9 KB
+- `WinQuake/cl_demo.c` 8 KB
+- `WinQuake/cl_input.c` 11 KB
+- `WinQuake/cl_main.c` 16 KB
+- `WinQuake/cl_parse.c` 20 KB
+- `WinQuake/cl_tent.c` 9 KB
+- `WinQuake/cmd.c` 13 KB
+- `WinQuake/cmd.h` 4 KB
+- `WinQuake/common.c` 36 KB
+- `WinQuake/common.h` 5 KB
+- `WinQuake/conproc.c` 7 KB
+- `WinQuake/conproc.h` 1 KB
+- `WinQuake/console.c` 13 KB
+- `WinQuake/console.h` 1 KB
+- `WinQuake/crc.c` 3 KB
+- `WinQuake/crc.h` 1 KB
+- `WinQuake/cvar.c` 4 KB
+- `WinQuake/cvar.h` 3 KB
+- `WinQuake/cwsdpmi.exe` 25 KB
+- `WinQuake/data/COMEXP.TXT` 25 KB
+- `WinQuake/data/HELP.TXT` 5 KB
+- `WinQuake/data/LICINFO.TXT` 4 KB
+- `WinQuake/data/MANUAL.TXT` 43 KB
+- `WinQuake/data/ORDER.TXT` 4 KB
+- `WinQuake/data/README.TXT` 18 KB
+- `WinQuake/data/RLICNSE.TXT` 11 KB
+- `WinQuake/data/SLICNSE.TXT` 10 KB
+- `WinQuake/data/TECHINFO.TXT` 74 KB
+- `WinQuake/docs/INSTALL` 6 KB
+- `WinQuake/docs/INSTALL.Q2Mission` 1 KB
+- `WinQuake/docs/INSTALL.Quake` 6 KB
+- `WinQuake/docs/INSTALL.Quake2` 8 KB
+- `WinQuake/docs/README` 6 KB
+- `WinQuake/docs/readme.glquake` 7 KB
+- `WinQuake/docs/readme.squake` 4 KB
+- `WinQuake/docs/README.X11` 3 KB
+- `WinQuake/dosasm.s` 1 KB
+- `WinQuake/dosisms.h` 2 KB
+- `WinQuake/dos_v2.c` 5 KB
+- `WinQuake/draw.c` 17 KB
+- `WinQuake/draw.h` 1 KB
+- `WinQuake/dxsdk/SDK/INC/D3D.H` 18 KB
+- `WinQuake/dxsdk/SDK/INC/D3DCAPS.H` 13 KB
+- `WinQuake/dxsdk/SDK/INC/D3DRM.H` 5 KB
+- `WinQuake/dxsdk/SDK/INC/D3DRMDEF.H` 14 KB
+- `WinQuake/dxsdk/SDK/INC/D3DRMOBJ.H` 32 KB
+- `WinQuake/dxsdk/SDK/INC/D3DRMWIN.H` 1 KB
+- `WinQuake/dxsdk/SDK/INC/D3DTYPES.H` 31 KB
+- `WinQuake/dxsdk/SDK/INC/DDRAW.H` 107 KB
+- `WinQuake/dxsdk/SDK/INC/DINPUT.H` 31 KB
+- `WinQuake/dxsdk/SDK/INC/DPLAY.H` 11 KB
+- `WinQuake/dxsdk/SDK/INC/DSETUP.H` 3 KB
+- `WinQuake/dxsdk/SDK/INC/DSOUND.H` 13 KB
+- `WinQuake/dxsdk/SDK/INC/FASTFILE.H` 1 KB
+- `WinQuake/dxsdk/SDK/LIB/DINPUT.LIB` 12 KB
+- `WinQuake/dxsdk/SDK/LIB/DXGUID.LIB` 63 KB
+- `WinQuake/d_copy.s` 3 KB
+- `WinQuake/d_draw.s` 24 KB
+- `WinQuake/d_draw16.s` 22 KB
+- `WinQuake/d_edge.c` 8 KB
+- `WinQuake/d_fill.c` 2 KB
+- `WinQuake/d_iface.h` 7 KB
+- `WinQuake/d_ifacea.h` 3 KB
+- `WinQuake/d_init.c` 3 KB
+- `WinQuake/d_local.h` 3 KB
+- `WinQuake/d_modech.c` 2 KB
+- `WinQuake/d_part.c` 4 KB
+- `WinQuake/d_parta.s` 10 KB
+- `WinQuake/d_polysa.s` 45 KB
+- `WinQuake/d_polyse.c` 26 KB
+- `WinQuake/d_scan.c` 11 KB
+- `WinQuake/d_scana.s` 2 KB
+- `WinQuake/d_sky.c` 3 KB
+- `WinQuake/d_spr8.s` 20 KB
+- `WinQuake/d_sprite.c` 10 KB
+- `WinQuake/d_surf.c` 7 KB
+- `WinQuake/d_vars.c` 2 KB
+- `WinQuake/d_varsa.s` 5 KB
+- `WinQuake/d_zpoint.c` 1 KB
+- `WinQuake/gas2masm/gas2masm.c` 20 KB
+- `WinQuake/gas2masm/gas2masm.dsp` 4 KB
+- `WinQuake/gas2masm/gas2masm.dsw` 1 KB
+- `WinQuake/gas2masm/gas2masm.mdp` 37 KB
+- `WinQuake/gas2masm/gas2masm.plg` 1 KB
+- `WinQuake/glqnotes.txt` 8 KB
+- `WinQuake/glquake.h` 7 KB
+- `WinQuake/glquake2.h` 6 KB
+- `WinQuake/gl_draw.c` 27 KB
+- `WinQuake/gl_mesh.c` 8 KB
+- `WinQuake/gl_model.c` 39 KB
+- `WinQuake/gl_model.h` 9 KB
+- `WinQuake/gl_refrag.c` 4 KB
+- `WinQuake/gl_rlight.c` 7 KB
+- `WinQuake/gl_rmain.c` 25 KB
+- `WinQuake/gl_rmisc.c` 11 KB
+- `WinQuake/gl_rsurf.c` 34 KB
+- `WinQuake/gl_screen.c` 17 KB
+- `WinQuake/gl_test.c` 3 KB
+- `WinQuake/gl_vidlinux.c` 19 KB
+- `WinQuake/gl_vidlinuxglx.c` 22 KB
+- `WinQuake/gl_vidnt.c` 45 KB
+- `WinQuake/gl_warp.c` 22 KB
+- `WinQuake/gl_warp_sin.h` 3 KB
+- `WinQuake/host.c` 20 KB
+- `WinQuake/host_cmd.c` 37 KB
+- `WinQuake/input.h` 1 KB
+- `WinQuake/in_dos.c` 13 KB
+- `WinQuake/in_null.c` 1 KB
+- `WinQuake/in_sun.c` 5 KB
+- `WinQuake/in_win.c` 28 KB
+- `WinQuake/keys.c` 15 KB
+- `WinQuake/keys.h` 3 KB
+- `WinQuake/kit/3DFX.TXT` 9 KB
+- `WinQuake/kit/GLQUAKE.EXE` 426 KB
+- `WinQuake/kit/JOYSTICK.TXT` 10 KB
+- `WinQuake/kit/OPENGL32.DLL` 139 KB
+- `WinQuake/kit/README.TXT` 8 KB
+- `WinQuake/Makefile.linuxi386` 33 KB
+- `WinQuake/Makefile.Solaris` 11 KB
+- `WinQuake/makezip.bat` 0 KB
+- `WinQuake/math.s` 11 KB
+- `WinQuake/mathlib.c` 13 KB
+- `WinQuake/mathlib.h` 3 KB
+- `WinQuake/menu.c` 65 KB
+- `WinQuake/menu.h` 1 KB
+- `WinQuake/model.c` 42 KB
+- `WinQuake/model.h` 8 KB
+- `WinQuake/modelgen.h` 3 KB
+- `WinQuake/mpdosock.h` 27 KB
+- `WinQuake/mplib.c` 6 KB
+- `WinQuake/mplpc.c` 22 KB
+- `WinQuake/net.h` 9 KB
+- `WinQuake/net_bsd.c` 2 KB
+- `WinQuake/net_bw.c` 19 KB
+- `WinQuake/net_bw.h` 2 KB
+- `WinQuake/net_comx.c` 30 KB
+- `WinQuake/net_dgrm.c` 34 KB
+- `WinQuake/net_dgrm.h` 1 KB
+- `WinQuake/net_dos.c` 3 KB
+- `WinQuake/net_ipx.c` 18 KB
+- `WinQuake/net_ipx.h` 2 KB
+- `WinQuake/net_loop.c` 5 KB
+- `WinQuake/net_loop.h` 1 KB
+- `WinQuake/net_main.c` 20 KB
+- `WinQuake/net_mp.c` 11 KB
+- `WinQuake/net_mp.h` 2 KB
+- `WinQuake/net_none.c` 1 KB
+- `WinQuake/net_ser.c` 21 KB
+- `WinQuake/net_ser.h` 1 KB
+- `WinQuake/net_udp.c` 10 KB
+- `WinQuake/net_udp.h` 2 KB
+- `WinQuake/net_vcr.c` 4 KB
+- `WinQuake/net_vcr.h` 1 KB
+- `WinQuake/net_win.c` 2 KB
+- `WinQuake/net_wins.c` 15 KB
+- `WinQuake/net_wins.h` 2 KB
+- `WinQuake/net_wipx.c` 11 KB
+- `WinQuake/net_wipx.h` 2 KB
+- `WinQuake/net_wso.c` 
+- `WinQuake/nonintel.c` 1 KB
+- `WinQuake/progdefs.h` 1 KB
+- `WinQuake/progdefs.q1` 3 KB
+- `WinQuake/progdefs.q2` 3 KB
+- `WinQuake/progs.h` 4 KB
+- `WinQuake/protocol.h` 5 KB
+- `WinQuake/pr_cmds.c` 38 KB
+- `WinQuake/pr_comp.h` 3 KB
+- `WinQuake/pr_edict.c` 23 KB
+- `WinQuake/pr_exec.c` 13 KB
+- `WinQuake/q.bat` 0 KB
+- `WinQuake/qa.bat` 0 KB
+- `WinQuake/qb.bat` 0 KB
+- `WinQuake/qe3.ico` 1 KB
+- `WinQuake/qt.bat` 0 KB
+- `WinQuake/quake-data.spec.sh` 2 KB
+- `WinQuake/quake-hipnotic.spec.sh` 4 KB
+- `WinQuake/quake-rogue.spec.sh` 4 KB
+- `WinQuake/quake-shareware.spec.sh` 2 KB
+- `WinQuake/quake.gif` 1 KB
+- `WinQuake/quake.ico` 10 KB
+- `WinQuake/quake.spec.sh` 2 KB
+- `WinQuake/quakeasm.h` 6 KB
+- `WinQuake/quakedef.h` 8 KB
+- `WinQuake/README.Solaris` 3 KB
+- `WinQuake/render.h` 5 KB
+- `WinQuake/resource.h` 1 KB
+- `WinQuake/r_aclip.c` 9 KB
+- `WinQuake/r_aclipa.s` 5 KB
+- `WinQuake/r_alias.c` 19 KB
+- `WinQuake/r_aliasa.s` 7 KB
+- `WinQuake/r_bsp.c` 15 KB
+- `WinQuake/r_draw.c` 21 KB
+- `WinQuake/r_drawa.s` 18 KB
+- `WinQuake/r_edge.c` 16 KB
+- `WinQuake/r_edgea.s` 18 KB
+- `WinQuake/r_efrag.c` 5 KB
+- `WinQuake/r_light.c` 5 KB
+- `WinQuake/r_local.h` 8 KB
+- `WinQuake/r_main.c` 26 KB
+- `WinQuake/r_misc.c` 10 KB
+- `WinQuake/r_part.c` 16 KB
+- `WinQuake/r_shared.h` 5 KB
+- `WinQuake/r_sky.c` 5 KB
+- `WinQuake/r_sprite.c` 11 KB
+- `WinQuake/r_surf.c` 14 KB
+- `WinQuake/r_vars.c` 1 KB
+- `WinQuake/r_varsa.s` 2 KB
+- `WinQuake/sbar.c` 29 KB
+- `WinQuake/sbar.h` 1 KB
+- `WinQuake/scitech/INCLUDE/DEBUG.H` 7 KB
+- `WinQuake/scitech/INCLUDE/MGLDOS.H` 2 KB
+- `WinQuake/scitech/INCLUDE/MGLWIN.H` 5 KB
+- `WinQuake/scitech/INCLUDE/MGRAPH.H` 75 KB
+- `WinQuake/scitech/LIB/WIN32/VC/MGLLT.LIB` 458 KB
+- `WinQuake/screen.c` 19 KB
+- `WinQuake/screen.h` 2 KB
+- `WinQuake/server.h` 7 KB
+- `WinQuake/snd_dma.c` 21 KB
+- `WinQuake/snd_dos.c` 13 KB
+- `WinQuake/snd_gus.c` 35 KB
+- `WinQuake/snd_linux.c` 6 KB
+- `WinQuake/snd_mem.c` 7 KB
+- `WinQuake/snd_mix.c` 8 KB
+- `WinQuake/snd_mixa.s` 5 KB
+- `WinQuake/snd_next.c` 1 KB
+- `WinQuake/snd_null.c` 2 KB
+- `WinQuake/snd_sun.c` 4 KB
+- `WinQuake/snd_win.c` 16 KB
+- `WinQuake/sound.h` 5 KB
+- `WinQuake/spritegn.h` 3 KB
+- `WinQuake/surf16.s` 3 KB
+- `WinQuake/surf8.s` 14 KB
+- `WinQuake/sv_main.c` 28 KB
+- `WinQuake/sv_move.c` 10 KB
+- `WinQuake/sv_phys.c` 38 KB
+- `WinQuake/sv_user.c` 13 KB
+- `WinQuake/sys.h` 2 KB
+- `WinQuake/sys_dos.c` 20 KB
+- `WinQuake/sys_dosa.s` 1 KB
+- `WinQuake/sys_linux.c` 12 KB
+- `WinQuake/sys_null.c` 4 KB
+- `WinQuake/sys_sun.c` 7 KB
+- `WinQuake/sys_win.c` 17 KB
+- `WinQuake/sys_wina.s` 2 KB
+- `WinQuake/sys_wind.c` 5 KB
+- `WinQuake/vgamodes.h` 15 KB
+- `WinQuake/vid.h` 3 KB
+- `WinQuake/vid_dos.c` 16 KB
+- `WinQuake/vid_dos.h` 3 KB
+- `WinQuake/vid_ext.c` 19 KB
+- `WinQuake/vid_null.c` 2 KB
+- `WinQuake/vid_sunx.c` 29 KB
+- `WinQuake/vid_sunxil.c` 29 KB
+- `WinQuake/vid_svgalib.c` 21 KB
+- `WinQuake/vid_vga.c` 10 KB
+- `WinQuake/vid_win.c` 74 KB
+- `WinQuake/vid_x.c` 27 KB
+- `WinQuake/view.c` 25 KB
+- `WinQuake/view.h` 1 KB
+- `WinQuake/vregset.c` 2 KB
+- `WinQuake/vregset.h` 1 KB
+- `WinQuake/wad.c` 3 KB
+- `WinQuake/wad.h` 2 KB
+- `WinQuake/winquake.aps` 28 KB
+- `WinQuake/WinQuake.dsp` 69 KB
+- `WinQuake/WinQuake.dsw` 1 KB
+- `WinQuake/winquake.h` 4 KB
+- `WinQuake/WinQuake.mdp` 66 KB
+- `WinQuake/WinQuake.ncb` 737 KB
+- `WinQuake/WinQuake.opt` 97 KB
+- `WinQuake/WinQuake.plg` 26 KB
+- `WinQuake/winquake.rc` 3 KB
+- `WinQuake/world.c` 22 KB
+- `WinQuake/world.h` 3 KB
+- `WinQuake/worlda.s` 3 KB
+- `WinQuake/wq.bat` 1 KB
+- `WinQuake/wqreadme.txt` 47 KB
+- `WinQuake/zone.c` 19 KB
+- `WinQuake/zone.h` 3 KB
+
+</details>
+
+<details>
+<summary><code>quake_authmdl-master.zip</code> (12 files)</summary>
+
+- `quake_authmdl-master/NOTICE.txt` 54 KB
+- `quake_authmdl-master/README.md` 0 KB
+- `quake_authmdl-master/auth_mdl.txt` 23 KB
+- `quake_authmdl-master/hipnotic/pakz.pak` 542 KB
+- `quake_authmdl-master/hipnotic/progs.dat` 498 KB
+- `quake_authmdl-master/id1/pakz.pak` 10255 KB
+- `quake_authmdl-master/id1/progs.dat` 371 KB
+- `quake_authmdl-master/rogue/pakz.pak` 4366 KB
+- `quake_authmdl-master/rogue/progs.dat` 563 KB
+- `quake_authmdl-master/source/amqqc_src.zip` 1666 KB
+- `quake_authmdl-master/source/bspmodels_src.zip` 59 KB
+- `quake_authmdl-master/todo_list.txt` 2 KB
+
+</details>
+

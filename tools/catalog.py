@@ -146,6 +146,60 @@ def scan_file(job):
     return f"{rel}|{size}", (maps, contents)
 
 
+def write_browsable(maps, contents):
+    """Small per-letter / per-folder files that GitHub renders as tables.
+
+    GitHub shows no table for CSV files this large, so the full CSVs are
+    split: catalog/maps/<letter>.csv and catalog/archives/<folder>.md.
+    """
+    header = ["map_file", "location", "path_inside_archive", "format", "title", "author", "size_kb"]
+    by_letter = {}
+    for r in sorted(maps, key=lambda r: (r[0].lower(), r[1])):
+        c = r[0][:1].lower()
+        by_letter.setdefault(c if c.isalpha() else "0-9", []).append(r)
+    os.makedirs(os.path.join(REPO, "catalog/maps"), exist_ok=True)
+    for letter, rows in by_letter.items():
+        with open(os.path.join(REPO, f"catalog/maps/{letter}.csv"), "w", newline="", encoding="utf-8") as f:
+            w = csv.writer(f, lineterminator="\n")
+            w.writerow(header)
+            w.writerows(rows)
+
+    by_archive = {}
+    for archive, entry, size in contents:
+        by_archive.setdefault(archive, []).append((entry, size))
+    by_folder = {}
+    for archive in by_archive:
+        by_folder.setdefault(os.path.dirname(archive), []).append(archive)
+    os.makedirs(os.path.join(REPO, "catalog/archives"), exist_ok=True)
+    pages = []
+    for folder, archives in sorted(by_folder.items()):
+        slug = folder.replace("/", "--").replace(" ", "_")
+        pages.append((folder, slug, len(archives)))
+        with open(os.path.join(REPO, f"catalog/archives/{slug}.md"), "w", newline="\n", encoding="utf-8") as f:
+            f.write(f"# Inside the archives in `{folder}/`\n\n{len(archives)} archives. Click one to see its files.\n\n")
+            for archive in sorted(archives, key=str.lower):
+                entries = by_archive[archive]
+                name = os.path.basename(archive)
+                f.write(f"<details>\n<summary><code>{name}</code> ({len(entries)} files)</summary>\n\n")
+                if name == "deathmatch-maps.zip":
+                    f.write("Same 5 330 files as `quake/maps/single-map-zips/` (identical names and sizes); "
+                            "see [the map list](../maps/) instead.\n\n</details>\n\n")
+                    continue
+                for entry, size in entries:
+                    kb = f"{int(size) / 1024:.0f} KB" if size else ""
+                    f.write(f"- `{entry}` {kb}\n")
+                f.write("\n</details>\n\n")
+    with open(os.path.join(REPO, "catalog/README.md"), "w", newline="\n", encoding="utf-8") as f:
+        f.write("# Catalog\n\n## Maps by first letter\n\n")
+        f.write(" · ".join(f"[{l.upper()}](maps/{l}.csv)" for l in sorted(by_letter)) + "\n\n")
+        f.write("Columns: map file, where it is, path inside the archive, engine, in-game title, author, size.\n\n")
+        f.write("## Inside the archives, per folder\n\n| Folder | Archives |\n|---|---:|\n")
+        for folder, slug, n in pages:
+            f.write(f"| [`{folder}/`](archives/{slug}.md) | {n} |\n")
+        f.write("\n## Full lists (download)\n\n- [maps.csv](maps.csv): every map in one file\n"
+                "- [archive-contents.csv](archive-contents.csv): every archive entry in one file\n")
+
+
 def main():
     os.makedirs(os.path.join(REPO, "catalog"), exist_ok=True)
     jobs, folders = [], {}
@@ -196,6 +250,8 @@ def main():
         w = csv.writer(f)
         w.writerow(["archive", "entry", "size_bytes"])
         w.writerows(contents)
+
+    write_browsable(maps, contents)
 
     fmt_count = {}
     for r in maps:
