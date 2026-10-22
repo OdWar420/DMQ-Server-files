@@ -54,17 +54,19 @@ added at the top of its readme:
 
 ## 🗺️ From the collection
 
-Six classic deathmatch maps from the archive, drawn straight from their `.bsp`
-files: floors coloured by height, teleporters and liquids in blue.
+The classics, drawn straight from their `.bsp` files in the archive: the
+real map geometry seen from above at an angle. Only the floors are drawn
+(walls and ceilings would hide them), coloured by height from dark red (low)
+to yellow (high); teleporters and liquids are blue.
 
 | | |
 |:---:|:---:|
-| <img src="assets/maps/aerowalk.png" alt="Aerowalk" width="420"> | <img src="assets/maps/ztndm3.png" alt="Blood Run" width="420"> |
-| **Aerowalk** · Mattias Konradsson, the QuakeWorld duel classic | **Blood Run** (ztndm3) · Sten "ztn" Uusvali |
-| <img src="assets/maps/ztndm4.png" alt="The Steeler" width="420"> | <img src="assets/maps/kjdm3.png" alt="Compound Fracture" width="420"> |
-| **The Steeler** (ztndm4) · Sten "ztn" Uusvali | **Compound Fracture** (kjdm3) · Killjoy |
-| <img src="assets/maps/q1edge.png" alt="The Edge" width="420"> | <img src="assets/maps/spinev2.png" alt="Spine" width="420"> |
-| **The Edge** (q1edge) · the Quake 2 classic converted to Quake | **Spine v2** · headshot, QonFerence '98 tournament map |
+| <img src="assets/maps/dm2.png" alt="DM2 Claustrophobopolis" width="420"> | <img src="assets/maps/dm3.png" alt="DM3 The Abandoned Base" width="420"> |
+| **DM2** · Claustrophobopolis | **DM3** · The Abandoned Base |
+| <img src="assets/maps/dm4.png" alt="DM4 The Bad Place" width="420"> | <img src="assets/maps/dm6.png" alt="DM6 The Dark Zone" width="420"> |
+| **DM4** · The Bad Place | **DM6** · The Dark Zone |
+| <img src="assets/maps/e1m8.png" alt="E1M8 Ziggurat Vertigo" width="420"> | <img src="assets/maps/dm7.png" alt="DM7 Acrophobia" width="420"> |
+| **E1M8** · Ziggurat Vertigo | **DM7** · Acrophobia (Piramida) |
 
 <sub>Rendered with <code>tools/render_map.py</code>. Point it at any Quake 1 map in the archive.</sub>
 
