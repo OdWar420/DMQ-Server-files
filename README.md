@@ -32,8 +32,6 @@ added at the top of its readme:
 > Rest in peace PIX!
 > &nbsp;-Billy
 
-**Rest in peace, PIX.**
-
 ## What is on GitHub and what is on Hugging Face
 
 This GitHub repository holds the catalog, the scripts and the two source
