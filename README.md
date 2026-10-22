@@ -1,8 +1,11 @@
 # DMQ Server Files — Quake / DMC / DMQ archive
 
-Decades of server files, maps, mods, tools and source code from the Quake 1,
-Deathmatch Classic (DMC) and DMQ community scene, collected from old servers
-and personal backups and preserved in one place.
+**Almost 30 years of collecting.** Since the late 1990s, Billy has gathered and
+kept server files, maps, mods, tools and source code from the Quake 1,
+Deathmatch Classic (DMC) and DMQ community scene: from old community servers,
+from the people he played with, and from his own backups. Much of it is no
+longer available anywhere else online. This archive preserves that collection
+in one place.
 
 - **Full archive (9.3 GiB, ~13 300 files, 10 963 maps):** https://huggingface.co/datasets/Nomatter/dmq-server-files
 - **What is in it:** [CATALOG.md](CATALOG.md) — overview per folder
