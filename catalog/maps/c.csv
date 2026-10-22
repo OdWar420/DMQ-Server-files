@@ -1,7 +1,6 @@
 map_file,location,path_inside_archive,format,title,author,size_kb
 c-dead.bsp,quake/maps/bsp/c-dead.bsp,,Quake 1,Chamber of the Dead,,417
 c-dead.bsp,quake/maps/single-map-zips/c-dead.zip,maps/c-dead.bsp,Quake 1,Chamber of the Dead,,417
-c5.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/c5.bsp,Quake 1,cbase,,2179
 c5.bsp,quake/maps/bsp/c5.bsp,,Quake 1,cbase,,2179
 c5.bsp,quake/maps/single-map-zips/c5.zip,maps/c5.bsp,Quake 1,cbase,,2179
 cabala.bsp,quake/maps/bsp/cabala.bsp,,Quake 1,,,340
@@ -52,7 +51,6 @@ canyon.bsp,quake/maps/single-map-zips/canyon.zip,maps/canyon.bsp,Quake 1,Canyon 
 canyon03.bsp,quake/maps/bsp/canyon03.bsp,,Quake 1,Fragg Canyon - Rocketman,,320
 canyon03.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/canyon03.bsp,Quake 1,Fragg Canyon - Rocketman,,320
 canyon03.bsp,quake/maps/single-map-zips/canyon03.zip,maps/canyon03.bsp,Quake 1,Fragg Canyon - Rocketman,,320
-canyon1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/canyon1.bsp,Quake 1,CanYon ver. 1.4 By: Dill-Hole Special Thanks: Alcohol,,1128
 canyon1.bsp,quake/maps/bsp/canyon1.bsp,,Quake 1,CanYon ver. 1.4 By: Dill-Hole Special Thanks: Alcohol,,1128
 canyon1_coop_beta1.bsp,quake/maps/bsp/canyon1_coop_beta1.bsp,,Quake 1,CanYon ver. 1.4 By: Dill-Hole Special Thanks: Alcohol Modified for Coop by The Gizmo,,1150
 canyonf.bsp,quake/maps/bsp/canyonf.bsp,,Quake 1,Canyon Of Fire,,395
@@ -90,7 +88,6 @@ cassio.bsp,quake/maps/single-map-zips/cassio.zip,maps/cassio.bsp,Quake 1,Enterin
 cast103.bsp,quake/maps/bsp/cast103.bsp,,Quake 1,Castles Version 1.0.3,,726
 castcarn.bsp,quake/maps/bsp/castcarn.bsp,,Quake 1,Castle Carnage v1.0 by: LPFDragonYen http://www.cafecourt.com/lpf/,,924
 castduel.bsp,quake/maps/bsp/castduel.bsp,,Quake 1,Castle Duel by  Breeze,,769
-castle.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/castle.bsp,Quake 1,castle by tiddles,,1029
 castle.bsp,quake/maps/bsp/castle.bsp,,Quake 1,Hell's Castle,,1625
 castle.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/castle.bsp,Quake 1,King Haggar's Court,,381
 castle.bsp,quake/maps/single-map-zips/castle.zip,maps/castle.bsp,Quake 1,Castle O' Death(match),Chris Burgess,758
@@ -125,7 +122,6 @@ cathexis.bsp,quake/maps/bsp/cathexis.bsp,,Quake 1,Cobalt Cathexis By JimbOCRU,,6
 cathexis.bsp,quake/maps/single-map-zips/cathexis.zip,maps/cathexis.bsp,Quake 1,Cobalt Cathexis By JimbOCRU,Jimbo,667
 cathexis_vis.bsp,quake/maps/bsp/cathexis_vis.bsp,,Quake 1,Cobalt Cathexis By JimbOCRU,,668
 cathexis_vis.bsp,quake/maps/single-map-zips/cathexis_vis.zip,maps/cathexis_vis.bsp,Quake 1,Cobalt Cathexis By JimbOCRU,,668
-catwalk.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/catwalk.bsp,Quake 1,"The Catwalk - Made by iskall, to my beloved Mescon af uberquick",,356
 catwalk.bsp,quake/maps/bsp/catwalk.bsp,,Quake 1,,,285
 catwalk.bsp,quake/maps/single-map-zips/catwalk.zip,maps/catwalk.bsp,Quake 1,CatWalk V.99,Stuart Presley,285
 catwalk2.bsp,quake/maps/bsp/catwalk2.bsp,,Quake 1,The Catwalk version: 2 Modified by: zanne,,1544
@@ -197,7 +193,6 @@ cfree1b1.bsp,quake/maps/bsp/cfree1b1.bsp,,Quake 1,Crunch's Freestyle 1 - For the
 cfree1b2.bsp,quake/maps/bsp/cfree1b2.bsp,,Quake 1,Crunch's Freestyle 1 - For the fags that want freestyle,,468
 cfree2b1.bsp,quake/maps/bsp/cfree2b1.bsp,,Quake 1,Crunch's Freestyle map #2 - OMGHI2U,,1041
 cfree2b2.bsp,quake/maps/bsp/cfree2b2.bsp,,Quake 1,Crunch's Freestyle map #2 - OMGHI2U,,1451
-cfree2b3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/cfree2b3.bsp,Quake 1,Crunch's Freestyle map #2 - Going Up!,,1534
 cfree2b3.bsp,quake/maps/bsp/cfree2b3.bsp,,Quake 1,Crunch's Freestyle map #2 - Going Up!,,1534
 cgstart.bsp,quake/maps/bsp/cgstart.bsp,,Quake 1,cha gheill start,,213
 cgum.bsp,quake/maps/bsp/cgum.bsp,,Quake 1,Church of G.U.M,,1150
@@ -332,7 +327,6 @@ claus.bsp,quake/maps/bsp/claus.bsp,,Quake 1,,,74
 claustrophobopolis2020.bsp,quake/maps/bsp/claustrophobopolis2020.bsp,,Quake 1,Claustrophobopolis (2020 remix by dirtbox),,1565
 clean01.bsp,quake/maps/bsp/clean01.bsp,,Quake 1,,,671
 clean01.bsp,quake/maps/single-map-zips/clean01.zip,maps/clean01.bsp,Quake 1,Command Center Part 1 of 3,David Namaksy aka Cleaner,671
-cleaver.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/cleaver.bsp,Quake 1,Cleaver Love,,813
 cleaver.bsp,quake/maps/bsp/cleaver.bsp,,Quake 1,Cleaver Love,,815
 cleaver.bsp,quake/maps/packs/quakeone_maps.zip,cleaver.bsp,Quake 1,Cleaver Love,,813
 climb.bsp,quake/maps/bsp/climb.bsp,,Quake 1,climb by g.ancheta,,379
@@ -383,16 +377,13 @@ cmc.bsp,quake/maps/bsp/cmc.bsp,,Quake 1,'CMC: Cheyenne Mountain Complex' by JPLa
 cmc2test2.bsp,quake/maps/bsp/cmc2test2.bsp,,Quake 1,HCMC: Hardkores Custom TF Mountain Complex',,4303
 cmt1.bsp,quake/maps/bsp/cmt1.bsp,,Quake 1,Silverdome (beta 3) by Zaka,,1926
 cmt1.bsp,quake/maps/single-map-zips/cmt1.zip,maps/cmt1.bsp,Quake 1,Silverdome (beta 3) by Zaka,,1926
-cmt1b.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/cmt1b.bsp,Quake 1,Silverdome by Zaka,,1924
 cmt1b.bsp,quake/maps/bsp/cmt1b.bsp,,Quake 1,Silverdome by Zaka,,1924
 cmt1b.bsp,quake/maps/single-map-zips/cmt1b.zip,maps/cmt1b.bsp,Quake 1,Silverdome by Zaka,,1924
 cmt2.bsp,quake/maps/bsp/cmt2.bsp,,Quake 1,the Sacrifice by Gromm,,1539
 cmt2.bsp,quake/maps/single-map-zips/cmt2.zip,maps/cmt2.bsp,Quake 1,the Sacrifice by Gromm,,1539
-cmt3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/cmt3.bsp,Quake 1,DeutschMaschine,,1531
 cmt3.bsp,quake/maps/bsp/cmt3.bsp,,Quake 1,DeutschMaschine,,1531
 cmt3.bsp,quake/maps/packs/quakeone_maps.zip,cmt3.bsp,Quake 1,DeutschMaschine,,1531
 cmt3.bsp,quake/maps/single-map-zips/cmt3.zip,maps/cmt3.bsp,Quake 1,DeutschMaschine,,1531
-cmt4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/cmt4.bsp,Quake 1,Andromeda Nine (cmt version) by Slayer,,862
 cmt4.bsp,quake/maps/bsp/cmt4.bsp,,Quake 1,Andromeda Nine (cmt version) by Slayer,,862
 cmt4.bsp,quake/maps/packs/quakeone_maps.zip,cmt4.bsp,Quake 1,Andromeda Nine (cmt version) by Slayer,,862
 cmt4.bsp,quake/maps/single-map-zips/cmt4.zip,maps/cmt4.bsp,Quake 1,Andromeda Nine (cmt version) by Slayer,,862
@@ -566,7 +557,6 @@ crocket.bsp,quake/maps/bsp/crocket.bsp,,Quake 1,CrowMaN's RoCKet Fest,,89
 crocket.bsp,quake/maps/single-map-zips/crocket.zip,maps/crocket.bsp,Quake 1,CrowMaN's RoCKet Fest,,89
 crocket2.bsp,quake/maps/bsp/crocket2.bsp,,Quake 1,CrowMaN's RoCKet Fest,,106
 crocket2.bsp,quake/maps/single-map-zips/crocket2.zip,maps/crocket2.bsp,Quake 1,CrowMaN's RoCKet Fest,,106
-croctear.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/croctear.bsp,Quake 1,Crocodile Tears,,1641
 croctear.bsp,quake/maps/bsp/croctear.bsp,,Quake 1,Crocodile Tears,,1641
 croctear.bsp,quake/maps/single-map-zips/croctear.zip,maps/croctear.bsp,Quake 1,Crocodile Tears,,1641
 cronium.bsp,quake/maps/bsp/cronium.bsp,,Quake 1,The Cronium - By CISEK,,606
@@ -609,7 +599,6 @@ ctest1.bsp,quake/maps/single-map-zips/ctest1.zip,maps/ctest1.bsp,Quake 1,CORRUPT
 ctest209.bsp,quake/maps/bsp/ctest209.bsp,,Quake 1,3on3fort remake by crap f/ P33r & Freebie,,698
 ctf0.bsp,quake/maps/bsp/ctf0.bsp,,Quake 1,Twin Towers - BraFish,,1611
 ctf00.bsp,quake/maps/bsp/ctf00.bsp,,Quake 1,Twin Towers - BraFish,,1611
-ctf1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/ctf1.bsp,Quake 1,McKinley Base,,1163
 ctf1.bsp,quake/maps/bsp/ctf1.bsp,,Quake 1,McKinley Base,,1163
 ctf1.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/ctf1.bsp,Quake 1,McKinley Base,,1163
 ctf1bsp0.bsp,quake/maps/bsp/ctf1bsp0.bsp,,Quake 1,Capturellamaphobopolis,,2014
@@ -631,7 +620,6 @@ ctf2m1.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/ctf2m1.bsp,Quake 1,McKi
 ctf2m2.bsp,quake/maps/bsp/ctf2m2.bsp,,Quake 1,The Warzone,,957
 ctf2m3.bsp,quake/maps/bsp/ctf2m3.bsp,,Quake 1,Spill the Blood,,1159
 ctf2m3.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/ctf2m3.bsp,Quake 1,Spill the Blood,,1159
-ctf2m4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/ctf2m4.bsp,Quake 1,The Ruins of NeoMinonk,,1671
 ctf2m4.bsp,quake/maps/bsp/ctf2m4.bsp,,Quake 1,The Ruins of NeoMinonk,,1671
 ctf2m4.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/ctf2m4.bsp,Quake 1,The Ruins of NeoMinonk,,1671
 ctf2m5.bsp,quake/maps/bsp/ctf2m5.bsp,,Quake 1,Disciple War Grounds,,2144
@@ -693,7 +681,6 @@ ctl3.bsp,quake/maps/bsp/ctl3.bsp,,Quake 1,Temple of the Ancient's - by Muff1n,,4
 ctl3.bsp,quake/maps/single-map-zips/ctl3.zip,maps/ctl3.bsp,Quake 1,Temple of the Ancient's - by Muff1n,Oskar H,430
 ctl4beta2.bsp,quake/maps/bsp/ctl4beta2.bsp,,Quake 1,ctl4 - QnBase,,2051
 ctl4beta2.bsp,quake/maps/single-map-zips/ctl4beta2.zip,maps/ctl4beta2.bsp,Quake 1,ctl4 - QnBase,,2051
-ctl5.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/ctl5.bsp,Quake 1,Ogre's Keep,,1387
 ctl5.bsp,quake/maps/bsp/ctl5.bsp,,Quake 1,Ogre's Keep,,1598
 ctl5.bsp,quake/maps/single-map-zips/ctl5.zip,maps/ctl5.bsp,Quake 1,Ogre's Keep,Oskar H,1598
 ctl6.bsp,quake/maps/bsp/ctl6.bsp,,Quake 1,Slime Memories,,1681

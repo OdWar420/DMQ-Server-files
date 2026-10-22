@@ -1,7 +1,6 @@
 map_file,location,path_inside_archive,format,title,author,size_kb
 07.bsp,quake/maps/bsp/07.bsp,,Quake 1,Dead Simple,,392
 08.bsp,quake/maps/bsp/08.bsp,,Quake 1,Tricks and Traps,,1852
-1-none.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/1-none.bsp,Quake 1,1 Or None --By: Qazew,,109
 1-none.bsp,quake/maps/bsp/1-none.bsp,,Quake 1,1 Or None --By: Qazew,,109
 1-none.bsp,quake/maps/single-map-zips/1-none.zip,maps/1-none.bsp,Quake 1,1 Or None --By: Qazew,Neal Stuntz,109
 100m.bsp,quake/maps/bsp/100m.bsp,,Quake 1,100m run,,321
@@ -56,7 +55,6 @@ map_file,location,path_inside_archive,format,title,author,size_kb
 1on1forts.bsp,quake/maps/bsp/1on1forts.bsp,,Quake 1,1on1fort by [REV6]Freebie,,356
 1on1fortvis.bsp,quake/maps/bsp/1on1fortvis.bsp,,Quake 1,1on1fort by [REV6]Freebie,,356
 1on1m.bsp,quake/maps/bsp/1on1m.bsp,,Quake 1,--- One On One - Mixed Edition --- by Bleach & J.Killer / Ikiliekki,,414
-1on1r.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/1on1r.bsp,Quake 1,--- One On One - Revised Edition --- by Bleach / Ikiliekki darkman@sgic.fi,,223
 1on1r.bsp,quake/maps/bsp/1on1r.bsp,,Quake 1,--- One On One - Revised Edition --- by Bleach / Ikiliekki darkman@sgic.fi,,223
 1on1r2.bsp,quake/maps/bsp/1on1r2.bsp,,Quake 1,--- One On One - Revised Edition --- by Bleach / Ikiliekki darkman@sgic.fi,,239
 1on1r2k3.bsp,quake/maps/bsp/1on1r2k3.bsp,,Quake 1,- One on One [Revised] 2003 - by SnP,,214
@@ -82,7 +80,6 @@ map_file,location,path_inside_archive,format,title,author,size_kb
 2bases5.bsp,quake/maps/bsp/2bases5.bsp,,Quake 1,2Bases5 By ent entropy12345@yahoo.com,,911
 2bcobra.bsp,quake/maps/bsp/2bcobra.bsp,,Quake 1,2 Base Cobra Created By:  VeNoM,,1976
 2beam1.bsp,quake/maps/bsp/2beam1.bsp,,Quake 1,Balance Beam,,580
-2bfree.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/2bfree.bsp,Quake 1,So you want to bunny? by zedii (unfreeze map by typing freeze),,390
 2bfree.bsp,quake/maps/bsp/2bfree.bsp,,Quake 1,So you want to bunny? by zedii (unfreeze map by typing freeze),,390
 2bfree.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/2bfree.bsp,Quake 1,So you want to bunny? by zedii (unfreeze map by typing freeze),,390
 2bob1.bsp,quake/maps/bsp/2bob1.bsp,,Quake 1,BobVille,,951
@@ -139,7 +136,6 @@ map_file,location,path_inside_archive,format,title,author,size_kb
 2fort5c.bsp,quake/maps/bsp/2fort5c.bsp,,Quake 1,,,3215
 2fort5l.bsp,quake/maps/bsp/2fort5l.bsp,,Quake 1,2fort5,,905
 2fort5p.bsp,quake/maps/bsp/2fort5p.bsp,,Quake 1,2FortSE Final Original Design by John Cook Update by SGLlama2000 www.barrysworld.com/llama,,2708
-2fort5r.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/2fort5r.bsp,Quake 1,Fortr - Two Forts,,892
 2fort5r.bsp,quake/maps/bsp/2fort5r.bsp,,Quake 1,Fortr - Two Forts,,892
 2fort5sta.bsp,quake/maps/bsp/2fort5sta.bsp,,Quake 1,STA MTF Division 2fort5,,891
 2fort5tt.bsp,quake/maps/bsp/2fort5tt.bsp,,Quake 1,Fortr - Two Forts,,752
@@ -179,7 +175,6 @@ map_file,location,path_inside_archive,format,title,author,size_kb
 2mach1.bsp,quake/maps/bsp/2mach1.bsp,,Quake 1,Two Mach >V<Somene http://someone.tfdomain.com/,,611
 2macha.bsp,quake/maps/bsp/2macha.bsp,,Quake 1,,,759
 2machb.bsp,quake/maps/bsp/2machb.bsp,,Quake 1,,,759
-2machse.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/2machse.bsp,Quake 1,2Mach Special Edition by [SG]Llama2000 www.barrysworld.com/llama,,2343
 2machse.bsp,quake/maps/bsp/2machse.bsp,,Quake 1,2Mach Special Edition by [SG]Llama2000 www.barrysworld.com/llama,,2357
 2mages1.bsp,quake/maps/bsp/2mages1.bsp,,Quake 1,-* Mages Fortress *- Por Lc BartmaN d Mages,,1437
 2maze2.bsp,quake/maps/bsp/2maze2.bsp,,Quake 1,2Maze2 by klown,,151
@@ -249,7 +244,6 @@ map_file,location,path_inside_archive,format,title,author,size_kb
 2thund4r.bsp,quake/maps/bsp/2thund4r.bsp,,Quake 1,Thunder Forts  CdGNightMF e -- mtoth@wcoil.com eclub.net -- IRC #e4,,944
 2thunder3.bsp,quake/maps/bsp/2thunder3.bsp,,Quake 1,Thunder Forts  Final (Solid No-Drop Flag) CdGNightM e -- mtoth@wcoil.com eclub.net -- IRC #e4,,932
 2tow1.bsp,quake/maps/bsp/2tow1.bsp,,Quake 1,The Two Mana Towers,,1404
-2towers.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/2towers.bsp,Quake 1,Twin Towers Arena - By Scooby,,238
 2towers.bsp,quake/maps/bsp/2towers.bsp,,Quake 1,Twin Towers Arena - By Scooby,,238
 2towers1.bsp,quake/maps/bsp/2towers1.bsp,,Quake 1,,,673
 2town2.bsp,quake/maps/bsp/2town2.bsp,,Quake 1,2 on 2 Town By Soul,,549
@@ -279,7 +273,6 @@ map_file,location,path_inside_archive,format,title,author,size_kb
 34.bsp,quake/maps/single-map-zips/34.zip,maps/34.bsp,Quake 1,STABILIZED WARFARE,,507
 3ebluebeta.bsp,quake/maps/bsp/3ebluebeta.bsp,,Quake 1,3E mushroom blue,,644
 3ebluebeta.bsp,quake/maps/single-map-zips/3ebluebeta.zip,maps/3ebluebeta.bsp,Quake 1,3E mushroom blue,,644
-3egreenbeta.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/3egreenbeta.bsp,Quake 1,3E green,,686
 3egreenbeta.bsp,quake/maps/bsp/3egreenbeta.bsp,,Quake 1,3E green,,686
 3egreenbeta.bsp,quake/maps/single-map-zips/3egreenbeta.zip,maps/3egreenbeta.bsp,Quake 1,3E green,,686
 3egreybeta.bsp,quake/maps/bsp/3egreybeta.bsp,,Quake 1,3E grey would be the color,,654

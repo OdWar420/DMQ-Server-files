@@ -147,7 +147,6 @@ testmap5.bsp,quake/maps/bsp/testmap5.bsp,,Quake 1,,,1425
 testmapb-2.bsp,quake/maps/bsp/testmapb-2.bsp,,Quake 1,Gnar's Test map. Testing Fish.,,456
 testmapB.bsp,quake/maps/bsp/testmapB.bsp,,Quake 1,Gnar's Test map. Testing Fish.,,456
 testspam.bsp,quake/maps/bsp/testspam.bsp,,Quake 1,-Spam Forts!-,,723
-tf2k.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/tf2k.bsp,Quake 1,The Final Two Kingdoms (v1.0 Normal) by Inphidel http://www.novamarines.org/ncl,,1757
 tf2k.bsp,quake/maps/bsp/tf2k.bsp,,Quake 1,The Final Two Kingdoms (v1.0 Normal) by Inphidel http://www.novamarines.org/ncl,,1757
 tf2k_32a.bsp,quake/maps/bsp/tf2k_32a.bsp,,Quake 1,"The Final Two Kingdoms v1.0 (32) By, Inphidel http://www.novamarines.org/ncl",,1810
 tf2kfel.bsp,quake/maps/bsp/tf2kfel.bsp,,Quake 1,The Final Two Kingdoms (v1.0 Normal) by Inphidel STA version Entities by: SKS,,1765
@@ -411,14 +410,13 @@ trandon.bsp,quake/maps/bsp/trandon.bsp,,Quake 1,Transvestite Goatfish,,1329
 trandon.bsp,quake/maps/single-map-zips/trandon.zip,maps/trandon.bsp,Quake 1,Transvestite Goatfish,,1329
 trange.bsp,quake/maps/bsp/trange.bsp,,Quake 1,Trangela by dloader@yoss.canweb.net ([jD),,257
 trange.bsp,quake/maps/single-map-zips/trange.zip,maps/trange.bsp,Quake 1,Trangela by dloader@yoss.canweb.net ([jD),Mark Danes ([jD]),257
-trappin10.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/trappin10.bsp,Quake 1,bang bang by foogs,,726
+trappin10.bsp,quake/maps/bsp/trappin10.bsp,,Quake 1,bang bang by foogs,,726
 traveler.bsp,quake/maps/bsp/traveler.bsp,,Quake 1,cosmic traveler,,435
 traveler.bsp,quake/maps/single-map-zips/traveler.zip,maps/traveler.bsp,Quake 1,cosmic traveler,,435
 travelert2.bsp,quake/maps/bsp/travelert2.bsp,,Quake 1,cosmic traveler,,828
 travelert2.bsp,quake/maps/single-map-zips/travelert2.zip,maps/travelert2.bsp,Quake 1,cosmic traveler,,828
 travelert4.bsp,quake/maps/bsp/travelert4.bsp,,Quake 1,cosmic traveler,,611
 travelert4.bsp,quake/maps/single-map-zips/travelert4.zip,maps/travelert4.bsp,Quake 1,cosmic traveler,,611
-travelert6.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/travelert6.bsp,Quake 1,le voyageur cosmique,,623
 travelert6.bsp,quake/maps/bsp/travelert6.bsp,,Quake 1,le voyageur cosmique,,623
 travelert6.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/travelert6.bsp,Quake 1,le voyageur cosmique,,623
 travelert6.bsp,quake/maps/single-map-zips/travelert6.zip,maps/travelert6.bsp,Quake 1,le voyageur cosmique,,623
@@ -454,13 +452,11 @@ trick.bsp,quake/maps/bsp/trick.bsp,,Quake 1,,,684
 trick1.bsp,quake/maps/bsp/trick1.bsp,,Quake 1,,,684
 trick1.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/trick1.bsp,Quake 1,,,684
 trick11.bsp,quake/maps/bsp/trick11.bsp,,Quake 1,Trick2 You're not supposed to have this.-(tm) Lameduke,,2046
-trickj1-beta.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/trickj1-beta.bsp,Quake 1,trickj1-beta by phrenic,,486
 trickj1-beta.bsp,quake/maps/bsp/trickj1-beta.bsp,,Quake 1,trickj1-beta by phrenic,,486
 tridm1.bsp,quake/maps/bsp/tridm1.bsp,,Quake 1,Wasted Again by headshot,,508
 tridm1.bsp,quake/maps/single-map-zips/tridm1.zip,maps/tridm1.bsp,Quake 1,Wasted Again by headshot,,508
 tridm2.bsp,quake/maps/bsp/tridm2.bsp,,Quake 1,H2 [clokwerk reconstruction] by retinal,,451
 tridm2.bsp,quake/maps/single-map-zips/tridm2.zip,maps/tridm2.bsp,Quake 1,H2 [clokwerk reconstruction] by retinal,,451
-tridm3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/tridm3.bsp,Quake 1,Recycled [crapyard edition] by ztn & ninja,,557
 tridm3.bsp,quake/maps/bsp/tridm3.bsp,,Quake 1,Recycled [crapyard edition] by ztn & ninja,,557
 tridm3.bsp,quake/maps/single-map-zips/tridm3.zip,maps/tridm3.bsp,Quake 1,Recycled [crapyard edition] by ztn & ninja,,557
 trifor.bsp,quake/maps/bsp/trifor.bsp,,Quake 1,,,523
@@ -572,7 +568,6 @@ twist1.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/twist1.bsp,Quake 1,
 twist1.bsp,quake/maps/single-map-zips/twist1.zip,maps/twist1.bsp,Quake 1,rocketman's TwIsTeD map,,528
 twistdm.bsp,quake/maps/bsp/twistdm.bsp,,Quake 1,Twisted Terror,,555
 twistdm.bsp,quake/maps/single-map-zips/twistdm.zip,maps/twistdm.bsp,Quake 1,Twisted Terror,Ryan 'Myst' Boucher,555
-twisted.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/twisted.bsp,Quake 1,,,766
 twisted.bsp,quake/maps/bsp/twisted.bsp,,Quake 1,,,766
 twisted.bsp,quake/maps/single-map-zips/twisted.zip,maps/twisted.bsp,Quake 1,Twisted Thoughts,David Jewsbury,766
 twister.bsp,quake/maps/bsp/twister.bsp,,Quake 1,Twist and Shout,,940

@@ -22,12 +22,11 @@ Columns: map file, where it is, path inside the archive, engine, in-game title, 
 | [`dmq/releases/`](archives/dmq--releases.md) | 6 |
 | [`dmq/server-plugins/`](archives/dmq--server-plugins.md) | 3 |
 | [`dmq/source/`](archives/dmq--source.md) | 3 |
-| [`misc/`](archives/misc.md) | 4 |
 | [`other-games/doom/`](archives/other-games--doom.md) | 1 |
 | [`other-games/quake2/`](archives/other-games--quake2.md) | 5 |
 | [`other-games/quake2/maps/`](archives/other-games--quake2--maps.md) | 8 |
 | [`other-games/quake3/`](archives/other-games--quake3.md) | 12 |
-| [`quake/engines/`](archives/quake--engines.md) | 9 |
+| [`quake/engines/`](archives/quake--engines.md) | 6 |
 | [`quake/engines/FTE quake/`](archives/quake--engines--FTE_quake.md) | 1 |
 | [`quake/maps/packs/`](archives/quake--maps--packs.md) | 59 |
 | [`quake/maps/single-map-zips/`](archives/quake--maps--single-map-zips.md) | 3331 |

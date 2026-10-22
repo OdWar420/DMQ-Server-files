@@ -3,7 +3,6 @@ nacdm1.bsp,quake/maps/bsp/nacdm1.bsp,,Quake 1,Imminent Destruction,,325
 nacdm1.bsp,quake/maps/single-map-zips/nacdm1.zip,maps/nacdm1.bsp,Quake 1,Imminent Destruction,,325
 nacdm3.bsp,quake/maps/bsp/nacdm3.bsp,,Quake 1,Inferiority Complex - aragrn,,564
 nacdm3.bsp,quake/maps/single-map-zips/nacdm3.zip,maps/nacdm3.bsp,Quake 1,Inferiority Complex - aragrn,,564
-nacmidair.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/nacmidair.bsp,Quake 1,The Ministry of Love,,1424
 nacmidair.bsp,quake/maps/bsp/nacmidair.bsp,,Quake 1,The Ministry of Love,,1424
 nacmidair.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/nacmidair.bsp,Quake 1,The Ministry of Love,,1424
 nacmidair1.bsp,quake/maps/bsp/nacmidair1.bsp,,Quake 1,The Ministry of Love,,1424
@@ -126,7 +125,6 @@ no_rms.bsp,quake/maps/single-map-zips/no_rms.zip,maps/no_rms.bsp,Quake 1,No Remo
 noc1.bsp,quake/maps/bsp/noc1.bsp,,Quake 1,Zarathustra by Nocturnal,,264
 noc1.bsp,quake/maps/single-map-zips/noc1.zip,maps/noc1.bsp,Quake 1,Zarathustra by Nocturnal,Nocturnal,264
 nodm13.bsp,other-games/quake3/nodm13.bsp,,Quake 3,,,2117
-noentry.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/noentry.bsp,Quake 1,No Entry by Bugsy,,83
 noentry.bsp,quake/maps/bsp/noentry.bsp,,Quake 1,No Entry by Bugsy,,83
 noentry.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/noentry.bsp,Quake 1,No Entry by Bugsy,,83
 noentry.bsp,quake/maps/single-map-zips/noentry.zip,maps/noentry.bsp,Quake 1,No Entry by Bugsy,,83

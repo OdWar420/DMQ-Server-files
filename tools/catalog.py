@@ -171,6 +171,9 @@ def write_browsable(maps, contents):
     for archive in by_archive:
         by_folder.setdefault(os.path.dirname(archive), []).append(archive)
     os.makedirs(os.path.join(REPO, "catalog/archives"), exist_ok=True)
+    keep = {f"{folder.replace('/', '--').replace(' ', '_')}.md" for folder in by_folder}
+    for stale in set(os.listdir(os.path.join(REPO, "catalog/archives"))) - keep:
+        os.remove(os.path.join(REPO, "catalog/archives", stale))  # generated page for a folder now gone
     pages = []
     for folder, archives in sorted(by_folder.items()):
         slug = folder.replace("/", "--").replace(" ", "_")
@@ -200,7 +203,17 @@ def write_browsable(maps, contents):
                 "- [archive-contents.csv](archive-contents.csv): every archive entry in one file\n")
 
 
+def private_paths():
+    """Paths listed in tools/PRIVATE.txt are not in the public dataset."""
+    path = os.path.join(REPO, "tools/PRIVATE.txt")
+    if not os.path.exists(path):
+        return set()
+    with open(path, encoding="utf-8") as f:
+        return {l.strip() for l in f if l.strip() and not l.startswith("#")}
+
+
 def main():
+    private = private_paths()
     os.makedirs(os.path.join(REPO, "catalog"), exist_ok=True)
     jobs, folders = [], {}
     for root, dirs, files in os.walk(REPO):
@@ -208,6 +221,8 @@ def main():
         rel_root = os.path.relpath(root, REPO).replace(os.sep, "/")
         for name in sorted(files):
             rel = name if rel_root == "." else f"{rel_root}/{name}"
+            if rel in private:
+                continue
             size = os.path.getsize(os.path.join(root, name))
             entry = folders.setdefault(os.path.dirname(rel) or ".", [0, 0])
             entry[0] += 1
@@ -278,7 +293,8 @@ def main():
                     or d.count("/") > 2:
                 continue
             entries = sorted(os.listdir(os.path.join(REPO, d)))
-            files = [e for e in entries if os.path.isfile(os.path.join(REPO, d, e))]
+            files = [e for e in entries if os.path.isfile(os.path.join(REPO, d, e))
+                     and f"{d}/{e}" not in private]
             if not files or len(files) > 60:
                 continue
             f.write(f"### `{d}`\n\n")

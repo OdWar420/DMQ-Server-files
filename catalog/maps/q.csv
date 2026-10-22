@@ -36,7 +36,6 @@ q1ctf5.bsp,quake/maps/bsp/q1ctf5.bsp,,Quake 1,The Key by dolomite of Dteam,,1320
 q1ctf6.bsp,quake/maps/bsp/q1ctf6.bsp,,Quake 1,Quake-Henge by Zuel of Dteam,,1725
 q1ctf7.bsp,quake/maps/bsp/q1ctf7.bsp,,Quake 1,Cheat Sheet by dolomite of Dteam,,1064
 q1ctf8.bsp,quake/maps/bsp/q1ctf8.bsp,,Quake 1,Mason's Shelf by Zuel of Dteam,,1261
-q1dm17.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q1dm17.bsp,Quake 1,The Longest Yard,,1536
 q1dm17.bsp,quake/maps/bsp/q1dm17.bsp,,Quake 1,The Longest Yard,,1536
 q1dm17.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/q1dm17.bsp,Quake 1,The Longest Yard,,1536
 q1dm17.bsp,quake/maps/packs/quakeone_maps.zip,q1dm17.bsp,Quake 1,The Longest Yard,,1536
@@ -71,7 +70,6 @@ q1q3elder_beta1.bsp,quake/maps/bsp/q1q3elder_beta1.bsp,,Quake 1,Elder - by ID So
 q1q3evolution_beta2.bsp,quake/maps/bsp/q1q3evolution_beta2.bsp,,Quake 1,Evolution by Till Merker Project Q1Q3 QW conversion by Mick 2014 quakeworld.nu/forum/topic/6152,,897
 q1q3fheights_beta4.bsp,quake/maps/bsp/q1q3fheights_beta4.bsp,,Quake 1,Furious Heights,,2394
 q1q3gaudy_beta2.bsp,quake/maps/bsp/q1q3gaudy_beta2.bsp,,Quake 1,Gaudy - by HAL9000 Project Q1Q3 QW conversion by Mick 2015 qw.nu/forum/topic/6152,,1054
-q1q3hektik.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q1q3hektik.bsp,Quake 1,Hektik by swelt // Q1 Conversion by Mick,,1489
 q1q3hektik.bsp,quake/maps/bsp/q1q3hektik.bsp,,Quake 1,Hektik by swelt // Q1 Conversion by Mick,,1489
 q1q3hektik.bsp,quake/maps/single-map-zips/q1q3hektik.zip,maps/q1q3hektik.bsp,Quake 1,Hektik by swelt // Q1 Conversion by Mick,Mick,1506
 q1q3lastgift_beta2.bsp,quake/maps/bsp/q1q3lastgift_beta2.bsp,,Quake 1,The Last Gift - by Suicide-20 Project Q1Q3 QW conversion by Mick 2015 qw.nu/forum/topic/6152,,1706
@@ -91,7 +89,7 @@ q1q3test2.bsp,quake/maps/bsp/q1q3test2.bsp,,Quake 1,The Not-so-Long Yard,,857
 q1q3test2.bsp,quake/maps/single-map-zips/q1q3test2.zip,maps/q1q3test2.bsp,Quake 1,The Not-so-Long Yard,,857
 q1q3thunderstruck.bsp,quake/maps/bsp/q1q3thunderstruck.bsp,,Quake 1,ThunderStruck by Till Merker // Q1 Conversion by Mick,,1074
 q1q3thunderstruck.bsp,quake/maps/single-map-zips/q1q3thunderstruck.zip,maps/q1q3thunderstruck.bsp,Quake 1,ThunderStruck by Till Merker // Q1 Conversion by Mick,,1074
-q1q3tourney4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q1q3tourney4.bsp,Quake 1,Vertical Vengeance II - by ID Software // Q1 Version by Mick,,1230
+q1q3tourney4.bsp,quake/maps/bsp/q1q3tourney4.bsp,,Quake 1,Vertical Vengeance II - by ID Software // Q1 Version by Mick,,1230
 q1q3toxfix_b2.bsp,quake/maps/bsp/q1q3toxfix_b2.bsp,,Quake 1,toxicity by thefury [toxfix beta 2] Project Q1Q3 QW conversion by Mick 2015 fixes by Thuriam 2018 [BETA 2] quakeworld.nu/forum/topic/7316,,2527
 q1q3toxicity.bsp,quake/maps/bsp/q1q3toxicity.bsp,,Quake 1,Toxicity by thefury QW conversion by Mick & Thuriam 2015-19 quakeworld.nu/forum/topic/7316 Project Q1Q3 quakeworld.nu/forum/topic/6152,,3523
 q1q3toxicity_beta6.bsp,quake/maps/bsp/q1q3toxicity_beta6.bsp,,Quake 1,toxicity by thefury // Q1 Conversion by Mick,,2490
@@ -117,11 +115,10 @@ q2dmv1.bsp,other-games/quake2/q2dmv1(1).zip,q2dmv1.bsp,Quake 2,,,543
 q2dmv1.bsp,other-games/quake2/q2dmv1.zip,q2dmv1.bsp,Quake 2,,,543
 q3_tim1.bsp,quake/maps/bsp/q3_tim1.bsp,,Quake 1,Q3 by FreaK StorM,,334
 q3_tim1.bsp,quake/maps/single-map-zips/q3_tim1.zip,maps/q3_tim1.bsp,Quake 1,Q3 by FreaK StorM,,334
-q3dm13qw.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q3dm13qw.bsp,Quake 1,The Lost World - Converted to Q1 by Jeff McWhorter / Fixed by Muff1n,,2502
+q3dm13qw.bsp,quake/maps/bsp/q3dm13qw.bsp,,Quake 1,The Lost World - Converted to Q1 by Jeff McWhorter / Fixed by Muff1n,,2502
 q3dm6ish.bsp,other-games/quake3/q3dm6ish.zip,q3dm6ish.bsp,Quake 1,Q3DM6-ish by Aardappel,,479
 q3dm6ish.bsp,quake/maps/bsp/q3dm6ish.bsp,,Quake 1,Q3DM6-ish by Aardappel,,479
 q3dm6ish.bsp,quake/maps/single-map-zips/q3dm6ish.zip,maps/q3dm6ish.bsp,Quake 1,Q3DM6-ish by Aardappel,,479
-q3dm6qw.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/q3dm6qw.bsp,Quake 1,The Campgrounds by SamoN,,2675
 q3dm6qw.bsp,quake/maps/bsp/q3dm6qw.bsp,,Quake 1,The Campgrounds by SamoN,,2675
 q3dm6qw.bsp,quake/maps/packs/quakeone_maps.zip,q3dm6qw.bsp,Quake 1,The Campgrounds by SamoN,,2675
 q3dm6qw.bsp,quake/maps/single-map-zips/q3dm6qw.zip,maps/q3dm6qw.bsp,Quake 1,The Campgrounds by SamoN,,2675
@@ -171,7 +168,6 @@ qdm14b1.bsp,quake/maps/bsp/qdm14b1.bsp,,Quake 1,grimdungeonsbyqurnel,,1308
 qdm14b1.bsp,quake/maps/single-map-zips/qdm14b1.zip,maps/qdm14b1.bsp,Quake 1,grimdungeonsbyqurnel,,1308
 qffldm2.bsp,quake/maps/bsp/qffldm2.bsp,,Quake 1,QFFLdm2 By OH-PoRkY,,668
 qffldm2.bsp,quake/maps/single-map-zips/qffldm2.zip,maps/qffldm2.bsp,Quake 1,QFFLdm2 By OH-PoRkY,,668
-qffldm3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/qffldm3.bsp,Quake 1,QFFLdm3 by OH-PoRkY,,1195
 qffldm3.bsp,quake/maps/bsp/qffldm3.bsp,,Quake 1,QFFLdm3 by OH-PoRkY,,1195
 qffldm3.bsp,quake/maps/single-map-zips/qffldm3.zip,maps/qffldm3.bsp,Quake 1,QFFLdm3 by OH-PoRkY,OH.Porky  (Grant Duncan),1195
 qffldm4.bsp,quake/maps/bsp/qffldm4.bsp,,Quake 1,QFFLDM4 - By BiGGuS,,1085
@@ -280,7 +276,6 @@ qw_urj_pro.bsp,dmc/maps/bsp/qw_urj_pro.bsp,,Half-Life/DMC,Ultima Rocket Jump -by
 qwcpm15b2.bsp,quake/maps/bsp/qwcpm15b2.bsp,,Quake 1,,,635
 qwcpm15b2.bsp,quake/maps/single-map-zips/qwcpm15b2.zip,maps/qwcpm15b2.bsp,Quake 1,,,635
 qwctf.bsp,quake/maps/bsp/qwctf.bsp,,Quake 1,QWCTF CAN BLOW ME,,1145
-qwdm1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/qwdm1.bsp,Quake 1,Grim Prince [qwdm1],,456
 qwdm1.bsp,quake/maps/bsp/qwdm1.bsp,,Quake 1,Grim Prince [qwdm1],,456
 qwdm2.bsp,quake/maps/bsp/qwdm2.bsp,,Quake 1,The Grim Place [qwdm2],,509
 qwdm5.bsp,quake/maps/bsp/qwdm5.bsp,,Quake 1,Some Place [qwdm5],,860

@@ -1,5 +1,4 @@
 map_file,location,path_inside_archive,format,title,author,size_kb
-a2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/a2.bsp,Quake 1,A2:Return to Atlantis By Pingu,,864
 a2.bsp,quake/maps/bsp/a2.bsp,,Quake 1,A2:Return to Atlantis By Pingu,,864
 a2.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/a2.bsp,Quake 1,A2:Return to Atlantis By Pingu,,864
 a2.bsp,quake/maps/packs/quakeone_maps.zip,a2.bsp,Quake 1,A2:Return to Atlantis By Pingu,,864
@@ -63,7 +62,6 @@ adoom.bsp,quake/maps/bsp/adoom.bsp,,Quake 1,Arena of the Doomed,,434
 adoom.bsp,quake/maps/single-map-zips/adoom.zip,maps/adoom.bsp,Quake 1,Arena of the Doomed,[jD],434
 adult1tf.bsp,quake/maps/bsp/adult1tf.bsp,,Quake 1,Adult's only,,1475
 aerorun.bsp,quake/maps/bsp/aerorun.bsp,,Quake 1,aerorun (modification by alice),,1347
-aerowalk.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/aerowalk.bsp,Quake 1,Aerowalk,,617
 aerowalk.bsp,quake/maps/bsp/aerowalk.bsp,,Quake 1,Aerowalk,,617
 aerowalk.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/aerowalk.bsp,Quake 1,Aerowalk,,617
 aerowalk.bsp,quake/maps/packs/quake1.zip,aerowalk.bsp,Quake 1,Aerowalk,,617
@@ -81,16 +79,13 @@ againv2.bsp,quake/maps/bsp/againv2.bsp,,Quake 1,Made By Hunter,,857
 againv2.bsp,quake/maps/single-map-zips/againv2.zip,maps/againv2.bsp,Quake 1,Made By Hunter,Jason Hunter,857
 agdm2.bsp,quake/maps/bsp/agdm2.bsp,,Quake 1,Raw Meat,,785
 agdm2.bsp,quake/maps/single-map-zips/agdm2.zip,maps/agdm2.bsp,Quake 1,Raw Meat,"Andreas ""Mogul"" Gaschka",785
-agenda.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/agenda.bsp,Quake 1,Hidden Agenda by headshot,,548
 agenda.bsp,quake/maps/bsp/agenda.bsp,,Quake 1,Hidden Agenda by headshot,,546
 agenda.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/agenda.bsp,Quake 1,Hidden Agenda by headshot,,546
 agenda.bsp,quake/maps/single-map-zips/agenda.zip,maps/agenda.bsp,Quake 1,Hidden Agenda by headshot,dennis kaltwasser [headshot],548
 agenda2.bsp,quake/maps/bsp/agenda2.bsp,,Quake 1,Hidden Agenda by headshot,,548
-agent.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/agent.bsp,Quake 1,AGENT ORANGE - Malevola,,2237
 agent.bsp,quake/maps/bsp/agent.bsp,,Quake 1,AGENT ORANGE - Malevola,,2237
 agent.bsp,quake/maps/packs/quakeone_maps.zip,agent.bsp,Quake 1,AGENT ORANGE - Malevola,,2237
 agent.bsp,quake/maps/single-map-zips/agent.zip,maps/agent.bsp,Quake 1,AGENT ORANGE - Malevola,,2237
-aggressr.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/aggressr.bsp,Quake 1,Aggressor - by Tyrann,,663
 aggressr.bsp,quake/maps/bsp/aggressr.bsp,,Quake 1,Aggressor - by Tyrann,,663
 aggressr.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/aggressr.bsp,Quake 1,Aggressor - by Tyrann,,663
 aggressr.bsp,quake/maps/packs/quakeone_maps.zip,aggressr.bsp,Quake 1,Aggressor - by Tyrann,,663
@@ -107,7 +102,6 @@ agxdm.bsp,quake/maps/single-map-zips/agxdm.zip,maps/agxdm.bsp,Quake 1,Level by A
 air.bsp,quake/maps/bsp/air.bsp,,Quake 1,one on one airshot by killjoy of the collective Revised by: Up2nOgOoD[ROCK],,115
 air2.bsp,quake/maps/bsp/air2.bsp,,Quake 1,Aerowalk2,,396
 air3.bsp,quake/maps/bsp/air3.bsp,,Quake 1,Air3 by MrFribbleS,,751
-airar.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/airar.bsp,Quake 1,The Air Arena,,336
 airar.bsp,quake/maps/bsp/airar.bsp,,Quake 1,The Air Arena,,336
 airball4.bsp,quake/maps/bsp/airball4.bsp,,Quake 1,,,86
 airbiscuit.bsp,quake/maps/bsp/airbiscuit.bsp,,Quake 1,AirBiscuit by Catastrophe,,231
@@ -128,7 +122,6 @@ alba.bsp,quake/maps/single-map-zips/alba.zip,maps/alba.bsp,Quake 1,Albatross,Jö
 albatros.bsp,quake/maps/bsp/albatros.bsp,,Quake 1,Albatross,,854
 albatros.bsp,quake/maps/single-map-zips/albatros.zip,maps/albatros.bsp,Quake 1,Albatross,Jörgen Karlsson,854
 alcatraz.bsp,quake/maps/bsp/alcatraz.bsp,,Quake 1,escape from actaltraz,,2801
-alcyone.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/alcyone.bsp,Quake 1,Alcyone by hylke beck aka gibbie bech@geo.vu.nl april 1st 2005,,2503
 alcyone.bsp,quake/maps/bsp/alcyone.bsp,,Quake 1,Alcyone by hylke beck aka gibbie bech@geo.vu.nl april 1st 2005,,2503
 alcyone.bsp,quake/maps/single-map-zips/alcyone.zip,maps/alcyone.bsp,Quake 1,Alcyone by hylke beck aka gibbie bech@geo.vu.nl april 1st 2005,Hylke Beck aka gibbie,2503
 aldm1.bsp,quake/maps/bsp/aldm1.bsp,,Quake 1,The Waterin' Hole - by geezer,,462
@@ -139,7 +132,6 @@ alien.bsp,quake/maps/bsp/alien.bsp,,Quake 1,,,353
 alien.bsp,quake/maps/single-map-zips/alien.zip,maps/alien.bsp,Quake 1,Alien,CC_Scorpio,353
 alien42.bsp,quake/maps/bsp/alien42.bsp,,Quake 1,AlienBase .oOBetaTestOo. Map by VaLcRaG updates : www.frogstomp.demon.co.uk/quake/,,1993
 alk07.bsp,quake/maps/bsp/alk07.bsp,,Quake 1,Egyptian Myth,,1665
-alk08dm.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/alk08dm.bsp,Quake 1,Charmhood,,545
 alk08dm.bsp,quake/maps/bsp/alk08dm.bsp,,Quake 1,Charmhood,,545
 alk08dm.bsp,quake/maps/packs/quakeone_maps.zip,alk08dm.bsp,Quake 1,Charmhood,,545
 alk08dm.bsp,quake/maps/single-map-zips/alk08dm.zip,maps/alk08dm.bsp,Quake 1,Charmhood,Shaun Ross aka [Kona],545
@@ -187,10 +179,8 @@ amap.bsp,quake/maps/bsp/amap.bsp,,Quake 1,another map -clone,,1504
 amap.bsp,quake/maps/single-map-zips/amap.zip,maps/amap.bsp,Quake 1,another map -clone,,1504
 amen3.bsp,quake/maps/bsp/amen3.bsp,,Quake 1,,,720
 amen3.bsp,quake/maps/single-map-zips/amen3.zip,maps/amen3.bsp,Quake 1,Amenotep,Dilvish,720
-amphi.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/amphi.bsp,Quake 1,The AmphitheatrE,,118
 amphi.bsp,quake/maps/bsp/amphi.bsp,,Quake 1,The AmphitheatrE,,118
 amphi.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/amphi.bsp,Quake 1,The AmphitheatrE,,118
-amphi2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/amphi2.bsp,Quake 1,The Amphitheatre II,,152
 amphi2.bsp,quake/maps/bsp/amphi2.bsp,,Quake 1,The Amphitheatre II,,152
 amth1.bsp,quake/maps/bsp/amth1.bsp,,Quake 1,Amethyst v1 2002 by blip,,1045
 ananke.bsp,quake/maps/bsp/ananke.bsp,,Quake 1,Ananke 17,,2673
@@ -316,21 +306,16 @@ arena01.bsp,quake/maps/bsp/arena01.bsp,,Quake 1,DeathMatch Championships -------
 arena01.bsp,quake/maps/single-map-zips/arena01.zip,maps/arena01.bsp,Quake 1,DeathMatch Championships ------- ARENA (1) ------ Created By KHaNDMAn,Les Butler,718
 arena02.bsp,quake/maps/bsp/arena02.bsp,,Quake 1,Battle Ground Quaker Created by KHANDMAN,,704
 arena02.bsp,quake/maps/single-map-zips/arena02.zip,maps/arena02.bsp,Quake 1,Battle Ground Quaker Created by KHANDMAN,Les Butler,704
-arena1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/arena1.bsp,Quake 1,The Tendency,,66
 arena1.bsp,quake/maps/bsp/arena1.bsp,,Quake 1,,,175
 arena1.bsp,quake/maps/single-map-zips/arena1.zip,maps/arena1.bsp,Quake 1,Arena 1,Justin (chronos) Cunningham,175
-arena2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/arena2.bsp,Quake 1,The Octagon,,134
 arena2.bsp,quake/maps/bsp/arena2.bsp,,Quake 1,Arena 2!,,209
 arena2.bsp,quake/maps/single-map-zips/arena2.zip,maps/arena2.bsp,Quake 1,Arena 2!,Justin (chronos) Cunningham,209
-arena3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/arena3.bsp,Quake 1,Terrain : by Drastic_Man,,153
 arena3.bsp,quake/maps/bsp/arena3.bsp,,Quake 1,Terrain : by Drastic_Man,,153
 arena3.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/arena3.bsp,Quake 1,Terrain : by Drastic_Man,,153
 arena32.bsp,quake/maps/bsp/arena32.bsp,,Quake 1,"Arena of the Damned, 32 player ver. By: Oderus & FoG",,284
 arena32.bsp,quake/maps/single-map-zips/arena32.zip,maps/arena32.bsp,Quake 1,"Arena of the Damned, 32 player ver. By: Oderus & FoG",,284
-arena4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/arena4.bsp,Quake 1,Rage Arena by Nacho|rage,,185
 arena4.bsp,quake/maps/bsp/arena4.bsp,,Quake 1,Rage Arena by Nacho|rage,,185
 arena4.bsp,quake/maps/single-map-zips/arena4.zip,maps/arena4.bsp,Quake 1,Rage Arena by Nacho|rage,,185
-arena5.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/arena5.bsp,Quake 1,,,661
 arena5.bsp,quake/maps/bsp/arena5.bsp,,Quake 1,,,661
 arena5.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/arena5.bsp,Quake 1,,,661
 arena5.bsp,quake/maps/single-map-zips/arena5.zip,maps/arena5.bsp,Quake 1,,,661
@@ -344,9 +329,7 @@ arenarg5.bsp,quake/maps/bsp/arenarg5.bsp,,Quake 1,The Wicked Empty Base,,464
 arenarg6.bsp,quake/maps/bsp/arenarg6.bsp,,Quake 1,thE PiT,,249
 arenasix.bsp,quake/maps/bsp/arenasix.bsp,,Quake 1,A-R-E-N-A-S-I-X By Shockwave www.angelfire.com/id/powerhouse,,1591
 arenaw1.bsp,quake/maps/bsp/arenaw1.bsp,,Quake 1,Waiting Room of the Damned,,285
-arenax.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/arenax.bsp,Quake 1,ArenaX - http://www.planetquake.com/servers/arena,,220
 arenax.bsp,quake/maps/bsp/arenax.bsp,,Quake 1,ArenaX - http://www.planetquake.com/servers/arena,,220
-arenazap.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/arenazap.bsp,Quake 1,Zaphods Arena,,351
 arenazap.bsp,quake/maps/bsp/arenazap.bsp,,Quake 1,Zaphods Arena,,351
 arendm1a.bsp,quake/maps/bsp/arendm1a.bsp,,Quake 1,Place To Die,,198
 arenrg3a.bsp,quake/maps/bsp/arenrg3a.bsp,,Quake 1,Edge Of Insanity,,304
@@ -371,7 +354,6 @@ arma2.bsp,quake/maps/bsp/arma2.bsp,,Quake 1,Armageddon 2,,1065
 arma3.bsp,quake/maps/bsp/arma3.bsp,,Quake 1,Armageddon 3,,744
 arma3.bsp,quake/maps/single-map-zips/arma3.zip,maps/arma3.bsp,Quake 1,Armageddon 3,Matthias Worch,744
 arma3ctf.bsp,quake/maps/bsp/arma3ctf.bsp,,Quake 1,Armageddon 3 CTF,,1640
-arma4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/arma4.bsp,Quake 1,Armageddon 4,,436
 arma4.bsp,quake/maps/bsp/arma4.bsp,,Quake 1,Armageddon 4,,436
 armageddon.bsp,quake/maps/bsp/armageddon.bsp,,Quake 1,,,1547
 armorgod.bsp,quake/maps/bsp/armorgod.bsp,,Quake 1,armour of god,,1835
@@ -408,7 +390,6 @@ astrology.bsp,quake/maps/bsp/astrology.bsp,,Quake 1,,,320
 astrology.bsp,quake/maps/single-map-zips/astrology.zip,maps/astrology.bsp,Quake 1,,,320
 astrus.bsp,quake/maps/bsp/astrus.bsp,,Quake 1,Astrus Base,,1717
 asylum-ctf.bsp,quake/maps/bsp/asylum-ctf.bsp,,Quake 1,Mad's Asylum CTF (an ode to id maps) - by Forrest,,523
-asylum.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/asylum.bsp,Quake 1,The Asylum of Remorse,,1031
 asylum.bsp,quake/maps/bsp/asylum.bsp,,Quake 1,The Asylum of Remorse,,1031
 asylum.bsp,quake/maps/packs/quakeone_maps.zip,asylum.bsp,Quake 1,The Asylum of Remorse,,1031
 asylum.bsp,quake/maps/single-map-zips/asylum.zip,maps/asylum.bsp,Quake 1,The Asylum of Remorse,Charles Daniel,1031
@@ -437,7 +418,6 @@ atrena9.bsp,quake/maps/bsp/atrena9.bsp,,Quake 1,Leaps of Faith,,140
 aucons.bsp,quake/maps/bsp/aucons.bsp,,Quake 1,Aklai Underground Construction,,2776
 aucons.bsp,quake/maps/packs/quakeone_maps.zip,aucons.bsp,Quake 1,Aklai Underground Construction,,2776
 aucons.bsp,quake/maps/single-map-zips/aucons.zip,maps/aucons.bsp,Quake 1,Aklai Underground Construction,,2776
-auhdm1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/auhdm1.bsp,Quake 1,The Forgotten [by AuhsaN],,858
 auhdm1.bsp,quake/maps/bsp/auhdm1.bsp,,Quake 1,The Forgotten [by AuhsaN],,858
 auhdm1.bsp,quake/maps/single-map-zips/auhdm1.zip,maps/auhdm1.bsp,Quake 1,The Forgotten [by AuhsaN],Toni Jaume (Auhsan),858
 auhdm2.bsp,quake/maps/bsp/auhdm2.bsp,,Quake 1,Painful Memories - [Auhsan],,836

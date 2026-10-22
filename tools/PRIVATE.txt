@@ -1,0 +1,17 @@
+# Kept out of the public Hugging Face dataset; stored in the private dataset
+# Nomatter/dmq-server-files-private under the same paths.
+quake/engines/bpsQuake2014-01-17.rar
+quake/engines/bpsQuake2019-06-10.rar
+quake/engines/locke_nQuake_till_bp.zip
+misc/HexEditor_0.9.10_arm64.zip
+misc/JDownloaderSetup.exe
+misc/LiveSplit_1.8.16.zip
+misc/PluginManager_v1.4.12_x64.zip
+misc/VC_redist.x64.exe
+misc/VSCodeUserSetup-x64-1.61.2.exe
+misc/dotnet-sdk-5.0.402-win-x64.exe
+misc/httrack_x64-3.49.2.exe
+misc/jre-8u311-windows-x64.exe
+misc/newdir.txt
+misc/nppConvert.v4.3.x64.zip
+misc/settings_355_1M+.dat

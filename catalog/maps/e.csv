@@ -141,7 +141,6 @@ efdm6.bsp,quake/maps/bsp/efdm6.bsp,,Quake 1,efdm GunmetaL by MrFribbleS,,611
 efdm6.bsp,quake/maps/single-map-zips/efdm6.zip,maps/efdm6.bsp,Quake 1,efdm GunmetaL by MrFribbleS,Mr Fribbles,611
 efdm7.bsp,quake/maps/bsp/efdm7.bsp,,Quake 1,efdm biohazard by MrFribbleS fribbles@geocities.com,,767
 efdm7.bsp,quake/maps/single-map-zips/efdm7.zip,maps/efdm7.bsp,Quake 1,efdm biohazard by MrFribbleS fribbles@geocities.com,Mr Fribbles,767
-efdm8.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/efdm8.bsp,Quake 1,efdm cryptosporidium by MrFribbleS http://www.planetquake.com/frib/,,664
 efdm8.bsp,quake/maps/bsp/efdm8.bsp,,Quake 1,efdm cryptosporidium by MrFribbleS http://www.planetquake.com/frib/,,664
 efdm8.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/efdm8.bsp,Quake 1,efdm cryptosporidium by MrFribbleS http://www.planetquake.com/frib/,,664
 efdm8.bsp,quake/maps/single-map-zips/efdm8.zip,maps/efdm8.bsp,Quake 1,efdm cryptosporidium by MrFribbleS http://www.planetquake.com/frib/,Mr Fribbles,664
@@ -232,9 +231,8 @@ emptyplc.bsp,quake/maps/bsp/emptyplc.bsp,,Quake 1,The Empty Place,,315
 emptyplc.bsp,quake/maps/single-map-zips/emptyplc.zip,maps/emptyplc.bsp,Quake 1,The Empty Place,"Steve ""magicman"" Thoms",315
 end.bsp,quake/maps/bsp/end.bsp,,Quake 1,Shub-Niggurath's Pit,,681
 end_pre.bsp,quake/maps/bsp/end_pre.bsp,,Quake 1,Shub-Niggurath's Pit,,440
-enda.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/enda.bsp,Quake 1,Shub-Niggurath's Pit,,456
+enda.bsp,quake/maps/bsp/enda.bsp,,Quake 1,Shub-Niggurath's Pit,,456
 enddm.bsp,quake/maps/bsp/enddm.bsp,,Quake 1,Shub's Arena by vegetous,,223
-endif.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/endif.bsp,Quake 1,#endif - by yataze,,231
 endif.bsp,quake/maps/bsp/endif.bsp,,Quake 1,#endif - by yataze,,231
 endif.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/endif.bsp,Quake 1,#endif - by yataze,,231
 endif.bsp,quake/maps/packs/quakeone_maps.zip,endif.bsp,Quake 1,#endif - by yataze,,231
@@ -300,7 +298,6 @@ erkle9.bsp,quake/maps/bsp/erkle9.bsp,,Quake 1,Erkle's Domain,,407
 escape.bsp,quake/maps/bsp/escape.bsp,,Quake 1,,,1703
 escape1.bsp,quake/maps/bsp/escape1.bsp,,Quake 1,-=[ L E V E L 1 ]=- The Escape By Soul entities by Gnarler and Hardkore,,1104
 escape2.bsp,quake/maps/bsp/escape2.bsp,,Quake 1,-=[ L E V E L 2 ]=- The Escape By Soul Entites by Gnarler & Hardkore,,1742
-escape2a.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/escape2a.bsp,Quake 1,Intermission BIG CHILL,,1224
 escape2a.bsp,quake/maps/bsp/escape2a.bsp,,Quake 1,Intermission BIG CHILL,,1224
 escape2a.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/escape2a.bsp,Quake 1,Intermission BIG CHILL,,1224
 escape3.bsp,quake/maps/bsp/escape3.bsp,,Quake 1,-=[ L E V E L 3 ]=- The Escape By Soul Special Thanks to Gnarler and Hardkore For all the help and support!,,2444
@@ -364,7 +361,7 @@ exdm5.bsp,quake/maps/bsp/exdm5.bsp,,Quake 1,ESPRIT DE CORPSE by excessus,,1206
 exdm5.bsp,quake/maps/single-map-zips/exdm5.zip,maps/exdm5.bsp,Quake 1,ESPRIT DE CORPSE by excessus,"Carlos ""Excessus"" Sisí",1206
 exilea2r1.bsp,quake/maps/bsp/exilea2r1.bsp,,Quake 1,exile-alpha2 revision1,,248
 exilea2r1.bsp,quake/maps/single-map-zips/exilea2r1.zip,maps/exilea2r1.bsp,Quake 1,exile-alpha2 revision1,,248
-exileb1r6.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/exileb1r6.bsp,Quake 1,Exile - Beta 1 Revision 6 - by foogs,,1828
+exileb1r6.bsp,quake/maps/bsp/exileb1r6.bsp,,Quake 1,Exile - Beta 1 Revision 6 - by foogs,,1828
 exlsr.bsp,quake/maps/bsp/exlsr.bsp,,Quake 1,Excelsior by Greymon,,2123
 expctf1.bsp,quake/maps/bsp/expctf1.bsp,,Quake 1,Expert CTF I Nicole's Virtue *this(adistler@ace.cs.ohiou.edu),,1368
 expctf2.bsp,quake/maps/bsp/expctf2.bsp,,Quake 1,Expert Base - Myrkul and Publius,,1762

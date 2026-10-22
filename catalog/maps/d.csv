@@ -29,12 +29,10 @@ d_route3.bsp,quake/maps/bsp/d_route3.bsp,,Quake 1,The Defended Route ver.3,,665
 da.bsp,quake/maps/bsp/da.bsp,,Quake 1,death arena,,288
 da.bsp,quake/maps/single-map-zips/da.zip,maps/da.bsp,Quake 1,death arena,Genezis,288
 da_man.bsp,quake/maps/bsp/da_man.bsp,,Quake 1,Workin' for da man! Bishop ICBM,,972
-dad.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dad.bsp,Quake 1,Dad`s Playground,,1359
 dad.bsp,quake/maps/bsp/dad.bsp,,Quake 1,Dad`s Playground,,1359
 dad.bsp,quake/maps/single-map-zips/dad.zip,maps/dad.bsp,Quake 1,Dad`s Playground,,1359
 dad1.bsp,quake/maps/bsp/dad1.bsp,,Quake 1,death at dawn by meTch,,565
 dad1.bsp,quake/maps/single-map-zips/dad1.zip,maps/dad1.bsp,Quake 1,death at dawn by meTch,,565
-dad2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dad2.bsp,Quake 1,Dad`s Playground 2,,1455
 dad2.bsp,quake/maps/bsp/dad2.bsp,,Quake 1,Dad`s Playground 2,,1455
 dad2.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/dad2.bsp,Quake 1,Dad`s Playground 2,,1455
 dad2.bsp,quake/maps/single-map-zips/dad2.zip,maps/dad2.bsp,Quake 1,Dad`s Playground 2,,1455
@@ -59,7 +57,6 @@ damaul2.bsp,quake/maps/bsp/damaul2.bsp,,Quake 1,Reign In Blood By DaMaul,,1796
 damaul2.bsp,quake/maps/single-map-zips/damaul2.zip,maps/damaul2.bsp,Quake 1,Reign In Blood By DaMaul,,1796
 damaul4.bsp,quake/maps/bsp/damaul4.bsp,,Quake 1,The Burning Darkness By DaMaul,,660
 damaul4.bsp,quake/maps/single-map-zips/damaul4.zip,maps/damaul4.bsp,Quake 1,The Burning Darkness By DaMaul,"John ""DaMaul"" McCann",660
-damaul7.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/damaul7.bsp,Quake 1,.The Temple of Tanktarta. By DaMaul,,1019
 damaul7.bsp,quake/maps/bsp/damaul7.bsp,,Quake 1,The Temple of Tanktarta By DaMaul,,999
 damaul71.bsp,quake/maps/bsp/damaul71.bsp,,Quake 1,The Temple of Tanktarta By DaMaul,,999
 dance.bsp,quake/maps/bsp/dance.bsp,,Quake 1,The Dance Floor by Torpedo,,215
@@ -117,10 +114,8 @@ dark-planet-ffa.bsp,quake/maps/bsp/dark-planet-ffa.bsp,,Quake 1,Dark Planet FFA 
 dark-planet-ffa.bsp,quake/maps/single-map-zips/dark-planet-ffa.zip,maps/dark-planet-ffa.bsp,Quake 1,Dark Planet FFA Version - By Tiddles - Thanks Swing aka Megaman For The Help With Items,,1550
 dark-planet.bsp,quake/maps/bsp/dark-planet.bsp,,Quake 1,Dark Planet - By Tiddles,,1551
 dark-planet.bsp,quake/maps/single-map-zips/dark-planet.zip,maps/dark-planet.bsp,Quake 1,Dark Planet - By Tiddles,,1551
-dark-storm-ffa.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dark-storm-ffa.bsp,Quake 1,Dark Storm - By Tiddles,,1244
 dark-storm-ffa.bsp,quake/maps/bsp/dark-storm-ffa.bsp,,Quake 1,Dark Storm - By Tiddles,,1244
 dark-storm-ffa.bsp,quake/maps/single-map-zips/dark-storm-ffa.zip,maps/dark-storm-ffa.bsp,Quake 1,Dark Storm - By Tiddles,,1244
-dark-terror-ffa.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dark-terror-ffa.bsp,Quake 1,Dark Terror - By Tiddles,,1547
 dark-terror-ffa.bsp,quake/maps/bsp/dark-terror-ffa.bsp,,Quake 1,Dark Terror - By Tiddles,,1547
 dark-terror-ffa.bsp,quake/maps/single-map-zips/dark-terror-ffa.zip,maps/dark-terror-ffa.bsp,Quake 1,Dark Terror - By Tiddles,,1547
 dark.bsp,quake/maps/bsp/dark.bsp,,Quake 1,place of the darkness,,259
@@ -258,7 +253,6 @@ death32a.bsp,quake/maps/bsp/death32a.bsp,,Quake 1,Death32a,,1804
 death32a.bsp,quake/maps/single-map-zips/death32a.zip,maps/death32a.bsp,Quake 1,Death32a,,1804
 death32b.bsp,quake/maps/bsp/death32b.bsp,,Quake 1,Death32b,,1879
 death32b.bsp,quake/maps/single-map-zips/death32b.zip,maps/death32b.bsp,Quake 1,Death32b,,1879
-death32c.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/death32c.bsp,Quake 1,Death32c,,1880
 death32c.bsp,quake/maps/bsp/death32c.bsp,,Quake 1,Death32c,,1877
 death32c.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/death32c.bsp,Quake 1,Death32c,,1877
 death32c.bsp,quake/maps/single-map-zips/death32c.zip,maps/death32c.bsp,Quake 1,Death32c,,1880
@@ -287,7 +281,6 @@ deathtow.bsp,quake/maps/single-map-zips/deathtow.zip,maps/deathtow.bsp,Quake 1,D
 deathv2.bsp,quake/maps/bsp/deathv2.bsp,,Quake 1,,,634
 deathv2.bsp,quake/maps/single-map-zips/deathv2.zip,maps/deathv2.bsp,Quake 1,,Kevin Schleicher,634
 deathx3.bsp,quake/maps/bsp/deathx3.bsp,,Quake 1,TF 1.3: deathx,,251
-debello.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/debello.bsp,Quake 1,De Bello Quakero,,801
 debello.bsp,quake/maps/bsp/debello.bsp,,Quake 1,De Bello Quakero,,801
 debello.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/debello.bsp,Quake 1,De Bello Quakero,,801
 debello.bsp,quake/maps/single-map-zips/debello.zip,maps/debello.bsp,Quake 1,De Bello Quakero,Adriano Lorenzini (aka Escher),801
@@ -454,7 +447,6 @@ dm1a.bsp,quake/maps/bsp/dm1a.bsp,,Quake 1,Place of Two Deaths,,534
 dm1a.bsp,quake/maps/single-map-zips/dm1a.zip,maps/dm1a.bsp,Quake 1,Place of Two Deaths,,534
 dm1dm01.bsp,quake/maps/bsp/dm1dm01.bsp,,Quake 1,Thy Neverending Pain,,463
 dm1dm01.bsp,quake/maps/single-map-zips/dm1dm01.zip,maps/dm1dm01.bsp,Quake 1,Thy Neverending Pain,Alex Andreu (Deathmonger),463
-dm1ex.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dm1ex.bsp,Quake 1,Place of Two Deaths - Modified version by Ibsen,,534
 dm1ex.bsp,quake/maps/bsp/dm1ex.bsp,,Quake 1,Place of Two Deaths - Modified version by Ibsen,,534
 dm1ex.bsp,quake/maps/single-map-zips/dm1ex.zip,maps/dm1ex.bsp,Quake 1,Place of Two Deaths - Modified version by Ibsen,,534
 dm1hr.bsp,quake/maps/bsp/dm1hr.bsp,,Quake 1,The Suffocating Vault,,661
@@ -471,7 +463,6 @@ dm2arena.bsp,quake/maps/bsp/dm2arena.bsp,,Quake 1,Claustarena,,399
 dm2arena.bsp,quake/maps/single-map-zips/dm2arena.zip,maps/dm2arena.bsp,Quake 1,Claustarena,,399
 dm2back.bsp,quake/maps/bsp/dm2back.bsp,,Quake 1,Claustrophobackolis,,1008
 dm2back.bsp,quake/maps/single-map-zips/dm2back.zip,maps/dm2back.bsp,Quake 1,Claustrophobackolis,,1008
-dm2dmm4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dm2dmm4.bsp,Quake 1,DM2 - DMM4 Edition,,506
 dm2dmm4.bsp,quake/maps/bsp/dm2dmm4.bsp,,Quake 1,DM2 - DMM4 Edition,,506
 dm2dmm4.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/dm2dmm4.bsp,Quake 1,DM2 - DMM4 Edition,,506
 dm2dmm4.bsp,quake/maps/single-map-zips/dm2dmm4.zip,maps/dm2dmm4.bsp,Quake 1,DM2 - DMM4 Edition,,506
@@ -496,7 +487,6 @@ dm3again.bsp,quake/maps/packs/quakeone_maps.zip,dm3again.bsp,Quake 1,the alterna
 dm3again.bsp,quake/maps/single-map-zips/dm3again.zip,maps/dm3again.bsp,Quake 1,the alternate base,,1061
 dm3again5.bsp,quake/maps/bsp/dm3again5.bsp,,Quake 1,the alternate base,,798
 dm3fort.bsp,quake/maps/bsp/dm3fort.bsp,,Quake 1,The Abandoned Base Team Fortress Version By: KillJoyFOLD of the Collective,,1015
-dm3hill.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dm3hill.bsp,Quake 1,DM3 Hill  by bABy rOo!,,327
 dm3hill.bsp,quake/maps/bsp/dm3hill.bsp,,Quake 1,DM3 Hill  by bABy rOo!,,327
 dm3hill.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/dm3hill.bsp,Quake 1,DM3 Hill  by bABy rOo!,,327
 dm3i98.bsp,quake/maps/bsp/dm3i98.bsp,,Quake 1,The Abandoned Base,,927
@@ -512,15 +502,12 @@ dm3rmx.bsp,quake/maps/bsp/dm3rmx.bsp,,Quake 1,The Occupied Base,,3895
 dm4-gpltest.bsp,quake/maps/bsp/dm4-gpltest.bsp,,Quake 1,The Bad Place,,331
 dm4-gpltest.bsp,quake/maps/single-map-zips/dm4-gpltest.zip,maps/dm4-gpltest.bsp,Quake 1,The Bad Place,,331
 dm4.bsp,quake/maps/bsp/dm4.bsp,,Quake 1,The Bad Place,,485
-dm4a.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dm4a.bsp,Quake 1,The Bad Place - vb edit,,346
 dm4a.bsp,quake/maps/bsp/dm4a.bsp,,Quake 1,,,426
 dm4a.bsp,quake/maps/single-map-zips/dm4a.zip,maps/dm4a.bsp,Quake 1,Dm4a ( the Even Worse Place ),Dylan Barber,426
-dm4back.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dm4back.bsp,Quake 1,The Back Place http://povo-hat.besmella-quake.com/,,369
 dm4back.bsp,quake/maps/bsp/dm4back.bsp,,Quake 1,The Back Place http://povo-hat.besmella-quake.com/,,369
 dm4back.bsp,quake/maps/single-map-zips/dm4back.zip,maps/dm4back.bsp,Quake 1,The Back Place http://povo-hat.besmella-quake.com/,,369
 dm4dmm4.bsp,quake/maps/bsp/dm4dmm4.bsp,,Quake 1,the bad place,,232
 dm4int.bsp,quake/maps/bsp/dm4int.bsp,,Quake 1,DM4-ish by Aardappel with intermission adaption by hardkore,,391
-dm4ish.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dm4ish.bsp,Quake 1,DM4-ish by Aardappel,,390
 dm4ish.bsp,quake/maps/bsp/dm4ish.bsp,,Quake 1,DM4-ish by Aardappel,,390
 dm4ish.bsp,quake/maps/packs/dm4ish.zip,dm4ish.bsp,Quake 1,DM4-ish by Aardappel,,390
 dm4ish.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/dm4ish.bsp,Quake 1,DM4-ish by Aardappel,,390
@@ -528,7 +515,7 @@ dm4ish.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/dm4ish.bsp,Quake 1,
 dm4ish.bsp,quake/maps/single-map-zips/dm4ish.zip,maps/dm4ish.bsp,Quake 1,DM4-ish by Aardappel,Aardappel    (Wouter van Oortmerssen),390
 dm4ishq2.bsp,other-games/quake2/dm4ishq2.zip,dm4ishq2.bsp,Quake 2,DM4-ish for Q2 by Aardappel,,403
 dm4ishq2.bsp,other-games/quake2/maps/dm4ishq2.bsp,,Quake 2,DM4-ish for Q2 by Aardappel,,403
-dm4new.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dm4new.bsp,Quake 1,The Bad Place,,368
+dm4new.bsp,quake/maps/bsp/dm4new.bsp,,Quake 1,The Bad Place,,368
 dm4plus.bsp,quake/maps/bsp/dm4plus.bsp,,Quake 1,The Bad Place,,432
 dm4plus.bsp,quake/maps/single-map-zips/dm4plus.zip,maps/dm4plus.bsp,Quake 1,The Bad Place,,432
 dm4rq.bsp,quake/maps/bsp/dm4rq.bsp,,Quake 1,The Mad Plaice,,773
@@ -552,7 +539,6 @@ dm666.bsp,quake/maps/bsp/dm666.bsp,,Quake 1,Entering THREDLEVEL,,445
 dm666.bsp,quake/maps/single-map-zips/dm666.zip,maps/dm666.bsp,Quake 1,Entering THREDLEVEL,Ravi Luthra,445
 dm69.bsp,quake/maps/bsp/dm69.bsp,,Quake 1,The House of Blues,,319
 dm69.bsp,quake/maps/single-map-zips/dm69.zip,maps/dm69.bsp,Quake 1,The House of Blues,,319
-dm6dmm4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dm6dmm4.bsp,Quake 1,"The Dark Zone for DMM4. Idea: glad, mapping: skar. GL!",,246
 dm6dmm4.bsp,quake/maps/bsp/dm6dmm4.bsp,,Quake 1,"The Dark Zone for DMM4. Idea: glad, mapping: skar. GL!",,246
 dm6f99.bsp,quake/maps/bsp/dm6f99.bsp,,Quake 1,The Dark Zone For Flipside ' By EXCEL,,445
 dm6f99.bsp,quake/maps/single-map-zips/dm6f99.zip,maps/dm6f99.bsp,Quake 1,The Dark Zone For Flipside ' By EXCEL,,445
@@ -721,24 +707,15 @@ dmhous.bsp,other-games/quake2/maps/dmhous.bsp,,Quake 2,,,430
 dmj2.bsp,quake/maps/bsp/dmj2.bsp,,Quake 1,,,768
 dmj2.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/dmj2.bsp,Quake 1,,,768
 dmj2.bsp,quake/maps/single-map-zips/dmj2.zip,maps/dmj2.bsp,Quake 1,Dmj2,,768
-dmm4_1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_1.bsp,Quake 1,dmm4_1 by aard,,99
 dmm4_1.bsp,quake/maps/bsp/dmm4_1.bsp,,Quake 1,dmm4_1 by aard,,99
 dmm4_1.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/dmm4_1.bsp,Quake 1,dmm4_1 by aard,,99
-dmm4_2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_2.bsp,Quake 1,dmm4_2 by aard,,147
 dmm4_2.bsp,quake/maps/bsp/dmm4_2.bsp,,Quake 1,dmm4_2 by aard,,147
-dmm4_3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_3.bsp,Quake 1,dmm4_3 by aard,,133
 dmm4_3.bsp,quake/maps/bsp/dmm4_3.bsp,,Quake 1,dmm4_3 by aard,,133
-dmm4_4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_4.bsp,Quake 1,dmm4_4 by aard,,72
 dmm4_4.bsp,quake/maps/bsp/dmm4_4.bsp,,Quake 1,dmm4_4 by aard,,72
-dmm4_5.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_5.bsp,Quake 1,dmm4_5 by aard,,74
 dmm4_5.bsp,quake/maps/bsp/dmm4_5.bsp,,Quake 1,dmm4_5 by aard,,74
-dmm4_6.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_6.bsp,Quake 1,dmm4_6 by aard,,155
 dmm4_6.bsp,quake/maps/bsp/dmm4_6.bsp,,Quake 1,dmm4_6 by aard,,155
-dmm4_7.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_7.bsp,Quake 1,dmm4_7 by aard,,73
 dmm4_7.bsp,quake/maps/bsp/dmm4_7.bsp,,Quake 1,dmm4_7 by aard,,73
-dmm4_8.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_8.bsp,Quake 1,dmm4_8 by aard,,197
 dmm4_8.bsp,quake/maps/bsp/dmm4_8.bsp,,Quake 1,dmm4_8 by aard,,197
-dmm4_9.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmm4_9.bsp,Quake 1,dmm4_8 by aard,,33
 dmm4_9.bsp,quake/maps/bsp/dmm4_9.bsp,,Quake 1,dmm4_8 by aard,,33
 dmmp.bsp,quake/maps/bsp/dmmp.bsp,,Quake 1,DMMP verze z 1.11.1998 Autor Martin Petricek (Email:petricm@feld.cvut.cz WWW:http://members.xoom.com/petricm),,891
 dmmp.bsp,quake/maps/single-map-zips/dmmp.zip,maps/dmmp.bsp,Quake 1,DMMP verze z 1.11.1998 Autor Martin Petricek (Email:petricm@feld.cvut.cz WWW:http://members.xoom.com/petricm),,891
@@ -802,7 +779,6 @@ dmusic.bsp,quake/maps/single-map-zips/dmusic.zip,maps/dmusic.bsp,Quake 1,Music D
 dmz.bsp,quake/maps/bsp/dmz.bsp,,Quake 1,Kickin it at the DMZ!,,1183
 dmz.bsp,quake/maps/packs/dmz.zip,dmz.bsp,Quake 1,Kickin it at the DMZ!,,1183
 dmz.bsp,quake/maps/single-map-zips/dmz.zip,maps/dmz.bsp,Quake 1,Kickin it at the DMZ!,Drakkon (C.D. Roberts),1183
-dmz1++.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dmz1++.bsp,Quake 1,dmz1++,,626
 dmz1++.bsp,quake/maps/bsp/dmz1++.bsp,,Quake 1,dmz1++,,626
 dmzap.bsp,quake/maps/bsp/dmzap.bsp,,Quake 1,,,888
 dmzap.bsp,quake/maps/single-map-zips/dmzap.zip,maps/dmzap.bsp,Quake 1,DM-Zap,Jay Gill,888
@@ -894,7 +870,6 @@ doomcasl.bsp,quake/maps/bsp/doomcasl.bsp,,Quake 1,Doom Castle,,906
 doome1m1.bsp,quake/maps/bsp/doome1m1.bsp,,Quake 1,Doom E1M1: Hangar - by NeoRider,,646
 doome1m1.bsp,quake/maps/single-map-zips/doome1m1.zip,maps/doome1m1.bsp,Quake 1,Doom E1M1: Hangar - by NeoRider,,646
 doome1m7.bsp,quake/maps/bsp/doome1m7.bsp,,Quake 1,Return to Phobos,,2088
-doomed.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/doomed.bsp,Quake 1,Doomed by Zaka,,700
 doomed.bsp,quake/maps/bsp/doomed.bsp,,Quake 1,Doomed by Zaka,,700
 doomed.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/doomed.bsp,Quake 1,Doomed by Zaka,,700
 doomed.bsp,quake/maps/single-map-zips/doomed.zip,maps/doomed.bsp,Quake 1,Doomed by Zaka,,700
@@ -940,7 +915,6 @@ dranzdm4.bsp,quake/maps/bsp/dranzdm4.bsp,,Quake 1,Diving Faces - by Drannerz,,99
 dranzdm4.bsp,quake/maps/single-map-zips/dranzdm4.zip,maps/dranzdm4.bsp,Quake 1,Diving Faces - by Drannerz,"Chris ""Drannerz"" Dransfield",998
 dranzdm5.bsp,quake/maps/bsp/dranzdm5.bsp,,Quake 1,Mezzanine - by Drannerz,,551
 dranzdm5.bsp,quake/maps/single-map-zips/dranzdm5.zip,maps/dranzdm5.bsp,Quake 1,Mezzanine - by Drannerz,,551
-dranzdm6.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/dranzdm6.bsp,Quake 1,Black Coffee - by Drannerz,,1488
 dranzdm6.bsp,quake/maps/bsp/dranzdm6.bsp,,Quake 1,Black Coffee - by Drannerz,,1488
 dranzdm6.bsp,quake/maps/single-map-zips/dranzdm6.zip,maps/dranzdm6.bsp,Quake 1,Black Coffee - by Drannerz,"Chris ""Drannerz"" Dransfield",1488
 dranzdm7.bsp,quake/maps/bsp/dranzdm7.bsp,,Quake 1,Purple Haze - by Drannerz,,2991

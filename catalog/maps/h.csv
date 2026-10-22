@@ -6,7 +6,6 @@ h20.bsp,quake/maps/bsp/h20.bsp,,Quake 1,h20,,642
 h20.bsp,quake/maps/single-map-zips/h20.zip,maps/h20.bsp,Quake 1,h20,,642
 h2h.bsp,quake/maps/bsp/h2h.bsp,,Quake 1,Head2Head,,158
 h2h.bsp,quake/maps/single-map-zips/h2h.zip,maps/h2h.bsp,Quake 1,Head2Head,Tristan Panek (Phreak),158
-h4rdcore.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/h4rdcore.bsp,Quake 1,The Hardcore Forts v.4 design: LowtekM eyecandy: NeVeckM,,1040
 h4rdcore.bsp,quake/maps/bsp/h4rdcore.bsp,,Quake 1,The Hardcore Forts v.4 design: LowtekM eyecandy: NeVeckM,,1040
 h4rdcorefel.bsp,quake/maps/bsp/h4rdcorefel.bsp,,Quake 1,The Hardcore Forts v.4 design: LowtekM eyecandy: NeVeckM,,1040
 h4rdcoresta.bsp,quake/maps/bsp/h4rdcoresta.bsp,,Quake 1,STA MTF Division The Hardcore Forts v.4 design: LowtekM eyecandy: NeVeckM,,1036
@@ -43,9 +42,7 @@ haloh2.bsp,quake/maps/single-map-zips/haloh2.zip,maps/haloh2.bsp,Quake 1,Death32
 haloween.bsp,quake/maps/bsp/haloween.bsp,,Quake 1,"Happy Halloween! v.10.30.98 by DyerMaker, MD. sounds by Ambush, MD.  MegaTF v10.30 req'd",,825
 hammer.bsp,quake/maps/bsp/hammer.bsp,,Quake 1,Thor's Hammer by Anzuhan,,263
 hammer.bsp,quake/maps/single-map-zips/hammer.zip,maps/hammer.bsp,Quake 1,Thor's Hammer by Anzuhan,,263
-hammerv2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/hammerv2.bsp,Quake 1,Thor's Hammer v2 by ane,,300
 hammerv2.bsp,quake/maps/bsp/hammerv2.bsp,,Quake 1,Thor's Hammer v2 by ane,,300
-hammerv3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/hammerv3.bsp,Quake 1,Thor's Hammer v3 by ane,,179
 hammerv3.bsp,quake/maps/bsp/hammerv3.bsp,,Quake 1,Thor's Hammer v3 by ane,,179
 hammerv3.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/hammerv3.bsp,Quake 1,Thor's Hammer v3 by ane,,179
 hammo1.bsp,quake/maps/bsp/hammo1.bsp,,Quake 1,,,463
@@ -79,7 +76,6 @@ harmdm1.bsp,quake/maps/single-map-zips/harmdm1.zip,maps/harmdm1.bsp,Quake 1,the 
 harmsway.bsp,quake/maps/bsp/harmsway.bsp,,Quake 1,Harm's Way,,2086
 harpoon.bsp,quake/maps/bsp/harpoon.bsp,,Quake 1,Harpoon - by cheshire,,862
 harpoon.bsp,quake/maps/single-map-zips/harpoon.zip,maps/harpoon.bsp,Quake 1,Harpoon - by cheshire,Cheshire (Adam Quigley),862
-hate.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/hate.bsp,Quake 1,hatebreederbyqurnel,,807
 hate.bsp,quake/maps/bsp/hate.bsp,,Quake 1,hatebreederbyqurnel,,807
 hate.bsp,quake/maps/single-map-zips/hate.zip,maps/hate.bsp,Quake 1,hatebreederbyqurnel,Kornel [QurneL] Paszkowski,807
 haunt.bsp,quake/maps/bsp/haunt.bsp,,Quake 1,The Haunted - By Gilt,,585
@@ -119,7 +115,6 @@ hcq1.bsp,quake/maps/bsp/hcq1.bsp,,Quake 1,,,466
 hcq1.bsp,quake/maps/single-map-zips/hcq1.zip,maps/hcq1.bsp,Quake 1,HCQ1,Hippie Jim,466
 hcq3.bsp,quake/maps/bsp/hcq3.bsp,,Quake 1,,,228
 hcq3.bsp,quake/maps/single-map-zips/hcq3.zip,maps/hcq3.bsp,Quake 1,HCQ3,Hippie Jim,228
-hd1a.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/hd1a.bsp,Quake 1,Helium Dreams,,1297
 hd1a.bsp,quake/maps/bsp/hd1a.bsp,,Quake 1,Helium Dreams,,1297
 hdm1.bsp,quake/maps/bsp/hdm1.bsp,,Quake 1,?spine v2? qonference '98 tournament map rev. 2.0 by headshot,,470
 hdm1.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/hdm1.bsp,Quake 1,?spine v2? qonference '98 tournament map rev. 2.0 by headshot,,470
@@ -145,7 +140,6 @@ hdm7.bsp,quake/maps/single-map-zips/hdm7.zip,maps/hdm7.bsp,Quake 1,QuakeAddictio
 hdm8.bsp,quake/maps/bsp/hdm8.bsp,,Quake 1,Blood Run,,403
 hdm8.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/hdm8.bsp,Quake 1,Blood Run,,403
 hdm8.bsp,quake/maps/single-map-zips/hdm8.zip,maps/hdm8.bsp,Quake 1,Blood Run,,403
-head-shot.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/head-shot.bsp,Quake 1,"Head Shot - By Tiddles (thanks for the help - buffy, iced, fucu, and bain)",,1124
 head-shot.bsp,quake/maps/bsp/head-shot.bsp,,Quake 1,"Head Shot - By Tiddles (thanks for the help - buffy, iced, fucu, and bain)",,1124
 head-shot.bsp,quake/maps/packs/quakeone_maps.zip,head-shot.bsp,Quake 1,"Head Shot - By Tiddles (thanks for the help - buffy, iced, fucu, and bain)",,1124
 head-shot.bsp,quake/maps/single-map-zips/head-shot.zip,maps/head-shot.bsp,Quake 1,"Head Shot - By Tiddles (thanks for the help - buffy, iced, fucu, and bain)",,1124
@@ -262,7 +256,6 @@ hipark.bsp,quake/maps/single-map-zips/hipark.zip,maps/hipark.bsp,Quake 1,High Pa
 hipdm1.bsp,quake/maps/bsp/hipdm1.bsp,,Quake 1,the Edge of Oblivion,,717
 hipdm1.bsp,quake/maps/packs/quakeone_maps.zip,hipdm1.bsp,Quake 1,the Edge of Oblivion,,717
 hipend.bsp,quake/maps/bsp/hipend.bsp,,Quake 1,Armagon's Lair,,632
-hippos.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/hippos.bsp,Quake 1,Hippos! by Terata/JStatz,,292
 hippos.bsp,quake/maps/bsp/hippos.bsp,,Quake 1,Hippos! by Terata/JStatz,,292
 hippos.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/hippos.bsp,Quake 1,Hippos! by Terata/JStatz,,292
 hipside.bsp,quake/maps/bsp/hipside.bsp,,Quake 1,The Hipside,,963
@@ -288,7 +281,6 @@ hod.bsp,quake/maps/single-map-zips/hod.zip,maps/hod.bsp,Quake 1,Hall Of Death...
 hof.bsp,quake/maps/bsp/hof.bsp,,Quake 1,Entering JONLEVEL,,438
 hof.bsp,quake/maps/single-map-zips/hof.zip,maps/hof.bsp,Quake 1,Entering JONLEVEL,LongShlong,438
 hofrags.bsp,quake/maps/bsp/hofrags.bsp,,Quake 1,House of Frags,,627
-hohoho.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/hohoho.bsp,Quake 1,Merry Fraggin' X-Mas,,381
 hohoho.bsp,quake/maps/bsp/hohoho.bsp,,Quake 1,Merry Fraggin' X-Mas,,381
 hohoho.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/hohoho.bsp,Quake 1,Merry Fraggin' X-Mas,,381
 hohoho.bsp,quake/maps/single-map-zips/hohoho.zip,maps/hohoho.bsp,Quake 1,Merry Fraggin' X-Mas,Hafhead (Tony Hafner),381
@@ -319,12 +311,10 @@ hop.bsp,quake/maps/single-map-zips/hop.zip,maps/hop.bsp,Quake 1,Entering the Hou
 hop1.bsp,quake/maps/bsp/hop1.bsp,,Quake 1,,,311
 hop3.bsp,quake/maps/bsp/hop3.bsp,,Quake 1,,,579
 hop_high.bsp,quake/maps/bsp/hop_high.bsp,,Quake 1,,,311
-hoppa2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/hoppa2.bsp,Quake 1,hoppa2,,1216
 hoppa2.bsp,quake/maps/bsp/hoppa2.bsp,,Quake 1,hoppa2,,1216
 hoppa2.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/hoppa2.bsp,Quake 1,hoppa2,,1216
 hoppnmad.bsp,quake/maps/bsp/hoppnmad.bsp,,Quake 1,Hopping Mad,,878
 hoppnmad.bsp,quake/maps/single-map-zips/hoppnmad.zip,maps/hoppnmad.bsp,Quake 1,Hopping Mad,Richard Dale Carlson,878
-horatio.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/horatio.bsp,Quake 1,Horatio's Map,,134
 horatio.bsp,quake/maps/bsp/horatio.bsp,,Quake 1,Horatio's Map,,134
 horatio.bsp,quake/maps/single-map-zips/horatio.zip,maps/horatio.bsp,Quake 1,Horatio's Map,,134
 horrid.bsp,quake/maps/bsp/horrid.bsp,,Quake 1,Horripalatia,,1819

@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/maps-10%20963-e08a2c?style=for-the-badge" alt="10 963 maps">
-  <img src="https://img.shields.io/badge/size-9.3%20GiB-7a2e12?style=for-the-badge" alt="9.3 GiB">
+  <img src="https://img.shields.io/badge/maps-10%20758-e08a2c?style=for-the-badge" alt="10 758 maps">
+  <img src="https://img.shields.io/badge/size-8.6%20GiB-7a2e12?style=for-the-badge" alt="8.6 GiB">
   <img src="https://img.shields.io/badge/collected%20over-almost%2030%20years-4a2a1a?style=for-the-badge" alt="almost 30 years">
 </p>
 
@@ -17,9 +17,9 @@ collection in one place.
 
 | | |
 |---|---|
-| 📦 **Download everything** | [Hugging Face dataset](https://huggingface.co/datasets/Nomatter/dmq-server-files): every file, 9.3 GiB |
+| 📦 **Download everything** | [Hugging Face dataset](https://huggingface.co/datasets/Nomatter/dmq-server-files): every file, 8.6 GiB |
 | 📖 **What is in it** | [What's inside](#-whats-inside), further down this page: every item, what it is and who made it |
-| 🔎 **Find a map** | [Maps by letter](catalog/README.md#maps-by-first-letter): all 10 963 maps with in-game titles and authors |
+| 🔎 **Find a map** | [Maps by letter](catalog/README.md#maps-by-first-letter): all 10 758 maps with in-game titles and authors |
 | 🗜️ **Look inside archives** | [Archive contents per folder](catalog/README.md#inside-the-archives-per-folder): every file in every zip/rar/7z |
 | 📊 **Folder overview** | [CATALOG.md](CATALOG.md): file counts and sizes per folder |
 
@@ -74,7 +74,7 @@ to yellow (high); teleporters and liquids are blue.
 
 ## 📦 What's inside
 
-**At a glance:** 10 963 maps (6 731 unique), the DMQ 2 and DMC Pro source
+**At a glance:** 10 758 maps (6 731 unique), the DMQ 2 and DMC Pro source
 code, Rocket Arena and Clan Arena (server and QuakeC source), Threewave CTF,
 Team Fortress, id Software's Quake source, classic map editors and compilers,
 QuakeWorld server tools, and the old dmq.geeky.cc website. Descriptions below
@@ -116,7 +116,7 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 
 | Path | What it is |
 |---|---|
-| `quake/maps/bsp/` | 6 526 loose Quake 1 maps. Browse them [by letter](catalog/README.md) with titles and authors |
+| `quake/maps/bsp/` | 6 543 loose Quake 1 maps. Browse them [by letter](catalog/README.md) with titles and authors |
 | `quake/maps/single-map-zips/` | 3 331 maps as originally released, each zip with its author readme (`.txt` next to it). This is the unpacked content of `deathmatch-maps.zip` |
 | `quake/maps/packs/deathmatch-maps.zip` | **The big one (1 GB):** the same 5 330 files as `single-map-zips/` (identical names and sizes), kept as the original download |
 | `quake/maps/packs/RA-maps.rar` | Rocket Arena map pack: 99 files (gnurena, macarena, marena2/3, iarena2 …) |
@@ -179,8 +179,6 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `quake/engines/quakespasm-0.94.2_win64.zip` | QuakeSpasm 0.94.2 |
 | `quake/engines/qw230.zip` | QuakeWorld client 2.30 (1998) |
 | `quake/engines/q101-106.zip`, `quake108.zip` | Official Quake 1.01→1.06 patch (Oct 1996) and Quake 1.08 exe |
-| `quake/engines/locke_nQuake_till_bp.zip` | nQuake / ezQuake build folders |
-| `quake/engines/bpsQuake2014-01-17.rar`, `bpsQuake2019-06-10.rar` | Complete personal ezQuake installs with configs, from 2014 and 2019 |
 | `quake/engines/Quake compat Kurok PC.rar` | Kurok-compatible DarkPlaces setup |
 | `quake/engines/QuakePatches_Win_x64.7z` | QuakePatches for the 2021 remaster (16 players, lobby fixes …) |
 
@@ -233,12 +231,6 @@ mostly by **PIX**, based on DMC Pro by TrenD*KilleR.
 | `other-games/quake3/` | Quake 3 maps (Q1 DM remakes: The Bad Place, The Cistern, The Dark Zone, Acrophobia; Aardappel's and Kit Carson's maps), Rocket Arena 3 soundtrack, Q2→Q3 converter |
 | `other-games/doom/` | Doom 1.8 WAD and GZDoom 4.7.1 |
 
-### 📎 Misc
-
-`misc/` holds installers that were part of the collection but are not Quake
-content (VSCode, .NET SDK, Java, JDownloader, HTTrack, GameRanger, LiveSplit,
-Notepad++ plugins) plus `newdir.txt`, an old directory listing.
-
 <details>
 <summary><b>📂 Folder layout</b> (click to open)</summary>
 
@@ -254,18 +246,17 @@ Notepad++ plugins) plus `newdir.txt`, an old directory listing.
 | `dmc/maps/` | Standard DMC maps, the dmc.wad textures and 11 loose Half-Life-engine maps |
 | `dmc/hlsdk/` | Half-Life SDK |
 | `dmc/amxmodx-plugins/` | AMX Mod X plugins |
-| `quake/maps/bsp/` | 6 526 loose Quake 1 maps (.bsp) |
+| `quake/maps/bsp/` | 6 543 loose Quake 1 maps (.bsp) |
 | `quake/maps/single-map-zips/` | 3 331 single-map zips with their readme .txt files |
 | `quake/maps/packs/` | Map packs (incl. the 1 GB deathmatch-maps.zip, Rocket Arena maps) |
 | `quake/mods/` | Rocket Arena 1.2 (client + server), Clan Arena X, 3Wave CTF, Team Fortress, hook mods, QE mods … |
 | `quake/qc-source/` | QuakeC and engine source: id's q1source, progs 1.06, CRMod, clean QC … |
-| `quake/engines/` | FTE, QuakeSpasm, QuakeWorld 2.30, ezQuake builds, Quake 1.08, QuakePatches |
+| `quake/engines/` | FTE, QuakeSpasm, QuakeWorld 2.30, Quake 1.08, QuakePatches |
 | `quake/server/` | QWAdmin, KTX, QTV, qsmack, qvote, admin mods, mission-pack qwprogs |
 | `quake/tools/` | Editors (TrenchBroom, BSP, QuArK, Qoole), compilers (ericw-tools, tyrutils, fteqcc), pak tools, launchers |
 | `quake/sounds/` | Announcer packs (Quake 3, Unreal Tournament) and game sounds |
 | `quake/textures/` | Texture WADs |
 | `other-games/` | Quake 2 maps (65), Quake 3 maps and Doom files that ended up in the collection |
-| `misc/` | Unrelated installers kept as they were found (VSCode, .NET, JRE …) |
 | `tools/` | Scripts that built this layout, the catalog and the map renders |
 | `assets/` | Banner and map images for this page |
 
@@ -285,6 +276,23 @@ Regenerate the catalog with `python3 tools/catalog.py .` from the archive root.
 </details>
 
 ---
+
+## 🔒 Not in the public dataset
+
+A few files from the collection are kept private and are **not** part of
+this dataset:
+
+- **The full version of Quake.** Three personal ezQuake/nQuake installs
+  contained id Software's commercial game data (`id1/pak1.pak`). The game is
+  still sold, so it is not shared here. Buy Quake (Steam or GOG) and use its
+  `id1` folder with any engine in `quake/engines/`. The maps from those
+  installs that were not already in the collection were added to
+  `quake/maps/bsp/`.
+- **Unrelated installers** (Java, VSCode, .NET SDK and similar), which are not
+  Quake content.
+- **One infected file.** A ClamAV scan of every file, including everything
+  inside archives, found one virus (`Win.Virus.Sality` in a GameRanger
+  installer, not Quake content); it was removed. Everything else scanned clean.
 
 ## ⚖️ Rights
 

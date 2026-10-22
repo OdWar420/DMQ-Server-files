@@ -71,10 +71,8 @@ watrways.bsp,quake/maps/bsp/watrways.bsp,,Quake 1,,,709
 watrwrks.bsp,quake/maps/bsp/watrwrks.bsp,,Quake 1,No Name,,1847
 wattow.bsp,quake/maps/bsp/wattow.bsp,,Quake 1,Watch Tower,,520
 wattow.bsp,quake/maps/single-map-zips/wattow.zip,maps/wattow.bsp,Quake 1,Watch Tower,,520
-way2ez.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/way2ez.bsp,Quake 1,Mission Impossible,,432
 way2ez.bsp,quake/maps/bsp/way2ez.bsp,,Quake 1,Mission Impossible,,432
 way2ez.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/way2ez.bsp,Quake 1,Mission Impossible,,432
-way2ez2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/way2ez2.bsp,Quake 1,Mission Impossible 2,,1209
 way2ez2.bsp,quake/maps/bsp/way2ez2.bsp,,Quake 1,Mission Impossible 2,,1209
 way2ez2.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/way2ez2.bsp,Quake 1,Mission Impossible 2,,1209
 wc.bsp,quake/maps/bsp/wc.bsp,,Quake 1,The Cavern of Gibs !!!,,1240
@@ -121,10 +119,8 @@ weighty.bsp,quake/maps/single-map-zips/weighty.zip,maps/weighty.bsp,Quake 1,Weig
 weird.bsp,quake/maps/bsp/weird.bsp,,Quake 1,weird fort,,458
 well.bsp,quake/maps/bsp/well.bsp,,Quake 1,The Well of Lost Souls,,1470
 well1.bsp,quake/maps/bsp/well1.bsp,,Quake 1,The_Well,,1953
-well1on1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/well1on1.bsp,Quake 1,well1on1 by [REV6]Freebie,,297
 well1on1.bsp,quake/maps/bsp/well1on1.bsp,,Quake 1,well1on1 by [REV6]Freebie,,297
 well2k.bsp,quake/maps/bsp/well2k.bsp,,Quake 1,The Well,,1916
-well6.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/well6.bsp,Quake 1,The Well,,1849
 well6.bsp,quake/maps/bsp/well6.bsp,,Quake 1,The Well Mega,,1916
 well6.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/well6.bsp,Quake 1,The Well Mega,,1916
 well6l.bsp,quake/maps/bsp/well6l.bsp,,Quake 1,The Well Prematch Edition By [SS] Gunther,,1922
@@ -182,7 +178,6 @@ windtwn3.bsp,quake/maps/bsp/windtwn3.bsp,,Quake 1,==Wind Town v3 [Golden War!]==
 winter.bsp,quake/maps/bsp/winter.bsp,,Quake 1,skull keep,,1758
 winter1.bsp,quake/maps/bsp/winter1.bsp,,Quake 1,A Winter's Find,,715
 winter1.bsp,quake/maps/single-map-zips/winter1.zip,maps/winter1.bsp,Quake 1,A Winter's Find,,715
-winter2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/winter2.bsp,Quake 1,A Winter's Find,,682
 winter2.bsp,quake/maps/bsp/winter2.bsp,,Quake 1,A Winter's Find,,682
 winter2.bsp,quake/maps/single-map-zips/winter2.zip,maps/winter2.bsp,Quake 1,A Winter's Find,ray (tigger-om-maps),682
 winter5.bsp,quake/maps/bsp/winter5.bsp,,Quake 1,illhaven winter,,1579

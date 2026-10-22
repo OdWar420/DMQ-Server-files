@@ -1,6 +1,5 @@
 map_file,location,path_inside_archive,format,title,author,size_kb
 p33rmapc.bsp,quake/maps/bsp/p33rmapc.bsp,,Quake 1,3on3fort remake by crap f/ P33r & Freebie,,666
-p3a.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/p3a.bsp,Quake 1,p3:adomination by Pingu,,542
 p3a.bsp,quake/maps/bsp/p3a.bsp,,Quake 1,p3:adomination by Pingu,,542
 p3a.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/p3a.bsp,Quake 1,p3:adomination by Pingu,,542
 p3a.bsp,quake/maps/packs/quakeone_maps.zip,p3a.bsp,Quake 1,p3:adomination by Pingu,,542
@@ -231,10 +230,8 @@ pipes.bsp,quake/maps/bsp/pipes.bsp,,Quake 1,,,378
 pipes.bsp,quake/maps/single-map-zips/pipes.zip,maps/pipes.bsp,Quake 1,,,378
 pipeupb67.bsp,quake/maps/bsp/pipeupb67.bsp,,Quake 1,Pipe Up! by foogs,,1072
 pirates.bsp,quake/maps/bsp/pirates.bsp,,Quake 1,,,657
-pit.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/pit.bsp,Quake 1,The Pit,,276
 pit.bsp,quake/maps/bsp/pit.bsp,,Quake 1,The Pit,,240
 pit.bsp,quake/maps/single-map-zips/pit.zip,maps/pit.bsp,Quake 1,The Pit,Jon Seigel,240
-pit2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/pit2.bsp,Quake 1,The Pit II,,299
 pit2.bsp,quake/maps/bsp/pit2.bsp,,Quake 1,The Pit II,,299
 pitarena.bsp,quake/maps/bsp/pitarena.bsp,,Quake 1,The Pit Arena - by Scooby,,209
 pjump.bsp,quake/maps/bsp/pjump.bsp,,Quake 1,--== Pipe Jump ==-- By Mikey Heymikey@home.com,,554
@@ -275,7 +272,6 @@ pkc01.bsp,quake/maps/bsp/pkc01.bsp,,Quake 1,Hickoru's Lair Painkeep Custom Map S
 pkc01.bsp,quake/maps/single-map-zips/pkc01.zip,maps/pkc01.bsp,Quake 1,Hickoru's Lair Painkeep Custom Map Series By Gearbox,,1109
 pkeg.bsp,quake/maps/bsp/pkeg.bsp,,Quake 1,powder keg by MrFribbleS modified by qurnel http://www.planetquake.com/frib/,,450
 pkeg.bsp,quake/maps/single-map-zips/pkeg.zip,maps/pkeg.bsp,Quake 1,powder keg by MrFribbleS modified by qurnel http://www.planetquake.com/frib/,,450
-pkeg1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/pkeg1.bsp,Quake 1,powder keg by MrFribbleS http://www.planetquake.com/frib/,,355
 pkeg1.bsp,quake/maps/bsp/pkeg1.bsp,,Quake 1,powder keg by MrFribbleS http://www.planetquake.com/frib/,,355
 pkeg1.bsp,quake/maps/packs/quake1.zip,pkeg1.bsp,Quake 1,powder keg by MrFribbleS http://www.planetquake.com/frib/,,355
 pkeg1.bsp,quake/maps/single-map-zips/pkeg1.zip,maps/pkeg1.bsp,Quake 1,powder keg by MrFribbleS http://www.planetquake.com/frib/,,355
@@ -407,8 +403,6 @@ plumb24.bsp,quake/maps/bsp/plumb24.bsp,,Quake 1,plumber's nightmare...,,835
 plumb24.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/plumb24.bsp,Quake 1,plumber's nightmare...,,835
 plumb24.bsp,quake/maps/single-map-zips/plumb24.zip,maps/plumb24.bsp,Quake 1,plumber's nightmare...,,835
 plygrnd2.bsp,quake/maps/bsp/plygrnd2.bsp,,Quake 1,,,379
-pm4.bsp,quake/engines/bpsQuake2019-06-10.rar,qw/maps/pm4.bsp,,,,435
-pm4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/pm4.bsp,Quake 1,The Big Bad Place,,442
 pm4.bsp,quake/maps/bsp/pm4.bsp,,Quake 1,The Big Bad Place,,442
 pm4.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/pm4.bsp,Quake 1,The Big Bad Place,,442
 pm4.bsp,quake/maps/packs/sm4_plus_pm4.rar,pm4.bsp,,,,435
@@ -468,12 +462,10 @@ pov4.bsp,quake/maps/bsp/pov4.bsp,,Quake 1,"POV4, 'Pool' - By Alice",,452
 pov5.bsp,quake/maps/bsp/pov5.bsp,,Quake 1,"POV5, 'Culvert' - By Alice",,838
 pov6.bsp,quake/maps/bsp/pov6.bsp,,Quake 1,"POV6, 'Turbine' - By Alice",,1092
 pov7.bsp,quake/maps/bsp/pov7.bsp,,Quake 1,"POV7, 'Ball' - By Alice",,573
-povdmm4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/povdmm4.bsp,Quake 1,DMM4 Arena By Povo-Hat (http://povo-hat.besmella-quake.com),,127
 povdmm4.bsp,quake/maps/bsp/povdmm4.bsp,,Quake 1,DMM4 Arena By Povo-Hat (http://povo-hat.besmella-quake.com),,127
 povdmm4.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/povdmm4.bsp,Quake 1,DMM4 Arena By Povo-Hat (http://povo-hat.besmella-quake.com),,127
 povdmm4.bsp,quake/maps/single-map-zips/povdmm4.zip,maps/povdmm4.bsp,Quake 1,DMM4 Arena By Povo-Hat (http://povo-hat.besmella-quake.com),,127
 povdmm4a.bsp,quake/maps/bsp/povdmm4a.bsp,,Quake 1,DMM4 Arena Povo-Hat re-make by Zedii,,122
-povdmm4b.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/povdmm4b.bsp,Quake 1,DMM4 Arena LG-Only Povo-Hat by Zedii,,130
 povdmm4b.bsp,quake/maps/bsp/povdmm4b.bsp,,Quake 1,DMM4 Arena LG-Only Povo-Hat by Zedii,,130
 povdmm4b.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/povdmm4b.bsp,Quake 1,DMM4 Arena LG-Only Povo-Hat by Zedii,,130
 povhop02.bsp,quake/maps/bsp/povhop02.bsp,,Quake 1,PvHt's H0pping Race BETA 02,,1289
@@ -514,7 +506,6 @@ primedm.bsp,quake/maps/single-map-zips/primedm.zip,maps/primedm.bsp,Quake 1,Prim
 prison.bsp,quake/maps/bsp/prison.bsp,,Quake 1,Prison DM by: Messiah[gB] messiah11@mindless.com,,825
 prison.bsp,quake/maps/single-map-zips/prison.zip,maps/prison.bsp,Quake 1,Prison DM by: Messiah[gB] messiah11@mindless.com,,825
 prison2.bsp,quake/maps/bsp/prison2.bsp,,Quake 1,Prison ][ By: DukeNukem,,1545
-pro-dm4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/pro-dm4.bsp,Quake 1,The Bad Place Rebirth By Tronus,,506
 pro-dm4.bsp,quake/maps/bsp/pro-dm4.bsp,,Quake 1,The Bad Place Rebirth By Tronus,,506
 pro-dm4.bsp,quake/maps/single-map-zips/pro-dm4.zip,maps/pro-dm4.bsp,Quake 1,The Bad Place Rebirth By Tronus,,506
 pro_dmq.bsp,quake/maps/bsp/pro_dmq.bsp,,Quake 1,pro_dmq,,480
@@ -555,7 +546,7 @@ ptucket.bsp,quake/maps/bsp/ptucket.bsp,,Quake 1,Pawtucket Palladium,,299
 puffroom.bsp,quake/maps/bsp/puffroom.bsp,,Quake 1,Whackdown - Inspired by PuFF,,79
 puffroomr.bsp,quake/maps/bsp/puffroomr.bsp,,Quake 1,Whackdown - Inspired by PuFF,,79
 pugfort.bsp,quake/maps/bsp/pugfort.bsp,,Quake 1,Pug Forts design by Aftershock,,1072
-pukareia.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/pukareia.bsp,Quake 1,Pukareia,,709
+pukareia.bsp,quake/maps/bsp/pukareia.bsp,,Quake 1,Pukareia,,709
 pumpstat.bsp,quake/maps/bsp/pumpstat.bsp,,Quake 1,The Pump Station.,,1379
 punish.bsp,quake/maps/bsp/punish.bsp,,Quake 1,PunishmentbyCopy,,444
 punish.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/punish.bsp,Quake 1,PunishmentbyCopy,,444

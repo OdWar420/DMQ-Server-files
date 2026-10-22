@@ -9,18 +9,14 @@ ra.bsp,quake/maps/bsp/ra.bsp,,Quake 1,Entering JONLEVEL,,520
 ra1.bsp,quake/maps/bsp/ra1.bsp,,Quake 1,The Mosh Pit - By Rotpig,,406
 ra2.bsp,quake/maps/bsp/ra2.bsp,,Quake 1,,,2568
 ra_funkf.bsp,quake/maps/bsp/ra_funkf.bsp,,Quake 1,Funkadooda's Revenge,,379
-race1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race1.bsp,Quake 1,Pillars by anni (March 2011),,198
 race1.bsp,quake/maps/bsp/race1.bsp,,Quake 1,Pillars by anni (March 2011),,198
 race1.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race1.bsp,Quake 1,Pillars by anni (March 2011),,198
-race10.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race10.bsp,Quake 1,Place of Death by anni (March 2012),,2230
 race10.bsp,quake/maps/bsp/race10.bsp,,Quake 1,Place of Death by anni (March 2012),,2230
 race10.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race10.bsp,Quake 1,Place of Death by anni (March 2012),,2230
-race11-alpha5.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race11-alpha5.bsp,Quake 1,Slider (Oct 2016),,724
-race11.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race11.bsp,Quake 1,Slider (Oct 2016),,3260
+race11-alpha5.bsp,quake/maps/bsp/race11-alpha5.bsp,,Quake 1,Slider (Oct 2016),,724
 race11.bsp,quake/maps/bsp/race11.bsp,,Quake 1,Slider (Oct 2016),,3260
 race11.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race11.bsp,Quake 1,Slider (Oct 2016),,3260
-race12-alpha8.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race12-alpha8.bsp,Quake 1,Just in time by anni (Feb 2017),,2143
-race12.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race12.bsp,Quake 1,Just in time by anni (Feb 2017),,3876
+race12-alpha8.bsp,quake/maps/bsp/race12-alpha8.bsp,,Quake 1,Just in time by anni (Feb 2017),,2143
 race12.bsp,quake/maps/bsp/race12.bsp,,Quake 1,Just in time by anni (Feb 2017),,3876
 race12.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race12.bsp,Quake 1,Just in time by anni (Feb 2017),,3876
 race13.bsp,quake/maps/bsp/race13.bsp,,Quake 1,Nuclear Reactor by anni (Jan 2018),,3049
@@ -31,27 +27,20 @@ race15.bsp,quake/maps/bsp/race15.bsp,,Quake 1,Abandoned Place by anni (Febuary 2
 race15.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race15.bsp,Quake 1,Abandoned Place by anni (Febuary 2020),,3424
 race16.bsp,quake/maps/bsp/race16.bsp,,Quake 1,Sewerage by anni (Okt 2020),,8522
 race17_sdcup.bsp,quake/maps/bsp/race17_sdcup.bsp,,Quake 1,anubis in hurry by anni (Apr 2021),,1803
-race2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race2.bsp,Quake 1,Waste Warehouse by anni (March 2011),,700
 race2.bsp,quake/maps/bsp/race2.bsp,,Quake 1,Waste Warehouse by anni (March 2011),,700
 race2.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race2.bsp,Quake 1,Waste Warehouse by anni (March 2011),,700
-race3.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race3.bsp,Quake 1,The Cube by anni (March 2011),,159
 race3.bsp,quake/maps/bsp/race3.bsp,,Quake 1,The Cube by anni (March 2011),,159
 race3.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race3.bsp,Quake 1,The Cube by anni (March 2011),,159
-race4.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race4.bsp,Quake 1,Curve Control by anni (March 2011),,303
 race4.bsp,quake/maps/bsp/race4.bsp,,Quake 1,Curve Control by anni (March 2011),,303
 race4.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race4.bsp,Quake 1,Curve Control by anni (March 2011),,303
-race5.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race5.bsp,Quake 1,Spin Cycle by anni (March 2011),,214
 race5.bsp,quake/maps/bsp/race5.bsp,,Quake 1,Spin Cycle by anni (March 2011),,214
 race5.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race5.bsp,Quake 1,Spin Cycle by anni (March 2011),,214
-race6.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race6.bsp,Quake 1,The Tube by anni (April 2011),,659
 race6.bsp,quake/maps/bsp/race6.bsp,,Quake 1,The Tube by anni (April 2011),,659
 race6.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race6.bsp,Quake 1,The Tube by anni (April 2011),,659
-race7.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race7.bsp,Quake 1,Upslider by anni (April 2011),,408
 race7.bsp,quake/maps/bsp/race7.bsp,,Quake 1,Upslider by anni (April 2011),,408
 race7.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race7.bsp,Quake 1,Upslider by anni (April 2011),,408
 race8.bsp,quake/maps/bsp/race8.bsp,,Quake 1,Canyon Run by anni (April 2011),,471
 race8.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race8.bsp,Quake 1,Canyon Run by anni (April 2011),,471
-race9.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/race9.bsp,Quake 1,Forgotten Path by anni (January 2012),,1121
 race9.bsp,quake/maps/bsp/race9.bsp,,Quake 1,Forgotten Path by anni (January 2012),,1121
 race9.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/race9.bsp,Quake 1,Forgotten Path by anni (January 2012),,1121
 racecity.bsp,quake/maps/bsp/racecity.bsp,,Quake 1,Racing City,,1249
@@ -98,7 +87,6 @@ rarena2.bsp,quake/maps/single-map-zips/rarena2.zip,maps/rarena2.bsp,Quake 1,Rage
 rarena3.bsp,quake/maps/bsp/rarena3.bsp,,Quake 1,Rage Arena by Nacho|rage,,189
 rarena3.bsp,quake/maps/single-map-zips/rarena3.zip,maps/rarena3.bsp,Quake 1,Rage Arena by Nacho|rage,,189
 rarena5.bsp,quake/maps/bsp/rarena5.bsp,,Quake 1,AQC Tournament Center,,615
-rash.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/rash.bsp,Quake 1,Rocket Rash!,,333
 rash.bsp,quake/maps/bsp/rash.bsp,,Quake 1,Rocket Rash!,,333
 rash.bsp,quake/maps/single-map-zips/rash.zip,maps/rash.bsp,Quake 1,Rocket Rash!,Ben Damon,333
 rasv1.bsp,quake/maps/bsp/rasv1.bsp,,Quake 1,RASV1-Punish.by.Copy,,444
@@ -131,7 +119,6 @@ ravageb6.bsp,quake/maps/bsp/ravageb6.bsp,,Quake 1,Ravage by killat0n (foogs qw r
 ravageb7.bsp,quake/maps/bsp/ravageb7.bsp,,Quake 1,Ravage by killat0n (foogs qw remake),,1560
 rave_1.bsp,quake/maps/bsp/rave_1.bsp,,Quake 1,Escape - Ray Dahlia,,1120
 rave_1.bsp,quake/maps/single-map-zips/rave_1.zip,maps/rave_1.bsp,Quake 1,Escape - Ray Dahlia,"Ray Dahlia ""Raven""",1120
-rawspeed.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/rawspeed.bsp,Quake 1,,,399
 rawspeed.bsp,quake/maps/bsp/rawspeed.bsp,,Quake 1,,,399
 rawspeed.bsp,quake/maps/single-map-zips/rawspeed.zip,maps/rawspeed.bsp,Quake 1,,,399
 rawvoc2.bsp,quake/maps/bsp/rawvoc2.bsp,,Quake 1,Rawvoc2 build 5 RawHide's Havoc 2 rawhide@evans.dropbear.id.au,,758
@@ -219,7 +206,6 @@ redlight.bsp,quake/maps/bsp/redlight.bsp,,Quake 1,Red Light District,,1243
 redlight.bsp,quake/maps/single-map-zips/redlight.zip,maps/redlight.bsp,Quake 1,Red Light District,Enric Alvarez,1243
 redm5b1.bsp,quake/maps/bsp/redm5b1.bsp,,Quake 1,The Cistern,,447
 redm5b2.bsp,quake/maps/bsp/redm5b2.bsp,,Quake 1,The Cistern,,446
-redmasq.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/redmasq.bsp,Quake 1,Red Masquerade,,539
 redmasq.bsp,quake/maps/bsp/redmasq.bsp,,Quake 1,Red Masquerade,,539
 redmasq.bsp,quake/maps/single-map-zips/redmasq.zip,maps/redmasq.bsp,Quake 1,Red Masquerade,,539
 redpit.bsp,quake/maps/bsp/redpit.bsp,,Quake 1,Entering JONLEVEL,,307
@@ -287,11 +273,9 @@ reznor.bsp,quake/maps/single-map-zips/reznor.zip,maps/reznor.bsp,Quake 1,reznor,
 rf.bsp,quake/maps/bsp/rf.bsp,,Quake 1,Rediscovered Fantasies,,745
 rf.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/rf.bsp,Quake 1,Rediscovered Fantasies by Pingu,,744
 rf.bsp,quake/maps/single-map-zips/rf.zip,maps/rf.bsp,Quake 1,Rediscovered Fantasies,,745
-rf2.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/rf2.bsp,Quake 1,rustedfactory2byQurneL,,806
 rf2.bsp,quake/maps/bsp/rf2.bsp,,Quake 1,rustedfactory2byQurneL,,806
 rf2.bsp,quake/maps/packs/quakeone_maps.zip,rf2.bsp,Quake 1,rustedfactory2byQurneL,,806
 rf2.bsp,quake/maps/single-map-zips/rf2.zip,maps/rf2.bsp,Quake 1,rustedfactory2byQurneL,,806
-rf2test.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/rf2test.bsp,Quake 1,rustedfactory2byQurneL,,808
 rf2test.bsp,quake/maps/bsp/rf2test.bsp,,Quake 1,rustedfactory2byQurneL,,808
 rf2test.bsp,quake/maps/single-map-zips/rf2test.zip,maps/rf2test.bsp,Quake 1,rustedfactory2byQurneL,,808
 rfactory.bsp,quake/maps/bsp/rfactory.bsp,,Quake 1,rustedfactorybyQurneL,,980
@@ -710,7 +694,6 @@ rqmbase.bsp,quake/maps/single-map-zips/rqmbase.zip,maps/rqmbase.bsp,Quake 1,Rick
 rqnitro.bsp,other-games/quake2/maps/rqnitro.bsp,,Quake 2,,,1029
 rs.bsp,quake/maps/bsp/rs.bsp,,Quake 1,Rocket School,,658
 rs.bsp,quake/maps/single-map-zips/rs.zip,maps/rs.bsp,Quake 1,Rocket School,Aaron Heidel (_madman),658
-rs_zz1.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/rs_zz1.bsp,Quake 1,ZigZag1 By RS Brasseye and RS Zarjazz,,758
 rs_zz1.bsp,quake/maps/bsp/rs_zz1.bsp,,Quake 1,ZigZag1 By RS Brasseye and RS Zarjazz,,758
 rssk8c.bsp,quake/maps/bsp/rssk8c.bsp,,Quake 1,Skater's Paradise  By roRShack  Digital Underdogs http://www.fatorcaos.com.br/dog,,636
 rssk8c.bsp,quake/maps/single-map-zips/rssk8c.zip,maps/rssk8c.bsp,Quake 1,Skater's Paradise  By roRShack  Digital Underdogs http://www.fatorcaos.com.br/dog,,636
@@ -760,7 +743,6 @@ rvbdm1.bsp,quake/maps/single-map-zips/rvbdm1.zip,maps/rvbdm1.bsp,Quake 1,The Ete
 rvbdm2.bsp,quake/maps/bsp/rvbdm2.bsp,,Quake 1,Hydrophobolis by RvB,,602
 rvbdm2.bsp,quake/maps/single-map-zips/rvbdm2.zip,maps/rvbdm2.bsp,Quake 1,Hydrophobolis by RvB,,602
 rwa1.bsp,quake/maps/bsp/rwa1.bsp,,Quake 1,Bridge to Fire,,684
-rwild.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/rwild.bsp,Quake 1,runningwildbyqurnel,,565
 rwild.bsp,quake/maps/bsp/rwild.bsp,,Quake 1,runningwildbyqurnel,,565
 rwild.bsp,quake/maps/packs/maphub-maps-aug2020.zip,bsps/rwild.bsp,Quake 1,runningwildbyqurnel,,565
 rwild.bsp,quake/maps/single-map-zips/rwild.zip,maps/rwild.bsp,Quake 1,runningwildbyqurnel,,565

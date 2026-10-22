@@ -9,7 +9,6 @@ v2s.bsp,quake/maps/single-map-zips/v2s.zip,maps/v2s.bsp,Quake 1,ViolencE  Silenc
 v4forts.bsp,quake/maps/bsp/v4forts.bsp,,Quake 1,,,679
 v4forts.bsp,quake/maps/packs/onlinemaps mixed bundle.tgz,maps/v4forts.bsp,Quake 1,,,679
 v4forts.bsp,quake/maps/single-map-zips/v4forts.zip,maps/v4forts.bsp,Quake 1,,,679
-v_kjump.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/v_kjump.bsp,Quake 1,Jumper by Viper_KillerGuy,,871
 v_kjump.bsp,quake/maps/bsp/v_kjump.bsp,,Quake 1,Jumper by Viper_KillerGuy,,871
 v_kjump2.bsp,quake/maps/bsp/v_kjump2.bsp,,Quake 1,Jumper nr. 2 by Viper_KillerGuy,,906
 valhalla.bsp,quake/maps/bsp/valhalla.bsp,,Quake 1,Valhalla : By Skleros,,512
@@ -18,7 +17,6 @@ van.bsp,quake/maps/bsp/van.bsp,,Quake 1,,,373
 van.bsp,quake/maps/single-map-zips/van.zip,maps/van.bsp,Quake 1,Van Down By the River: A Tribute to Chris Farley,Warren Wyszomirski,304
 vanguard.bsp,quake/maps/bsp/vanguard.bsp,,Quake 1,vanguard spectacle,,491
 vanguard.bsp,quake/maps/single-map-zips/vanguard.zip,maps/vanguard.bsp,Quake 1,vanguard spectacle,"Larry Herring ""Rocketman""",491
-vaporize_beta03.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/qw/maps/vaporize_beta03.bsp,Quake 1,vaporize [beta 03] by foogs - 24 bit textures (a must) : http://tinyurl.com/7cuf2oz : contact me @ #telefrag.me on,,1442
 vaporize_beta03.bsp,quake/maps/bsp/vaporize_beta03.bsp,,Quake 1,vaporize [beta 03] by foogs - 24 bit textures (a must) : http://tinyurl.com/7cuf2oz : contact me @ #telefrag.me on,,1442
 vaporize_beta03.bsp,quake/maps/single-map-zips/vaporize_beta03.zip,maps/vaporize_beta03.bsp,Quake 1,vaporize [beta 03] by foogs - 24 bit textures (a must) : http://tinyurl.com/7cuf2oz : contact me @ #telefrag.me on,,1442
 vaporize_beta103.bsp,quake/maps/bsp/vaporize_beta103.bsp,,Quake 1,vaporize [beta 03] by foogs - 24 bit textures (a must) : http://tinyurl.com/7cuf2oz : contact me @ #telefrag.me on,,1040
@@ -123,7 +121,6 @@ vote04w.bsp,quake/maps/bsp/vote04w.bsp,,Quake 1,QUAKETOTAL TF Vote! mapa atualiz
 vote05w.bsp,quake/maps/bsp/vote05w.bsp,,Quake 1,WNET QUAKE TOTAL TF Vote! mapa atualizado em 04/09/03 URL: www.quaketotal.com.br,,206
 vote1.bsp,quake/maps/bsp/vote1.bsp,,Quake 1,Vote! by Sgt.Thundercok,,555
 vote20.bsp,quake/maps/bsp/vote20.bsp,,Quake 1,vote20 - version 1.27 shoot the door to your favorite map ! door_001 - adjmpvb3 door_002 - cj1 door_003 - cjump1r door_004 - demorox5 door_005 - demorox6 door_006 - engjumps door_007 - extrj2b3 door_008 - medic door_009 - pipejump door_010 - pjumpv1 door_011 - povhop02 door_012 - povmed2 door_013 - rck3tpro door_014 - rcktjump door_015 - rj3 door_016 - rjextb03 door_017 - rjmpadvf2 door_018 - rjproadcf door_019 - skywardf door_020 - xtrmrjb1,,367
-vote40.bsp,quake/engines/locke_nQuake_till_bp.zip,nQuake_till_bp/fortress/maps/vote40.bsp,Quake 1,Vote40! by Sgt.Thundercok --Running ThunderVote--,,907
 vote40.bsp,quake/maps/bsp/vote40.bsp,,Quake 1,Vote40! by Sgt.Thundercok --Running ThunderVote--,,907
 vote50.bsp,quake/maps/bsp/vote50.bsp,,Quake 1,VOTE50 v1.0a by Jean-Guy Poulin j_poulin.tripod.com/vote50,,1105
 votemap.bsp,quake/maps/bsp/votemap.bsp,,Quake 1,,,14
