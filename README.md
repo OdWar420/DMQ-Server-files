@@ -10,6 +10,30 @@ and personal backups and preserved in one place.
   maps inside archives, with the in-game title read from the BSP file
 - **Find anything inside a zip/rar/7z:** [catalog/archive-contents.csv](catalog/archive-contents.csv)
 
+## In memory of PIX
+
+**DMQ 2 exists because of PIX.** He wrote most of its code on his own, building
+on DMC Pro by TrenD*KilleR, and the DMQ servers this archive comes from ran on
+his work. Every map rotation, every vote and every duel in `dmq/` traces back
+to what he built.
+
+To the people who played DMQ he was more than a name in a readme. He was a
+friend from another country: someone you knew through the game, never met in
+person, and faced in more matches than anyone could count. PIX struggled with
+inner demons, and in the end they got to him.
+
+This archive is kept in his honour. His source code is preserved unchanged in
+[`dmq/source/dmq2-source-2/`](dmq/source/dmq2-source-2/), with these words
+added at the top of its readme:
+
+> Memorial for PIX, the legend that was a god in coding, that did most of the
+> coding for DMQ2 alone, but sadly PIX had inner demons, and the demons won :(
+> Everytime Quake is on my mind I think about you old friend!
+> Rest in peace PIX!
+> &nbsp;-Billy
+
+**Rest in peace, PIX.**
+
 ## What is on GitHub and what is on Hugging Face
 
 This GitHub repository holds the catalog, the scripts and the two source
@@ -54,10 +78,6 @@ old path to the new one, so anything can be traced back to where it was found.
 13 byte-identical duplicates were dropped during sorting.
 
 The catalog is generated: run `python3 tools/catalog.py .` from the archive root.
-
-## In memory of PIX
-
-PIX wrote most of the DMQ 2 code alone. See `dmq/source/dmq2-source-2/readme.txt`.
 
 ## Rights
 
